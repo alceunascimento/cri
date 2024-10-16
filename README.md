@@ -96,7 +96,7 @@ Portanto, é necessário que a informação esteja contida neste instrumento.
 Em resumo, o documento precisa ter:
 * Discriminação: designação numérica ou alfabética da unidade autônoma;
 * Descrição e Caracterização: as caracteríticas observáveis da unidade autônoma;
-* Destinação: uso habitacional ou não habitacional;
+* Destinação: residencial ou não residencial;
 
 >[!NOTE]
 > Quando a lei indica `discriminação` e `destinção`: Pela legislação de referência: *Art. 1º As edificações ou conjuntos de edificações, de um ou mais pavimentos, construídos sob a forma de unidades isoladas entre si, ***destinadas a fins residenciais ou não-residenciais***, poderão ser alienados, no todo ou em parte, objetivamente considerados, e constituirá, cada unidade, propriedade autônoma sujeita às limitações desta Lei. § 1º Cada unidade será assinalada por ***designação especial, numérica ou alfabética, para efeitos de identificação e discriminação***.*
