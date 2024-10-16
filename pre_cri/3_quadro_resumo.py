@@ -3,7 +3,7 @@ import sqlite3
 import re
 
 # Caminho para o arquivo Excel
-workbook_path = './data/base_real_ajustada.xlsx'
+workbook_path = './pre_cri/base_real_ajustada.xlsx'
 sheet_name = 'quadro_resumo'
 
 # Função para desagregar as unidades em uma lista de números ou strings
@@ -84,7 +84,7 @@ for unidade_tipo, grupo in df_expanded.groupby('unidade_tipo'):
         raise ValueError(f"Erro de validação: {unidade_tipo} deveria ter {quantidade_esperada} unidades, mas tem {quantidade_real} unidades.")
 
 # Criar conexão com o banco de dados SQLite
-conn = sqlite3.connect('base_real.db')
+conn = sqlite3.connect('./pre_cri/base_real.db')
 
 # Criar a tabela `quadro_resumo` no banco de dados
 df_expanded.to_sql('quadro_resumo', conn, if_exists='replace', index=False)

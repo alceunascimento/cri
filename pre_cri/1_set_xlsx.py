@@ -2,10 +2,10 @@ import pandas as pd
 import sqlite3
 
 # Carregar a pasta de trabalho
-workbook_path = './data/base_real_ajustada.xlsx'
+workbook_path = './pre_cri/base_real_ajustada.xlsx'
 
 # Criar um banco de dados SQLite
-conn = sqlite3.connect('base_real.db')
+conn = sqlite3.connect('./pre_cri/base_real.db')
 
 # Definindo um dicionário para armazenar as abas e os dataframes correspondentes
 sheet_names = [

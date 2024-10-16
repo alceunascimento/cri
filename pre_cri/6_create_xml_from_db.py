@@ -2,7 +2,7 @@ import sqlite3
 import xml.etree.ElementTree as ET
 
 # Conectar ao banco de dados SQLite
-conn = sqlite3.connect('base_real.db')
+conn = sqlite3.connect('./pre_cri/base_real.db')
 cursor = conn.cursor()
 
 # Criar o elemento raiz do XML
@@ -40,6 +40,6 @@ conn.close()
 
 # Converter o ElementTree em uma string e salvar em um arquivo XML
 tree = ET.ElementTree(root)
-tree.write('base_real.xml', encoding='utf-8', xml_declaration=True)
+tree.write('./pre_cri/base_real.xml', encoding='utf-8', xml_declaration=True)
 
 print("Arquivo XML gerado com sucesso: base_real.xml")

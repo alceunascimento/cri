@@ -6,17 +6,20 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Lista de arquivos para execução em ordem
 scripts = [
-    "set_xlsx.py",
-    "1_create_aba01_insert_data.py",
-    "2_.py",
-    "4A_.py",
-    "4B_.py",
-    "5_.py",
-    "6_.py",
-    "7_.py",
-    "8_.py",
-    "9_create_xml_from_db.py",
-    "10_xml_to_xlxs.py"
+    "1_set_xlsx.py",
+    "2_quadro01.py",
+    "2_quadro02.py",
+    "2_quadro04A.py",
+    "2_quadro04B.py",
+    "2_quadro05.py",
+    "2_quadro06.py",
+    "2_quadro07.py",
+    "2_quadro08.py",
+    "3_quadro_resumo.py",
+    "4_alvara_criar.py",
+    "4_alvara_popular.py",
+    "5_tabela_cri.py",
+    "6_create_xml_from_db.py"
 ]
 
 # Executar cada script

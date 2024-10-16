@@ -2,14 +2,14 @@ import json
 import sqlite3
 
 # Caminho para o arquivo JSON
-json_file_path = './data/alvara.json'
+json_file_path = './pre_cri/alvara.json'
 
 # Carregar os dados do JSON
 with open(json_file_path, 'r', encoding='utf-8') as file:
     data = json.load(file)
 
 # Criar uma conexão com o banco de dados SQLite
-conn = sqlite3.connect('base_real.db')
+conn = sqlite3.connect('./pre_cri/base_real.db')
 c = conn.cursor()
 
 # Inserir os dados do JSON na tabela `alvara`

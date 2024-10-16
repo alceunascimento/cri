@@ -3,7 +3,7 @@ import sqlite3
 import re
 
 # Conectar ao banco de dados SQLite
-conn = sqlite3.connect('base_real.db')
+conn = sqlite3.connect('./pre_cri/base_real.db')
 
 # Ler a tabela 'quadro_resumo' do banco de dados
 df = pd.read_sql_query("SELECT * FROM quadro_resumo", conn)

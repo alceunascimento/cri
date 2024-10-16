@@ -8,7 +8,7 @@ log_file = 'log_leitura_xml.txt'
 sys.stdout = open(log_file, 'w')
 
 # Carregar o XML
-file_path = 'base_real_assinado.xml'
+file_path = 'base_real.xml'
 tree = ET.parse(file_path)
 root = tree.getroot()
 
@@ -40,7 +40,10 @@ for table in root.findall('.//Tabela'):
 
     # Tentar converter as colunas para tipos numéricos quando possível
     for col in df.columns:
-        df[col] = pd.to_numeric(df[col], errors='ignore')
+        try:
+            df[col] = pd.to_numeric(df[col])
+        except ValueError:
+            print(f"Coluna '{col}' não foi convertida para numérico devido a valores incompatíveis.")
     
     dataframes[table_name] = df
 
@@ -65,8 +68,10 @@ for table_name, dataframe in dataframes.items():
     dataframe.to_sql(table_name, conn, if_exists='replace', index=False)
     print(f"Tabela '{table_name}' inserida no banco de dados SQLite com sucesso.")
 
+
 # Fechar a conexão com o banco de dados
 conn.close()
+
 
 # Fechar o arquivo de log
 sys.stdout.close()
