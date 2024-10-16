@@ -47,9 +47,9 @@ Além disto, o `.xml` permite assinatura digital por certificado ICP-BRASIL e a 
 ## Racionalização do procedimento
 
 Outro ponto importante, foi a racionalização do procedimento.
-A prática dos incorporadores e CRI se desenvolveu com excesso de burocracia, sem previsão na legislação e na norma técnica.
-O memorial de incorporação, que é a biblioteca documental prevista na lei, passou a ser quase integralmente replicado em um novo documento, chamado "Memorial de Incorporação" que agrega dados contidos no alvará, no registro imobiliário e nos Quadros de Área NBR.
-Além disto, os Quadros de Área da NBR eram incrementados com um "quadro resumo" que replicava informações de outros quadros e do alvará de construção.
+A prática do procedimento se desenvolveu com excesso de burocracia, sem previsão na legislação e na norma técnica.
+O memorial de incorporação, que é a biblioteca documental prevista na lei, passou a ser quase integralmente replicado pelo incorporador em um novo documento, chamado "Memorial de Incorporação" que agrega dados contidos no alvará, no registro imobiliário e nos Quadros de Área NBR.
+Além disto, os Quadros de Área da NBR foram incrementados com um "quadro resumo" que replicava informações de outros quadros e do alvará de construção.
 Isto implica que os mesmos dados estavam distribuídos em diversas bases, o que forçada o CRI a ter que analisar discrepâncias entre as bases de dados.
 Portanto, uma forma de racionalizar isto é deixar este legado e passar a adotar um formato em que não há duplicidade de informação, que é o formato previso na lei de incorporação imobiliária.
 
@@ -93,14 +93,23 @@ O fato de haver a apuração de uma fração ideal de solo nos Quadros de Área 
 Contudo, a maioria dos incorporadores adota esta fração ideal, evitando uma nova apuração.
 Portanto, é necessário que a informação esteja contida neste instrumento.
 
+Em resumo, o documento precisa ter:
+* Discriminação: designação numérica ou alfabética da unidade autônoma;
+* Descrição e Caracterização: as caracteríticas observáveis da unidade autônoma;
+* Destinação: uso habitacional ou não habitacional;
+
+>[!NOTE]
+> Quando a lei indica `discriminação` e `destinção`: Pela legislação de referência: *Art. 1º As edificações ou conjuntos de edificações, de um ou mais pavimentos, construídos sob a forma de unidades isoladas entre si, ***destinadas a fins residenciais ou não-residenciais***, poderão ser alienados, no todo ou em parte, objetivamente considerados, e constituirá, cada unidade, propriedade autônoma sujeita às limitações desta Lei. § 1º Cada unidade será assinalada por ***designação especial, numérica ou alfabética, para efeitos de identificação e discriminação***.*
+
+>[!NOTE]
+> Quando a lei indica `Descrição e Caracterização` : dada a ausência de definição na legislação de referência, a prática adotou indicar as áreas construídas, a fração ideal no solo e nas partes comuns e a localização (por pavimento e por confrontantes). O conceito de "área construida" não está presente na legislação de referência, o ideal seria adotar o conceito da legislação urbanística, onde *"A área construída de uma edificação é toda área coberta, independentemente de sua destinação, com pé-direito acima de 1,80m, composta de áreas computáveis e não computáveis, incentivos e prêmios"* (CURITIBA. Decreto nº 2.397/23, art. 12.)
+
+
 Estes dados estarão no `memorial descritivo` contendo a descrição de cada unidade autônoma.
 Todos os dados para a confecçaõ do `memorial descritivo` estão na tabela `cri` do banco de dados.
 O `memorial descritivo` será gerado pelo CRI, a partir dos dados do banco de dados.
 A apresentação de um documento específico `memorial descritivo` iriá minar o esforço de racionalização.
 
-
->[!NOTE]
-> Quando a lei indica `discriminação` : Art. 1º As edificações ou conjuntos de edificações, de um ou mais pavimentos, construídos sob a forma de unidades isoladas entre si, destinadas a fins residenciais ou não-residenciais, poderão ser alienados, no todo ou em parte, objetivamente considerados, e constituirá, cada unidade, propriedade autônoma sujeita às limitações desta Lei. § 1º Cada unidade será assinalada por designação especial, numérica ou alfabética, para efeitos de identificação e discriminação...
 
 ### Quanto ao item j : convenção de condomínio
 Estes dados estarão no documento PDF "Convenção de Condomínio".
