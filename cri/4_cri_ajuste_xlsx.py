@@ -1,8 +1,8 @@
 from spire.xls import Workbook, ExcelVersion
 
 # Definir o arquivo de entrada e o arquivo de saída
-inputFile = "tabelas_completas.xlsx"
-outputFile = "tabelas_completas_com_cabecalho_paisagem.xlsx"
+inputFile = "./cri/tabelas_completas.xlsx"
+outputFile = "./cri/tabelas_completas_com_cabecalho_paisagem.xlsx"
 
 # Criar um objeto da classe Workbook
 workbook = Workbook()

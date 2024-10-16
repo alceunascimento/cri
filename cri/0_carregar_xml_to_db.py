@@ -8,7 +8,7 @@ log_file = 'log_leitura_xml.txt'
 sys.stdout = open(log_file, 'w')
 
 # Carregar o XML
-file_path = 'base_real.xml'
+file_path = './cri/base_real.xml'
 tree = ET.parse(file_path)
 root = tree.getroot()
 
@@ -48,7 +48,7 @@ for table in root.findall('.//Tabela'):
     dataframes[table_name] = df
 
 # Criar um banco de dados SQLite e conectar a ele
-db_path = 'base_cri.db'
+db_path = './cri/base_cri.db'
 conn = sqlite3.connect(db_path)
 
 # Verificar quantas tabelas foram encontradas no XML

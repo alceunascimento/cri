@@ -3,7 +3,7 @@ import re
 import sqlite3
 
 # Conectar ao banco de dados SQLite
-db_path = 'base_cri.db'
+db_path = './cri/base_cri.db'
 conn = sqlite3.connect(db_path)
 
 try:
@@ -36,14 +36,14 @@ for table_name, columns in tables_info.items():
 df_tables_info = pd.DataFrame(tables_info_list)
 
 # Salvar as informações em um arquivo Excel
-output_file = 'informacoes_tabelas.xlsx'
+output_file = './cri/informacoes_tabelas.xlsx'
 df_tables_info.to_excel(output_file, index=False)
 
 print(f"Informações das tabelas salvas no arquivo '{output_file}' com sucesso.")
 
 
 # Carregar o arquivo Excel com as informações das tabelas
-df = pd.read_excel('informacoes_tabelas.xlsx')
+df = pd.read_excel('./cri/informacoes_tabelas.xlsx')
 
 # Verificar se a coluna 'nome_variavel' existe
 if 'Variável' not in df.columns:
@@ -61,4 +61,4 @@ def ajustar_nome_variavel(nome):
 df['para'] = df['Variável'].apply(ajustar_nome_variavel)
 
 # Salvar o arquivo Excel com a nova coluna 'para'
-df.to_excel('informacoes_tabelas_ajustadas.xlsx', index=False)
+df.to_excel('./cri/informacoes_tabelas_ajustadas.xlsx', index=False)
