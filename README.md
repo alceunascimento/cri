@@ -135,41 +135,36 @@ Texto para validar:
 
 
 ## Implementação 
-A implementação se dará em duas etapas:
+A implementação se dará por dois agentes:
 
-* 1ª (mínima): 
-    - O incorporador produzirá um banco de dados em `SQLite` com:
-        - todos os Quadro de Áreas da ABNT NBR;
-        - os dados do alvará de construção;
-        - os dados da matrícula do imóvel;
-        - os dados para formação do indicador real de cada unidade autônoma da incorporação imobiliária;
-    - O incorporador emitirá um `.xml` do banco de dados e assinará usando o assinador SERPRO para `.xml`;
-    - O incorporadora fará o protocolo do `.xml` no CRI em conjunto com os demais documentos da incorporação que ainda são físicos;
-    - O registrador executará um código de computador (`python`) que irá:
-        - carregar o `.xml` e recriar um banco de dados `SQlite` (`.db`) (emitirá uma saída de log e verificação de erros em `.txt`);
-        - obter os dados do alvará de construção direto na prefeitura (o alvará será salvo em formato `.json`);
-        - analisar os dados e responder uma série de perguntar pré-definidas pelo registrador (saída em `.txt` e arquivo `.xlsx`);
-        - criar uma planilha de Excel (`.xlsx`) contendo os Quadros de Área ABNT NBR, no formato tradicional;
-        - criar uma arquivo em `.html` contendo o memorial descritivo de cada uma das unidades autônomas;
-    - O registrador, após validar a incorporação, poderá utilizar o `.xml` para popular o livro do Indicador Real, atraves do seu ERP;
-
-> Notas: as últimas duas saídas (.xlsx e .html) servem apenas para o registrador ter um formato capaz de emitir de certidões para leitura humana. O .html poderá ser convertido em PDF diretamente pelas ferramentas padrão do Windows, caso necessário.
+### Pelo incorporador:
+- O incorporador produzirá um banco de dados em `SQLite` com:
+    - todos os Quadro de Áreas da ABNT NBR;
+    - os dados do alvará de construção;
+    - os dados da matrícula do imóvel;
+    - os dados para formação do indicador real de cada unidade autônoma da incorporação imobiliária;
+- O incorporador emitirá um `.xml` do banco de dados e assinará usando o assinador SERPRO para `.xml`;
+- O incorporadora fará o protocolo do `.xml` no CRI em conjunto com os demais documentos da incorporação que ainda são físicos;
 
 
+### Pelo registrador:
 
-* 2ª (ideal): 
-    - O incorporador produzirá um banco de dados (SQLite) com todas as informações;
-    - O incorporador emitirá e assinará um XML com os dados que o registrador precisa para registrar a incorporação (quadro de áreas NBR e memorial de incorporação);
-    - O XML será protocolado no CRI em conjunto com os demais documentos da incorporação;
-    - O XML será lido por um sistema que irá:
-        - Emitir um relatório de análise de validação dos dados (integridade de quantitativos);
-        - Emitir o Quadro de Áreas em formato PDF (caso seja necessário para expedição de certidões);
-        - Emitir o Memorial de Incorporação em formato PDF (caso seja necessário para expedição de certidões);
-    - Um script carregará os dados do XML no banco de dados do CRI;
-    - O XML será arquivado como um título normal;
+- O registrador executará um código de computador (`python`) que irá:
+    - carregar o `.xml` e recriar um banco de dados `SQlite` (`.db`);
+        - (emitirá uma saída de log e verificação de erros em `.txt`);
+    - obter os dados do alvará de construção direto na prefeitura;
+        - (o alvará será salvo em formato `.json`);
+    - analisar os dados e responder uma série de perguntar pré-definidas pelo registrador 
+        - (saída em `.txt` e arquivo `.xlsx`);
+    - criar uma planilha de Excel (`.xlsx`) contendo os Quadros de Área ABNT NBR
+        - (no formato tradicional);
+    - criar uma arquivo em `.html` contendo o memorial descritivo de cada uma das unidades autônomas;
+        - (adotará o formato ONR para "extrato de xml")
+- O registrador, após validar a incorporação, poderá utilizar o `.xml` para popular o livro do Indicador Real, atraves do seu ERP;
 
->[!NOTE]
-> A mudança mais radical é que a geração do quadro de áreas e do memorial de incorporação num formato de leitura humana será feito pelo registrador e não entregue pelo incorporador. Se fossem protocolados os dois formatos (XML e PDF) não haveria ganho de eficiência, pois o CRI teria que conferir se os dois instrumentos são idênticos. Não se está deixando de apresentar o quadro de áreas e o memorial, mas sim apresentando num formato (layout) de leitura por máquinas. No longo prazo, a ABNT terá que desenvolver um schema de XML para este formato.
+> Notas: as últimas duas saídas (`.xlsx` e `.html`) servem apenas para o registrador ter um formato capaz de emitir de certidões para leitura humana. O .html poderá ser convertido em PDF diretamente pelas ferramentas padrão do Windows, caso necessário.
+
+A mudança mais radical é que a geração do quadro de áreas e do memorial de incorporação num formato de leitura humana será feito pelo registrador e não entregue pelo incorporador. Se fossem protocolados os dois formatos (`.xml` e `.pdf`) não haveria ganho de eficiência, pois o CRI teria que conferir se os dois instrumentos são idênticos. Não se está deixando de apresentar o quadro de áreas e o memorial descritivo, mas sim apresentando num formato ("layout") de leitura por máquinas. No longo prazo, a ABNT terá que desenvolver um schema de `.xml` para este formato.
 
 
 ## Instruções
