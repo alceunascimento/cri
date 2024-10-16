@@ -9,6 +9,7 @@ scripts = [
     "1_set_xlsx.py",
     "2_quadro01.py",
     "2_quadro02.py",
+    "2_quadro03.py",
     "2_quadro04A.py",
     "2_quadro04B.py",
     "2_quadro05.py",
