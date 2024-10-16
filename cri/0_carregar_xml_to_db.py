@@ -4,7 +4,7 @@ import sqlite3
 import sys
 
 # Redirecionar a saída para um arquivo de log
-log_file = 'log_leitura_xml.txt'
+log_file = './cri/log_leitura_xml.txt'
 sys.stdout = open(log_file, 'w')
 
 # Carregar o XML

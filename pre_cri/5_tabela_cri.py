@@ -25,6 +25,9 @@ def definir_especie_imovel_doi(especie):
     else:
         return 'outros'
 
+# Ler a aba 01 da planilha `base_real_confrontantes`
+df_confrontantes = pd.read_excel('./pre_cri/base_real_confrontantes.xlsx', sheet_name='01')
+
 # Criar o DataFrame para a tabela "cri"
 df_cri = pd.DataFrame()
 df_cri['unidade_numero'] = df['unidade_numero']
@@ -77,6 +80,18 @@ df_cri['especie_imovel_doi'] = df_cri['especie_unidade'].apply(definir_especie_i
 
 # Incluir a variável "situacao_obra_doi" na última coluna e preencher com "em construção"
 df_cri['situacao_obra_doi'] = 'em construção'
+
+# Mapear as variáveis 'pavimento' e 'confrontacoes' da planilha de confrontantes
+for index, row in df_cri.iterrows():
+    unidade_numero = row['unidade_numero']
+    confrontante_info = df_confrontantes[df_confrontantes['unidade_numero'] == unidade_numero]
+    
+    if not confrontante_info.empty:
+        df_cri.at[index, 'pavimento'] = confrontante_info['pavimento'].values[0]
+        df_cri.at[index, 'confrontacao_frente'] = confrontante_info['confrontacao_frente'].values[0]
+        df_cri.at[index, 'confrontacao_direita'] = confrontante_info['confrontacao_direita'].values[0]
+        df_cri.at[index, 'confrontacao_esquerda'] = confrontante_info['confrontacao_esquerda'].values[0]
+        df_cri.at[index, 'confrontacao_fundos'] = confrontante_info['confrontacao_fundos'].values[0]
 
 # Criar a tabela `cri` no banco de dados
 df_cri.to_sql('cri', conn, if_exists='replace', index=False)
