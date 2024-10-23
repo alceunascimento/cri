@@ -1,87 +1,87 @@
 {
-    "Número do Documento:": "394371",
+    "Número do Documento:": "405847",
     "Tipo do Documento:": "Folha do Alvará",
     "Finalidade:": "Construção",
-    "Interessado:": "AMAZ EMPREENDIMENTOS IMOBILIARIOS S.A.",
-    "Localização:": "RUA PADRE AGOSTINHO, 1159",
+    "Interessado:": "IPBL CARLOS DE CARVALHO INCORPORACAO DE IMOVEIS SPE LTDA",
+    "Localização:": "RUA CRUZ MACHADO, 555",
     "Inscrição Imobiliária:": "",
-    "Indicação Fiscal:": "13.025.030",
+    "Indicação Fiscal:": "11.109.032",
     "Autor Projeto:": {
-        "Nome": "RICARDO ALESSANDRINI AMARAL",
-        "Número ART/RRT:": "12899235"
+        "Nome": "FLAVIO APPEL SCHIAVON",
+        "Número ART/RRT:": "14243362"
     },
     "Responsável Técnico:": {
-        "Nome": "ROBERTO BRAZ THA",
-        "Número ART/RRT:": "1720231682275"
+        "Nome": "WILLIAN MATHEUS BERNSDORF",
+        "Número ART/RRT:": "1720245504595"
     },
-    "Construtora:": "12899235",
-    "Limite Início Obra:": "20/09/2023",
-    "Limite Conclusão Obra:": "21/06/2026",
-    "Processo de Emissão do Alvará:": "00-026305/2022",
-    "Data Expedição da Primeira Emissão:": "22/06/2023",
-    "Condicionantes para Vistoria de Conclusão de Obras:": "- Comprovar quitação de cotas da certidão nº 1022 (processo nº 00-002208/2023) junto à SMU (tramite interno); \n- Comprovar quitação de cotas da certidão nº 1013 (processo nº 00-034087/2022) junto à SMU (tramite interno); \n- Comprovar quitação de cotas da certidão nº 1020 (processo nº 00-005593/2023) junto à SMU (tramite interno); \n- Apresentar RGRCC - RELATÓRIO de Gerenciamento de RESÍDUOS DA CONSTRUÇÃO CIVIL emitido e deferido pela SMMA;\n- Apresentar CVC - Certificado de Vistoria de Conclusão de Obras quanto às restrições ambientais emitido e deferido pela SMMA;\n- Termo da SMOP/OPO quanto execução do projeto de drenagem superficial e mecanismo de contenção de cheias;\n- Laudo da SMOP/OPO quanto faixa não edificável de drenagem - FNED;\n-  Apresentar Certificado do Corpo de Bombeiros para fins de CVCO; \n- Certidão de demolição referente aos alvarás nº 32976B, 379559, 379561 e 382276;\n- Executar dispositivos utilizados para o uso e conservação racional da água nas edificações, conforme dec. 1007/2020;\n- Laudo da Sanepar quanto a destinação correta do esgoto;\n- Regularidade quanto ao recolhimento do ISS sobre a mão de obra de execução  (Leis Complementares nº 40/01 e nº 80/11)\n- Quitação das taxas de vistoria;",
-    "Observações Folha Alvará:": "- Nas quadras em que o passeio estiver executado em CBUQ pela PMC, este padrão de material deverá ser mantido;A APROVAÇÃO DO PROJETO SIMPLIFICADO NÃO ISENTA OS PROFISSIONAIS DA ELABORAÇÃO DO PROJETO ARQUITETÔNICO COMPLETO, DOS PROJETOS COMPLEMENTARES E DA NECESSIDADE DE COMPATIBILIZAÇÃO ENTRE ELES",
+    "Construtora:": "14243362",
+    "Limite Início Obra:": "21/01/2025",
+    "Limite Conclusão Obra:": "23/10/2027",
+    "Processo de Emissão do Alvará:": "00-017052/2024",
+    "Data Expedição da Primeira Emissão:": "23/10/2024",
+    "Condicionantes para Vistoria de Conclusão de Obras:": "- Comprovar quitação de cotas da certidão nº 1130 (processo nº 00-030882/2024) junto à SMU (tramite interno); \n- Apresentar RGRCC - RELATÓRIO de Gerenciamento de RESÍDUOS DA CONSTRUÇÃO CIVIL emitido e deferido pela SMMA;\n- Termo da SMOP/OPO quanto a execução do mecanismo de contenção de cheias;\n-  Apresentar Certificado do Corpo de Bombeiros para fins de CVCO; \n- Laudo da SETRAN quanto aos acessos, regularização do remanso e projeto de sinalização vertical e horizontal;\n- Executar dispositivos utilizados para o uso e conservação racional da água nas edificações, conforme dec. 1007/2020;\n- Laudo da Sanepar quanto a destinação correta do esgoto;\n- Regularidade quanto ao recolhimento do ISS sobre a mão de obra de execução  (Leis Complementares nº 40/01 e nº 80/11)\n- Quitação das taxas de vistoria;",
+    "Observações Folha Alvará:": "- Coeficiente de aproveitamento: 7,0 calculado em relação à área original do lote, considerando que a área atingida foi transferida à PMC - Protocolo 00-019933/2024, nos termos do Artigo 226 da Lei 15.511/2019- Aprovado nos termos do decreto 2397/2023;- Ficam proprietário e responsável técnico cientes da obrigatoriedade em atender a nova Lei 15.837/2021 que dispõe sobre o bloqueio de janelas e varandas nas áreas de uso comum dos condomínios verticais.A APROVAÇÃO DO PROJETO SIMPLIFICADO NÃO ISENTA OS PROFISSIONAIS DA ELABORAÇÃO DO PROJETO ARQUITETÔNICO COMPLETO, DOS PROJETOS COMPLEMENTARES E DA NECESSIDADE DE COMPATIBILIZAÇÃO ENTRE ELES",
     "DadosLote": {
-        "Indicação Fiscal": "13.025.030",
-        "Zoneamento": "ZONA RESIDENCIAL 3 TRANSIÇÃO - MERCÊS - ZR3-T",
-        "Sistema Viário": "PRIORITÁRIA",
-        "Quadrícula": "J-10"
+        "Indicação Fiscal": "11.109.032",
+        "Zoneamento": "ZONA CENTRAL - ZC",
+        "Sistema Viário": "NORMAL",
+        "Quadrícula": "J-12"
     },
-    "Área Atingida:": "0.00",
-    "Área Remanescente:": "3519.69",
-    "Área Total (m2):": "3519.69",
-    "Área Original do Lote (m2):": "0.00",
+    "Área Atingida:": "0,00",
+    "Área Remanescente:": "3.231,16",
+    "Área Total (m2):": "3.231,16",
+    "Área Original do Lote (m2):": "0,00",
     "Coeficiente de Aproveitamento Aprovado:": "",
     "Número de CEPACs:": "0",
-    "ACA-Área de Construção Adicional (m2):": "0.00",
-    "Qtde de Pavimentos:": "8",
+    "ACA-Área de Construção Adicional (m2):": "0,00",
+    "Qtde de Pavimentos:": "33",
     "Qtde de Elevadores:": "",
     "Qtde de Subsolos:": "",
-    "Extenção do Muro Frontal:": "0.00",
+    "Extenção do Muro Frontal:": "0,00",
     "Qtde de Blocos:": "",
-    "Referência de Nível do Lote-rn(m):": "921.00",
-    "Qtde Vagas Estac. Coberto:": "147",
-    "Altura total da Edificação(m):": "40.82",
+    "Referência de Nível do Lote-rn(m):": "898,39",
+    "Qtde Vagas Estac. Coberto:": "257",
+    "Altura total da Edificação(m):": "121,40",
     "Qtde Vagas Estac. Descoberto:": "",
     "DadosEdificacao": {
         "Uso/Subuso da Edificação": "Habitação Coletiva-******",
         "Qtde Unidades": "1",
-        "Área Total Destinada ao Uso": "16627.42",
+        "Área Total Destinada ao Uso": "11.686,21",
         "Estrutura / Vedação": "Alvenaria"
     },
     "Áreas Computáveis (m2)": {
-        "Anterior / Existente:": "0.00",
-        "A Demolir / Suprimir:": "0.00",
-        "Pavimento Térreo:": "0.00",
-        "Outros Pavimentos:": "0.00",
-        "Total:": "8728.11"
+        "Anterior / Existente:": "0,00",
+        "A Demolir / Suprimir:": "0,00",
+        "Pavimento Térreo:": "0,00",
+        "Outros Pavimentos:": "0,00",
+        "Total:": "23.710,12"
     },
     "Áreas Não Computáveis (m2)": {
-        "Anterior / Existente:": "0.00",
-        "A Demolir / Suprimir:": "0.00",
-        "Subsolo:": "0.00",
-        "Sótão:": "0.00",
-        "Ático:": "0.00",
-        "Outras Áreas:": "0.00",
-        "Total:": "7899.31"
+        "Anterior / Existente:": "0,00",
+        "A Demolir / Suprimir:": "0,00",
+        "Subsolo:": "0,00",
+        "Sótão:": "0,00",
+        "Ático:": "0,00",
+        "Outras Áreas:": "0,00",
+        "Total:": "23.152,58"
     },
     "Áreas De Recreção (m2)": {
-        "Coberta / Existente:": "1495.56",
-        "Descoberta:": "0.00",
-        "Total:": "1495.56"
+        "Coberta / Existente:": "3.081,36",
+        "Descoberta:": "0,00",
+        "Total:": "3.081,36"
     },
     "Outras Áreas (m2)": {
-        "Projeção da Edificação:": "1271.27",
-        "Área de Reforma:": "0.00",
-        "Área a Liberar:": "16627.42",
-        "Total Global:": "16627.42",
-        "Área Anteriormente Aprovada:": "0.00"
+        "Projeção da Edificação:": "2.942,74",
+        "Área de Reforma:": "0,00",
+        "Área a Liberar:": "54.781,50",
+        "Total Global:": "54.781,50",
+        "Área Anteriormente Aprovada:": "0,00"
     },
     "Parâmentros Do Zoneamento": {
-        "Permeabilidade do Lote (%):": "15.53",
-        "Taxa de Ocupação do Lote:": "36.12",
-        "Coeficiente de Aprov. Lote:": "2.48",
-        "Taxa de Ocupação da Torre:": "0.00",
-        "Densidade do Lote (Hab./Hect.):": "127.00"
+        "Permeabilidade do Lote (%):": "0,00",
+        "Taxa de Ocupação do Lote:": "91,07",
+        "Coeficiente de Aprov. Lote:": "7,34",
+        "Taxa de Ocupação da Torre:": "0,00",
+        "Densidade do Lote (Hab./Hect.):": "2.729,00"
     }
 }

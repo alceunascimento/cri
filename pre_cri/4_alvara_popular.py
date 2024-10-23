@@ -121,6 +121,7 @@ c.execute('''
     data["Parâmentros Do Zoneamento"].get("Densidade do Lote (Hab./Hect.):")
 ))
 
+
 # Commitar as mudanças e fechar a conexão
 conn.commit()
 conn.close()
