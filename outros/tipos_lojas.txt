@@ -1,0 +1,56 @@
+
+            LOJA 01: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 1, 
+            possuindo área privativa de 423.53999999999996 metros quadrados, área comum de 10.814574 metros quadrados, 
+            perfazendo uma área total construída de 434.35457399999996 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.2079733825732502, fração ideal de solo no condomínio de 0.00895419 
+            e quota de terreno de 28.932421 metros quadrados.
+            
+
+            LOJA 02: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 2, 
+            possuindo área privativa de 348.76 metros quadrados, área comum de 8.905167 metros quadrados, 
+            perfazendo uma área total construída de 357.665167 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.17125387590147373, fração ideal de solo no condomínio de 0.00737325 
+            e quota de terreno de 23.82415 metros quadrados.
+            
+
+            LOJA 03: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 3, 
+            possuindo área privativa de 67.26 metros quadrados, área comum de 1.717396 metros quadrados, 
+            perfazendo uma área total construída de 68.977396 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.033026977435575845, fração ideal de solo no condomínio de 0.00142196 
+            e quota de terreno de 4.59458 metros quadrados.
+            
+
+            LOJA 04: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 4, 
+            possuindo área privativa de 27.09 metros quadrados, área comum de 0.691712 metros quadrados, 
+            perfazendo uma área total construída de 27.781712 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.013302209989664264, fração ideal de solo no condomínio de 0.00057272 
+            e quota de terreno de 1.85055 metros quadrados.
+            
+
+            LOJA 05: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 5, 
+            possuindo área privativa de 38.18 metros quadrados, área comum de 0.974885 metros quadrados, 
+            perfazendo uma área total construída de 39.154885 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.01874786607671672, fração ideal de solo no condomínio de 0.00080718 
+            e quota de terreno de 2.608128 metros quadrados.
+            
+
+            LOJA 06: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 6, 
+            possuindo área privativa de 28.73 metros quadrados, área comum de 0.733586 metros quadrados, 
+            perfazendo uma área total construída de 29.463586 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.014107468441161784, fração ideal de solo no condomínio de 0.00060739 
+            e quota de terreno de 1.962574 metros quadrados.
+            
+
+            LOJA 07: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 7, 
+            possuindo área privativa de 523.81 metros quadrados, área comum de 13.374847 metros quadrados, 
+            perfazendo uma área total construída de 537.184847 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.257209583202685, fração ideal de solo no condomínio de 0.01107403 
+            e quota de terreno de 35.781963 metros quadrados.
+            
+
+            LOJA 08: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 8, 
+            possuindo área privativa de 579.14 metros quadrados, área comum de 14.787632 metros quadrados, 
+            perfazendo uma área total construída de 593.927632 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.2843786363794725, fração ideal de solo no condomínio de 0.01224378 
+            e quota de terreno de 39.561612 metros quadrados.
+            

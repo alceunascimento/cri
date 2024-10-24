@@ -1,0 +1,203 @@
+
+            APARTAMENTO 1: 22 unidades, correspondentes aos apartamentos nº 301, 319, 401, 419, 501, 519, 619, 719, 819, 919, 1019, 1101, 1119, 1201, 1219, 1301, 1319, 1401, 1419, 1519, 1619, 1719, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.6 metros quadrados, 
+            área comum de 14.106770000000001 metros quadrados, perfazendo a área construída de 42.706770000000006 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009672958091144842, fração ideal de solo no condomínio de 0.00083474 
+            e quota de terreno de 2.697178 metros quadrados. Possuindo ainda uma área comum descoberta de 1.265358 metros quadrados
+            
+
+            APARTAMENTO 10: 10 unidades, correspondentes aos apartamentos nº 310, 329, 410, 429, 510, 529, 1510, 1529, 1610, 1629, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 24.730000000000004 metros quadrados, 
+            área comum de 12.231809 metros quadrados, perfazendo a área construída de 36.961809 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.000838727069122089, fração ideal de solo no condomínio de 0.00072379 
+            e quota de terreno de 2.338681 metros quadrados. Possuindo ainda uma área comum descoberta de 1.097172 metros quadrados
+            
+
+            APARTAMENTO 11: 28 unidades, correspondentes aos apartamentos nº 311, 312, 330, 331, 411, 412, 430, 431, 511, 512, 530, 531, 612, 631, 712, 731, 812, 831, 2112, 2131, 2212, 2231, 2312, 2331, 2412, 2431, 2512, 2531, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 24.28 metros quadrados, 
+            área comum de 12.020097999999999 metros quadrados, perfazendo a área construída de 36.300098 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008242073186749983, fração ideal de solo no condomínio de 0.00071126 
+            e quota de terreno de 2.298195 metros quadrados. Possuindo ainda uma área comum descoberta de 1.078179 metros quadrados
+            
+
+            APARTAMENTO 12: 16 unidades, correspondentes aos apartamentos nº 609, 628, 709, 728, 809, 828, 2109, 2128, 2209, 2228, 2309, 2328, 2409, 2428, 2509, 2528, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.88 metros quadrados, 
+            área comum de 18.537103000000002 metros quadrados, perfazendo a área construída de 56.417103000000004 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.001271074945563393, fração ideal de solo no condomínio de 0.00109689 
+            e quota de terreno de 3.544227 metros quadrados. Possuindo ainda uma área comum descoberta de 1.662744 metros quadrados
+            
+
+            APARTAMENTO 13: 16 unidades, correspondentes aos apartamentos nº 611, 630, 711, 730, 811, 830, 2111, 2130, 2211, 2230, 2311, 2330, 2411, 2430, 2511, 2530, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.14 metros quadrados, 
+            área comum de 18.20151 metros quadrados, perfazendo a área construída de 55.34151 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0012480611990447002, fração ideal de solo no condomínio de 0.00107703 
+            e quota de terreno de 3.480056 metros quadrados. Possuindo ainda uma área comum descoberta de 1.632639 metros quadrados
+            
+
+            APARTAMENTO 14: 28 unidades, correspondentes aos apartamentos nº 908, 927, 1008, 1027, 1108, 1127, 1208, 1227, 1308, 1327, 1408, 1427, 1508, 1509, 1527, 1528, 1608, 1609, 1627, 1628, 1708, 1727, 1808, 1827, 1908, 1927, 2008, 2027, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 25.370000000000005 metros quadrados, 
+            área comum de 12.559660000000001 metros quadrados, perfazendo a área construída de 37.929660000000005 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008612077681383347, fração ideal de solo no condomínio de 0.00074319 
+            e quota de terreno de 2.401366 metros quadrados. Possuindo ainda uma área comum descoberta de 1.12658 metros quadrados
+            
+
+            APARTAMENTO 15: 20 unidades, correspondentes aos apartamentos nº 909, 928, 1009, 1028, 1109, 1128, 1209, 1228, 1309, 1328, 1409, 1428, 1709, 1728, 1809, 1828, 1909, 1928, 2009, 2028, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.65 metros quadrados, 
+            área comum de 18.446486 metros quadrados, perfazendo a área construída de 56.096486 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0012648637833609663, fração ideal de solo no condomínio de 0.00109153 
+            e quota de terreno de 3.526908 metros quadrados. Possuindo ainda uma área comum descoberta de 1.654619 metros quadrados
+            
+
+            APARTAMENTO 16: 20 unidades, correspondentes aos apartamentos nº 911, 930, 1011, 1030, 1111, 1130, 1211, 1230, 1311, 1330, 1411, 1430, 1711, 1730, 1811, 1830, 1911, 1930, 2011, 2030, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.41 metros quadrados, 
+            área comum de 18.313448 metros quadrados, perfazendo a área construída de 55.723448 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.001255744035873448, fração ideal de solo no condomínio de 0.00108366 
+            e quota de terreno de 3.501479 metros quadrados. Possuindo ainda uma área comum descoberta de 1.642689 metros quadrados
+            
+
+            APARTAMENTO 17: 28 unidades, correspondentes aos apartamentos nº 912, 931, 1012, 1031, 1112, 1131, 1212, 1231, 1312, 1331, 1412, 1431, 1511, 1512, 1530, 1531, 1611, 1612, 1630, 1631, 1712, 1731, 1812, 1831, 1912, 1931, 2012, 2031, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 24.450000000000003 metros quadrados, 
+            área comum de 12.08518 metros quadrados, perfazendo a área construída de 36.535180000000004 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008286686945106965, fração ideal de solo no condomínio de 0.00071511 
+            e quota de terreno de 2.310635 metros quadrados. Possuindo ainda uma área comum descoberta de 1.084015 metros quadrados
+            
+
+            APARTAMENTO 18: 15 unidades, correspondentes aos apartamentos nº 1801, 1901, 2001, 2101, 2201, 2301, 2401, 2901, 2919, 3001, 3019, 3101, 3119, 3201, 3219, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 54.21 metros quadrados, 
+            área comum de 27.118889 metros quadrados, perfazendo a área construída de 81.328889 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0018595246242974013, fração ideal de solo no condomínio de 0.0016047 
+            e quota de terreno de 5.185042 metros quadrados. Possuindo ainda uma área comum descoberta de 2.4325200000000002 metros quadrados
+            
+
+            APARTAMENTO 19: 60 unidades, correspondentes aos apartamentos nº 1803, 1816, 1822, 1835, 1903, 1916, 1922, 1935, 2003, 2016, 2022, 2035, 2103, 2116, 2122, 2135, 2203, 2216, 2222, 2235, 2303, 2316, 2322, 2335, 2403, 2416, 2422, 2435, 2503, 2516, 2522, 2535, 2603, 2616, 2622, 2635, 2703, 2716, 2722, 2735, 2803, 2816, 2822, 2835, 2903, 2916, 2922, 2935, 3003, 3016, 3022, 3035, 3103, 3116, 3122, 3135, 3203, 3216, 3222, 3235, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 49.25 metros quadrados, 
+            área comum de 24.557056 metros quadrados, perfazendo a área construída de 73.807056 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0016838622962627263, fração ideal de solo no condomínio de 0.00145311 
+            e quota de terreno de 4.695231 metros quadrados. Possuindo ainda uma área comum descoberta de 2.202728 metros quadrados
+            
+
+            APARTAMENTO 2: 116 unidades, correspondentes aos apartamentos nº 302, 303, 315, 316, 321, 322, 334, 335, 402, 403, 415, 416, 421, 422, 434, 435, 502, 503, 515, 516, 521, 522, 534, 535, 603, 615, 616, 622, 634, 635, 703, 715, 716, 722, 734, 735, 803, 815, 816, 822, 834, 835, 903, 915, 916, 922, 934, 935, 1003, 1015, 1016, 1022, 1034, 1035, 1102, 1103, 1117, 1118, 1121, 1122, 1136, 1137, 1202, 1203, 1217, 1218, 1221, 1222, 1236, 1237, 1302, 1303, 1317, 1318, 1321, 1322, 1336, 1337, 1402, 1403, 1417, 1418, 1421, 1422, 1436, 1437, 1503, 1504, 1505, 1517, 1518, 1522, 1523, 1524, 1536, 1537, 1603, 1604, 1605, 1617, 1618, 1622, 1623, 1624, 1636, 1637, 1703, 1704, 1705, 1717, 1718, 1722, 1723, 1724, 1736, 1737, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 25.68 metros quadrados, 
+            área comum de 12.593784000000001 metros quadrados, perfazendo a área construída de 38.273784 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008635485419534283, fração ideal de solo no condomínio de 0.00074521 
+            e quota de terreno de 2.407893 metros quadrados. Possuindo ainda uma área comum descoberta de 1.129642 metros quadrados
+            
+
+            APARTAMENTO 20: 30 unidades, correspondentes aos apartamentos nº 1806, 1825, 1906, 1925, 2006, 2025, 2106, 2125, 2206, 2225, 2306, 2325, 2406, 2425, 2906, 2914, 2925, 2933, 3006, 3014, 3025, 3033, 3106, 3114, 3125, 3133, 3206, 3214, 3225, 3233, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 48.65 metros quadrados, 
+            área comum de 24.252871 metros quadrados, perfazendo a área construída de 72.902871 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.001663003915732189, fração ideal de solo no condomínio de 0.00143511 
+            e quota de terreno de 4.63707 metros quadrados. Possuindo ainda uma área comum descoberta de 2.175442 metros quadrados
+            
+
+            APARTAMENTO 21: 32 unidades, correspondentes aos apartamentos nº 1807, 1813, 1826, 1832, 1907, 1913, 1926, 1932, 2007, 2013, 2026, 2032, 2107, 2113, 2126, 2132, 2207, 2213, 2226, 2232, 2307, 2313, 2326, 2332, 2407, 2413, 2426, 2432, 2507, 2513, 2526, 2532, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.990000000000002 metros quadrados, 
+            área comum de 14.404283999999999 metros quadrados, perfazendo a área construída de 43.394284 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009876906700776763, fração ideal de solo no condomínio de 0.00085234 
+            e quota de terreno de 2.754047 metros quadrados. Possuindo ainda uma área comum descoberta de 1.292038 metros quadrados
+            
+
+            APARTAMENTO 22: 30 unidades, correspondentes aos apartamentos nº 1814, 1833, 1914, 1933, 2014, 2033, 2114, 2133, 2214, 2233, 2314, 2333, 2414, 2433, 2506, 2514, 2525, 2533, 2606, 2614, 2625, 2633, 2706, 2714, 2725, 2733, 2806, 2814, 2825, 2833, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 48.83 metros quadrados, 
+            área comum de 24.324382 metros quadrados, perfazendo a área construída de 73.154382 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0016679056351568654, fração ideal de solo no condomínio de 0.00143934 
+            e quota de terreno de 4.650738 metros quadrados. Possuindo ainda uma área comum descoberta de 2.181854 metros quadrados
+            
+
+            APARTAMENTO 23: 15 unidades, correspondentes aos apartamentos nº 1819, 1919, 2019, 2119, 2219, 2319, 2419, 2501, 2519, 2601, 2619, 2701, 2719, 2801, 2819, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 54.04 metros quadrados, 
+            área comum de 27.052615999999997 metros quadrados, perfazendo a área construída de 81.09261599999999 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0018549821325374177, fração ideal de solo no condomínio de 0.00160078 
+            e quota de terreno de 5.172376 metros quadrados. Possuindo ainda uma área comum descoberta de 2.426576 metros quadrados
+            
+
+            APARTAMENTO 24: 15 unidades, correspondentes aos apartamentos nº 1820, 1920, 2020, 2120, 2220, 2320, 2420, 2920, 2938, 3020, 3038, 3120, 3138, 3220, 3238, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 54.31 metros quadrados, 
+            área comum de 27.159291 metros quadrados, perfazendo a área construída de 81.469291 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0018622941537122894, fração ideal de solo no condomínio de 0.00160709 
+            e quota de terreno de 5.192765 metros quadrados. Possuindo ainda uma área comum descoberta de 2.436141 metros quadrados
+            
+
+            APARTAMENTO 25: 15 unidades, correspondentes aos apartamentos nº 1838, 1938, 2038, 2138, 2238, 2338, 2438, 2520, 2538, 2620, 2638, 2720, 2738, 2820, 2838, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 54.13 metros quadrados, 
+            área comum de 27.087781 metros quadrados, perfazendo a área construída de 81.217781 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.001857392434287613, fração ideal de solo no condomínio de 0.00160286 
+            e quota de terreno de 5.179097 metros quadrados. Possuindo ainda uma área comum descoberta de 2.429729 metros quadrados
+            
+
+            APARTAMENTO 26: 14 unidades, correspondentes aos apartamentos nº 2607, 2626, 2707, 2726, 2807, 2826, 2907, 2926, 3007, 3026, 3107, 3126, 3207, 3226, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 54.99 metros quadrados, 
+            área comum de 27.592900999999998 metros quadrados, perfazendo a área construída de 82.58290099999999 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0018920289339574888, fração ideal de solo no condomínio de 0.00163275 
+            e quota de terreno de 5.275676 metros quadrados. Possuindo ainda uma área comum descoberta de 2.475039 metros quadrados
+            
+
+            APARTAMENTO 27: 14 unidades, correspondentes aos apartamentos nº 2609, 2628, 2709, 2728, 2809, 2828, 2909, 2928, 3009, 3028, 3109, 3128, 3209, 3228, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.97 metros quadrados, 
+            área comum de 18.584417 metros quadrados, perfazendo a área construída de 56.554417 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0012743195825348098, fração ideal de solo no condomínio de 0.00109969 
+            e quota de terreno de 3.553274 metros quadrados. Possuindo ainda uma área comum descoberta de 1.666988 metros quadrados
+            
+
+            APARTAMENTO 28: 14 unidades, correspondentes aos apartamentos nº 2611, 2630, 2711, 2730, 2811, 2830, 2911, 2930, 3011, 3030, 3111, 3130, 3211, 3230, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 37.14 metros quadrados, 
+            área comum de 18.205194 metros quadrados, perfazendo a área construída de 55.345194 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.00124831613480674, fração ideal de solo no condomínio de 0.00107725 
+            e quota de terreno de 3.480767 metros quadrados. Possuindo ainda uma área comum descoberta de 1.632972 metros quadrados
+            
+
+            APARTAMENTO 29: 14 unidades, correspondentes aos apartamentos nº 2613, 2632, 2713, 2732, 2813, 2832, 2913, 2932, 3013, 3032, 3113, 3132, 3213, 3232, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 53.71000000000001 metros quadrados, 
+            área comum de 26.970073999999997 metros quadrados, perfazendo a área construída de 80.680074 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0018493156058266218, fração ideal de solo no condomínio de 0.00159589 
+            e quota de terreno de 5.156576 metros quadrados. Possuindo ainda uma área comum descoberta de 2.419164 metros quadrados
+            
+
+            APARTAMENTO 3: 124 unidades, correspondentes aos apartamentos nº 304, 305, 317, 318, 323, 324, 336, 337, 404, 405, 417, 418, 423, 424, 436, 437, 504, 505, 517, 518, 523, 524, 536, 537, 602, 604, 605, 617, 618, 621, 623, 624, 636, 637, 702, 704, 705, 717, 718, 721, 723, 724, 736, 737, 802, 804, 805, 817, 818, 821, 823, 824, 836, 837, 902, 904, 905, 917, 918, 921, 923, 924, 936, 937, 1002, 1004, 1005, 1017, 1018, 1021, 1023, 1024, 1036, 1037, 1104, 1105, 1115, 1116, 1123, 1124, 1134, 1135, 1204, 1205, 1215, 1216, 1223, 1224, 1234, 1235, 1304, 1305, 1315, 1316, 1323, 1324, 1334, 1335, 1404, 1405, 1415, 1416, 1423, 1424, 1434, 1435, 1502, 1515, 1516, 1521, 1534, 1535, 1602, 1615, 1616, 1621, 1634, 1635, 1702, 1715, 1716, 1721, 1734, 1735, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 25.45 metros quadrados, 
+            área comum de 12.504268 metros quadrados, perfazendo a área construída de 37.954268 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008574069076861035, fração ideal de solo no condomínio de 0.00073991 
+            e quota de terreno de 2.390768 metros quadrados. Possuindo ainda uma área comum descoberta de 1.121608 metros quadrados
+            
+
+            APARTAMENTO 4: 60 unidades, correspondentes aos apartamentos nº 306, 314, 325, 333, 406, 414, 425, 433, 506, 514, 525, 533, 606, 614, 625, 633, 706, 714, 725, 733, 806, 814, 825, 833, 906, 914, 925, 933, 1006, 1014, 1025, 1033, 1106, 1114, 1125, 1133, 1206, 1214, 1225, 1233, 1306, 1314, 1325, 1333, 1406, 1414, 1425, 1433, 1506, 1514, 1525, 1533, 1606, 1614, 1625, 1633, 1706, 1714, 1725, 1733, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 25.21 metros quadrados, 
+            área comum de 12.353849 metros quadrados, perfazendo a área construída de 37.563849000000005 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008470935973126712, fração ideal de solo no condomínio de 0.00073101 
+            e quota de terreno de 2.36201 metros quadrados. Possuindo ainda uma área comum descoberta de 1.108117 metros quadrados
+            
+
+            APARTAMENTO 5: 22 unidades, correspondentes aos apartamentos nº 320, 338, 420, 438, 520, 538, 638, 738, 838, 938, 1038, 1120, 1138, 1220, 1238, 1320, 1338, 1420, 1438, 1538, 1638, 1738, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.71 metros quadrados, 
+            área comum de 14.149068 metros quadrados, perfazendo a área construída de 42.859068 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009701928064103921, fração ideal de solo no condomínio de 0.00083724 
+            e quota de terreno de 2.705256 metros quadrados. Possuindo ainda uma área comum descoberta de 1.269148 metros quadrados
+            
+
+            APARTAMENTO 6: 8 unidades, correspondentes aos apartamentos nº 601, 701, 801, 901, 1001, 1501, 1601, 1701, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.36 metros quadrados, 
+            área comum de 14.012018 metros quadrados, perfazendo a área construída de 42.372018 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009607949471824667, fração ideal de solo no condomínio de 0.00082913 
+            e quota de terreno de 2.679052 metros quadrados. Possuindo ainda uma área comum descoberta de 1.256854 metros quadrados
+            
+
+            APARTAMENTO 7: 8 unidades, correspondentes aos apartamentos nº 620, 720, 820, 920, 1020, 1520, 1620, 1720, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.48 metros quadrados, 
+            área comum de 14.059553000000001 metros quadrados, perfazendo a área construída de 42.539553 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009640511721430672, fração ideal de solo no condomínio de 0.00083194 
+            e quota de terreno de 2.688131 metros quadrados. Possuindo ainda uma área comum descoberta de 1.261114 metros quadrados
+            
+
+            APARTAMENTO 8: 60 unidades, correspondentes aos apartamentos nº 307, 313, 326, 332, 407, 413, 426, 432, 507, 513, 526, 532, 607, 613, 626, 632, 707, 713, 726, 732, 807, 813, 826, 832, 907, 913, 926, 932, 1007, 1013, 1026, 1032, 1107, 1113, 1126, 1132, 1207, 1213, 1226, 1232, 1307, 1313, 1326, 1332, 1407, 1413, 1426, 1432, 1507, 1513, 1526, 1532, 1607, 1613, 1626, 1632, 1707, 1713, 1726, 1732, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 28.93 metros quadrados, 
+            área comum de 14.372865 metros quadrados, perfazendo a área construída de 43.302865 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0009855353040895208, fração ideal de solo no condomínio de 0.00085048 
+            e quota de terreno de 2.748037 metros quadrados. Possuindo ainda uma área comum descoberta de 1.289219 metros quadrados
+            
+
+            APARTAMENTO 9: 28 unidades, correspondentes aos apartamentos nº 308, 309, 327, 328, 408, 409, 427, 428, 508, 509, 527, 528, 608, 627, 708, 727, 808, 827, 2108, 2127, 2208, 2227, 2308, 2327, 2408, 2427, 2508, 2527, 
+            possuindo cada unidade as seguintes áreas construídas: área privativa de 25.56 metros quadrados, 
+            área comum de 12.633137999999999 metros quadrados, perfazendo a área construída de 38.193138 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0008662485434332146, fração ideal de solo no condomínio de 0.00074754 
+            e quota de terreno de 2.415421 metros quadrados. Possuindo ainda uma área comum descoberta de 1.133174 metros quadrados
+            
