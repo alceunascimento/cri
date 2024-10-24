@@ -1,0 +1,56 @@
+
+            LOJA 01: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 1, 
+            possuindo área privativa de 423,539999999999964 metros quadrados, área comum de 10,814574000000000 metros quadrados, 
+            perfazendo uma área total construída de 434,354573999999957 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,207973382573250, fração ideal de solo no condomínio de 0,008954190000000 
+            e quota de terreno de 28,932421000000001 metros quadrados.
+            
+
+            LOJA 02: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 2, 
+            possuindo área privativa de 348,759999999999991 metros quadrados, área comum de 8,905167000000000 metros quadrados, 
+            perfazendo uma área total construída de 357,665166999999997 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,171253875901474, fração ideal de solo no condomínio de 0,007373250000000 
+            e quota de terreno de 23,824149999999999 metros quadrados.
+            
+
+            LOJA 03: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 3, 
+            possuindo área privativa de 67,260000000000005 metros quadrados, área comum de 1,717396000000000 metros quadrados, 
+            perfazendo uma área total construída de 68,977395999999999 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,033026977435576, fração ideal de solo no condomínio de 0,001421960000000 
+            e quota de terreno de 4,594580000000000 metros quadrados.
+            
+
+            LOJA 04: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 4, 
+            possuindo área privativa de 27,090000000000000 metros quadrados, área comum de 0,691712000000000 metros quadrados, 
+            perfazendo uma área total construída de 27,781711999999999 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,013302209989664, fração ideal de solo no condomínio de 0,000572720000000 
+            e quota de terreno de 1,850550000000000 metros quadrados.
+            
+
+            LOJA 05: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 5, 
+            possuindo área privativa de 38,180000000000000 metros quadrados, área comum de 0,974885000000000 metros quadrados, 
+            perfazendo uma área total construída de 39,154885000000000 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,018747866076717, fração ideal de solo no condomínio de 0,000807180000000 
+            e quota de terreno de 2,608128000000000 metros quadrados.
+            
+
+            LOJA 06: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 6, 
+            possuindo área privativa de 28,730000000000000 metros quadrados, área comum de 0,733586000000000 metros quadrados, 
+            perfazendo uma área total construída de 29,463585999999999 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,014107468441162, fração ideal de solo no condomínio de 0,000607390000000 
+            e quota de terreno de 1,962574000000000 metros quadrados.
+            
+
+            LOJA 07: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 7, 
+            possuindo área privativa de 523,809999999999945 metros quadrados, área comum de 13,374847000000001 metros quadrados, 
+            perfazendo uma área total construída de 537,184846999999991 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,257209583202685, fração ideal de solo no condomínio de 0,011074030000000 
+            e quota de terreno de 35,781962999999998 metros quadrados.
+            
+
+            LOJA 08: 1 unidades, correspondentes ao Comércio e Serviço Vicinal  nº 8, 
+            possuindo área privativa de 579,139999999999986 metros quadrados, área comum de 14,787632000000000 metros quadrados, 
+            perfazendo uma área total construída de 593,927632000000017 metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,284378636379473, fração ideal de solo no condomínio de 0,012243780000000 
+            e quota de terreno de 39,561611999999997 metros quadrados.
+            

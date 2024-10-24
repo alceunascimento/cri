@@ -18,6 +18,7 @@ cursor.execute(query)
 unidades = cursor.fetchall()
 
 # Organiza os dados em um dicionário agrupado por especie_unidade e tipo_unidade
+# Organiza os dados em um dicionário agrupado por especie_unidade e tipo_unidade
 unidades_dict = {}
 for unidade in unidades:
     especie = unidade[0]
@@ -27,7 +28,7 @@ for unidade in unidades:
     unidades_dict[(especie, tipo)].append(unidade)
 
 # Abre três arquivos separados para apartamentos, vagas e lojas
-with open('./outros/tipos_apartamento.txt', 'w', encoding='utf-8') as f_apartamento, \
+with open('./outros/tipos_apartamentos.txt', 'w', encoding='utf-8') as f_apartamento, \
      open('./outros/tipos_vagas.txt', 'w', encoding='utf-8') as f_vaga, \
      open('./outros/tipos_lojas.txt', 'w', encoding='utf-8') as f_loja:
     
@@ -35,15 +36,17 @@ with open('./outros/tipos_apartamento.txt', 'w', encoding='utf-8') as f_apartame
     for (especie_unidade, tipo_unidade), lista_unidades in unidades_dict.items():
         numero_unidades = len(lista_unidades)
         numeros_unidades = ', '.join([str(unidade[2]) for unidade in lista_unidades])
-        area_privativa = lista_unidades[0][3]
-        area_comum = lista_unidades[0][4]
-        area_total_construida = lista_unidades[0][5]
-        fracao_ideal_solo_condominio = lista_unidades[0][6]
-        quota_terreno = lista_unidades[0][7]
-        fracao_ideal_unidade_subcondominio = lista_unidades[0][8]
-        vaga_vinculada_descoberta = lista_unidades[0][9]
-        area_vinculada_outras = lista_unidades[0][10]
-        area_comum_descoberta = lista_unidades[0][11]
+        
+        # Substituindo o ponto decimal por vírgula e garantindo 15 casas decimais
+        area_privativa = f"{lista_unidades[0][3]:.15f}".replace('.', ',')
+        area_comum = f"{lista_unidades[0][4]:.15f}".replace('.', ',')
+        area_total_construida = f"{lista_unidades[0][5]:.15f}".replace('.', ',')
+        fracao_ideal_solo_condominio = f"{lista_unidades[0][6]:.15f}".replace('.', ',')
+        quota_terreno = f"{lista_unidades[0][7]:.15f}".replace('.', ',')
+        fracao_ideal_unidade_subcondominio = f"{lista_unidades[0][8]:.15f}".replace('.', ',')
+        vaga_vinculada_descoberta = str(lista_unidades[0][9]).replace('.', ',')
+        area_vinculada_outras = f"{lista_unidades[0][10]:.15f}".replace('.', ',')
+        area_comum_descoberta = f"{lista_unidades[0][11]:.15f}".replace('.', ',')
 
         # Define o texto final de acordo com a especie_unidade
         if especie_unidade.lower() == 'apartamento':
@@ -61,7 +64,7 @@ with open('./outros/tipos_apartamento.txt', 'w', encoding='utf-8') as f_apartame
 
         elif especie_unidade.lower() == 'vaga':
             # Verifica se existe área vinculada (área de depósito) associada
-            if area_vinculada_outras == 0:
+            if area_vinculada_outras == '0,000000000000000':
                 texto_vaga = f"""
                 VAGA TIPO {tipo_unidade}: {numero_unidades} unidades, correspondentes às vagas nº {numeros_unidades}, 
                 possuindo cada unidade as seguintes áreas construídas: área privativa de {area_privativa} metros quadrados, 
@@ -95,6 +98,8 @@ with open('./outros/tipos_apartamento.txt', 'w', encoding='utf-8') as f_apartame
             # Escreve o texto_loja no arquivo de lojas
             f_loja.write(texto_loja)
             f_loja.write('\n')
+
+
 
 # Fecha a conexão com o banco de dados
 conn.close()

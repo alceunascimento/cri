@@ -1,137 +1,137 @@
 
                 VAGA TIPO 1: 11 unidades, correspondentes às vagas nº 14, 15, 16, 51, 52, 53, 54, 63, 64, 65, 66, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 10.799999999999999 metros quadrados, 
-                área comum de 16.444731 metros quadrados, perfazendo a área construída de 27.244731 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.003069278159956784, fração ideal de solo no condomínio de 0.00028846 
-                e quota de terreno de 0.93206 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 10,799999999999999 metros quadrados, 
+                área comum de 16,444731000000001 metros quadrados, perfazendo a área construída de 27,244731000000002 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,003069278159957, fração ideal de solo no condomínio de 0,000288460000000 
+                e quota de terreno de 0,932060000000000 metros quadrados.
                 
 
                 VAGA TIPO 10: 2 unidades, correspondentes às vagas nº 84/83, 178/179, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 21.599999999999998 metros quadrados, 
-                área comum de 66.950732 metros quadrados, área de depósito vinculado 84/83, 178/179, respectivamente, de 11.1848 metros quadrados, 
-                perfazendo a área construída de 99.735532 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.01249555637768997, fração ideal de solo no condomínio de 0.00117437 
-                e quota de terreno de 3.794577 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 21,599999999999998 metros quadrados, 
+                área comum de 66,950732000000002 metros quadrados, área de depósito vinculado 84/83, 178/179, respectivamente, de 11,184799999999999 metros quadrados, 
+                perfazendo a área construída de 99,735532000000006 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012495556377690, fração ideal de solo no condomínio de 0,001174370000000 
+                e quota de terreno de 3,794577000000000 metros quadrados.
                 
 
                 VAGA TIPO 11: 2 unidades, correspondentes às vagas nº 88/87, 182/183, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 21.599999999999994 metros quadrados, 
-                área comum de 67.12470699999999 metros quadrados, área de depósito vinculado 88/87, 182/183, respectivamente, de 11.241925 metros quadrados, 
-                perfazendo a área construída de 99.96663199999998 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.012528115454059196, fração ideal de solo no condomínio de 0.00117743 
-                e quota de terreno de 3.804465 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 21,599999999999994 metros quadrados, 
+                área comum de 67,124706999999987 metros quadrados, área de depósito vinculado 88/87, 182/183, respectivamente, de 11,241925000000000 metros quadrados, 
+                perfazendo a área construída de 99,966631999999976 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012528115454059, fração ideal de solo no condomínio de 0,001177430000000 
+                e quota de terreno de 3,804465000000000 metros quadrados.
                 
 
                 VAGA TIPO 12: 2 unidades, correspondentes às vagas nº 90/89, 184/185, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 22.5 metros quadrados, 
-                área comum de 68.545882 metros quadrados, área de depósito vinculado 90/89, 184/185, respectivamente, de 11.2586 metros quadrados, 
-                perfazendo a área construída de 102.30448200000001 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.01279337616447909, fração ideal de solo no condomínio de 0.00120236 
-                e quota de terreno de 3.885018 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 22,500000000000000 metros quadrados, 
+                área comum de 68,545882000000006 metros quadrados, área de depósito vinculado 90/89, 184/185, respectivamente, de 11,258599999999999 metros quadrados, 
+                perfazendo a área construída de 102,304482000000007 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012793376164479, fração ideal de solo no condomínio de 0,001202360000000 
+                e quota de terreno de 3,885018000000000 metros quadrados.
                 
 
                 VAGA TIPO 13: 1 unidades, correspondentes às vagas nº 120/121, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 21.6 metros quadrados, 
-                área comum de 67.289384 metros quadrados, área de depósito vinculado 120/121, respectivamente, de 11.296 metros quadrados, 
-                perfazendo a área construída de 100.185384 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.012558865692852358, fração ideal de solo no condomínio de 0.00118032 
-                e quota de terreno de 3.813803 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 21,600000000000001 metros quadrados, 
+                área comum de 67,289383999999998 metros quadrados, área de depósito vinculado 120/121, respectivamente, de 11,295999999999999 metros quadrados, 
+                perfazendo a área construída de 100,185383999999999 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012558865692852, fração ideal de solo no condomínio de 0,001180320000000 
+                e quota de terreno de 3,813803000000000 metros quadrados.
                 
 
                 VAGA TIPO 14: 2 unidades, correspondentes às vagas nº 122, 217, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 12.0 metros quadrados, 
-                área comum de 78.260684 metros quadrados, área de depósito vinculado 122, 217, respectivamente, de 19.698675 metros quadrados, 
-                perfazendo a área construída de 109.959359 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.014606576231171996, fração ideal de solo no condomínio de 0.00137277 
-                e quota de terreno de 4.43564 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 12,000000000000000 metros quadrados, 
+                área comum de 78,260683999999998 metros quadrados, área de depósito vinculado 122, 217, respectivamente, de 19,698675000000001 metros quadrados, 
+                perfazendo a área construída de 109,959359000000006 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,014606576231172, fração ideal de solo no condomínio de 0,001372770000000 
+                e quota de terreno de 4,435640000000000 metros quadrados.
                 
 
                 VAGA TIPO 15: 2 unidades, correspondentes às vagas nº 123, 218, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 11.999999999999998 metros quadrados, 
-                área comum de 44.638682 metros quadrados, área de depósito vinculado 123, 218, respectivamente, de 8.658125 metros quadrados, 
-                perfazendo a área construída de 65.296807 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.008331399473160096, fração ideal de solo no condomínio de 0.00078301 
-                e quota de terreno de 2.530031 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 11,999999999999998 metros quadrados, 
+                área comum de 44,638682000000003 metros quadrados, área de depósito vinculado 123, 218, respectivamente, de 8,658125000000000 metros quadrados, 
+                perfazendo a área construída de 65,296807000000001 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,008331399473160, fração ideal de solo no condomínio de 0,000783010000000 
+                e quota de terreno de 2,530031000000000 metros quadrados.
                 
 
                 VAGA TIPO 16: 2 unidades, correspondentes às vagas nº 124, 219, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 12.0 metros quadrados, 
-                área comum de 77.67362 metros quadrados, área de depósito vinculado 124, 219, respectivamente, de 19.5059 metros quadrados, 
-                perfazendo a área construída de 109.17952 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.01449698195450433, fração ideal de solo no condomínio de 0.00136247 
-                e quota de terreno de 4.402359 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 12,000000000000000 metros quadrados, 
+                área comum de 77,673620000000000 metros quadrados, área de depósito vinculado 124, 219, respectivamente, de 19,505900000000000 metros quadrados, 
+                perfazendo a área construída de 109,179519999999997 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,014496981954504, fração ideal de solo no condomínio de 0,001362470000000 
+                e quota de terreno de 4,402359000000000 metros quadrados.
                 
 
                 VAGA TIPO 17: 2 unidades, correspondentes às vagas nº 125/126, 220/221, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 22.499999999999996 metros quadrados, 
-                área comum de 68.08391099999999 metros quadrados, área de depósito vinculado 125/126, 220/221, respectivamente, de 11.1069 metros quadrados, 
-                perfazendo a área construída de 101.69081099999998 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.012707190374089955, fração ideal de solo no condomínio de 0.00119426 
-                e quota de terreno de 3.858845 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 22,499999999999996 metros quadrados, 
+                área comum de 68,083910999999986 metros quadrados, área de depósito vinculado 125/126, 220/221, respectivamente, de 11,106900000000000 metros quadrados, 
+                perfazendo a área construída de 101,690810999999982 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012707190374090, fração ideal de solo no condomínio de 0,001194260000000 
+                e quota de terreno de 3,858845000000000 metros quadrados.
                 
 
                 VAGA TIPO 18: 1 unidades, correspondentes às vagas nº 215/216, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 22.5 metros quadrados, 
-                área comum de 68.65978000000001 metros quadrados, área de depósito vinculado 215/216, respectivamente, de 11.296 metros quadrados, 
-                perfazendo a área construída de 102.45578 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.012814656606550482, fração ideal de solo no condomínio de 0.00120436 
-                e quota de terreno de 3.89148 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 22,500000000000000 metros quadrados, 
+                área comum de 68,659780000000012 metros quadrados, área de depósito vinculado 215/216, respectivamente, de 11,295999999999999 metros quadrados, 
+                perfazendo a área construída de 102,455780000000004 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012814656606550, fração ideal de solo no condomínio de 0,001204360000000 
+                e quota de terreno de 3,891480000000000 metros quadrados.
                 
 
                 VAGA TIPO 2: 4 unidades, correspondentes às vagas nº 59, 60, 61, 62, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 11.25 metros quadrados, 
-                área comum de 17.129929 metros quadrados, perfazendo a área construída de 28.379929 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.003197173616805846, fração ideal de solo no condomínio de 0.00030048 
-                e quota de terreno de 0.970899 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 11,250000000000000 metros quadrados, 
+                área comum de 17,129929000000001 metros quadrados, perfazendo a área construída de 28,379929000000001 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,003197173616806, fração ideal de solo no condomínio de 0,000300480000000 
+                e quota de terreno de 0,970899000000000 metros quadrados.
                 
 
                 VAGA TIPO 3: 67 unidades, correspondentes às vagas nº 1, 2, 3, 8, 10, 11, 13, 25, 28, 31, 32, 33, 38, 39, 40, 41, 42, 43, 46, 47, 48, 55, 56, 68, 69, 70, 75, 77, 78, 133, 134, 135, 136, 137, 138, 143, 144, 145, 152, 153, 154, 155, 156, 157, 160, 161, 162, 172, 173, 228, 229, 230, 231, 232, 233, 238, 239, 240, 247, 248, 249, 250, 251, 252, 255, 256, 257, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 12.0 metros quadrados, 
-                área comum de 18.271922 metros quadrados, perfazendo a área construída de 30.271922 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.003410297244150831, fração ideal de solo no condomínio de 0.00032051 
-                e quota de terreno de 1.035619 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 12,000000000000000 metros quadrados, 
+                área comum de 18,271922000000000 metros quadrados, perfazendo a área construída de 30,271922000000000 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,003410297244151, fração ideal de solo no condomínio de 0,000320510000000 
+                e quota de terreno de 1,035619000000000 metros quadrados.
                 
 
                 VAGA TIPO 4: 70 unidades, correspondentes às vagas nº 4, 5, 6, 7, 9, 12, 23, 24, 26, 27, 29, 30, 34, 35, 36, 37, 44, 45, 49, 50, 57, 58, 71, 72, 73, 74, 76, 95, 96, 97, 98, 99, 100, 101, 131, 132, 139, 140, 141, 142, 150, 151, 158, 159, 163, 164, 165, 166, 167, 168, 169, 170, 171, 190, 191, 192, 193, 194, 195, 196, 226, 227, 234, 235, 236, 237, 245, 246, 253, 254, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 12.5 metros quadrados, 
-                área comum de 19.033246 metros quadrados, perfazendo a área construída de 31.533246 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.003552344194977369, fração ideal de solo no condomínio de 0.00033386 
-                e quota de terreno de 1.078755 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 12,500000000000000 metros quadrados, 
+                área comum de 19,033245999999998 metros quadrados, perfazendo a área construída de 31,533245999999998 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,003552344194977, fração ideal de solo no condomínio de 0,000333860000000 
+                e quota de terreno de 1,078755000000000 metros quadrados.
                 
 
                 VAGA TIPO 5: 6 unidades, correspondentes às vagas nº 80/79, 86/85, 116/117, 118/119, 174/175, 180/181, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 21.599999999999998 metros quadrados, 
-                área comum de 32.889449 metros quadrados, perfazendo a área construída de 54.48944899999999 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.006138449917703211, fração ideal de solo no condomínio de 0.00057691 
-                e quota de terreno de 1.864089 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 21,599999999999998 metros quadrados, 
+                área comum de 32,889448999999999 metros quadrados, perfazendo a área construída de 54,489448999999993 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,006138449917703, fração ideal de solo no condomínio de 0,000576910000000 
+                e quota de terreno de 1,864089000000000 metros quadrados.
                 
 
                 VAGA TIPO 6: 19 unidades, correspondentes às vagas nº 18/17, 20/19, 22/21, 92/91, 94/93, 110/111, 113/112, 114/115, 127/128, 129/130, 186/187, 188/189, 205/206, 207/208, 209/210, 211/212, 213/214, 222/223, 224/225, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 22.5 metros quadrados, 
-                área comum de 34.259846 metros quadrados, perfazendo a área construída de 56.759846 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.0063942408314013365, fração ideal de solo no condomínio de 0.00060095 
-                e quota de terreno de 1.9417650000000002 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 22,500000000000000 metros quadrados, 
+                área comum de 34,259846000000003 metros quadrados, perfazendo a área construída de 56,759846000000003 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,006394240831401, fração ideal de solo no condomínio de 0,000600950000000 
+                e quota de terreno de 1,941765000000000 metros quadrados.
                 
 
                 VAGA TIPO 7: 12 unidades, correspondentes às vagas nº 102/103, 104/105, 106/107, 108/109, 146/147, 148/149, 197/198, 199/200, 201/202, 203/204, 241/242, 243/244, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 25.0 metros quadrados, 
-                área comum de 38.066481 metros quadrados, perfazendo a área construída de 63.066481 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.007104581987744381, fração ideal de solo no condomínio de 0.00066771 
-                e quota de terreno de 2.1574769999999996 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 25,000000000000000 metros quadrados, 
+                área comum de 38,066481000000003 metros quadrados, perfazendo a área construída de 63,066481000000003 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,007104581987744, fração ideal de solo no condomínio de 0,000667710000000 
+                e quota de terreno de 2,157477000000000 metros quadrados.
                 
 
                 VAGA TIPO 8: 1 unidades, correspondentes às vagas nº 67, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 10.799999999999999 metros quadrados, 
-                área comum de 34.932854999999996 metros quadrados, área de depósito vinculado 67, respectivamente, de 6.071 metros quadrados, 
-                perfazendo a área construída de 51.803855 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.006519795439622544, fração ideal de solo no condomínio de 0.0006127499999999999 
-                e quota de terreno de 1.979893 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 10,799999999999999 metros quadrados, 
+                área comum de 34,932854999999996 metros quadrados, área de depósito vinculado 67, respectivamente, de 6,071000000000000 metros quadrados, 
+                perfazendo a área construída de 51,803854999999999 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,006519795439623, fração ideal de solo no condomínio de 0,000612750000000 
+                e quota de terreno de 1,979893000000000 metros quadrados.
                 
 
                 VAGA TIPO 9: 2 unidades, correspondentes às vagas nº 82/81, 176/177, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de 21.599999999999998 metros quadrados, 
-                área comum de 66.725991 metros quadrados, área de depósito vinculado 82/81, 176/177, respectivamente, de 11.111 metros quadrados, 
-                perfazendo a área construída de 99.43699099999999 metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0.012453633906809328, fração ideal de solo no condomínio de 0.00117043 
-                e quota de terreno de 3.781846 metros quadrados.
+                possuindo cada unidade as seguintes áreas construídas: área privativa de 21,599999999999998 metros quadrados, 
+                área comum de 66,725990999999993 metros quadrados, área de depósito vinculado 82/81, 176/177, respectivamente, de 11,111000000000001 metros quadrados, 
+                perfazendo a área construída de 99,436990999999992 metros quadrados; 
+                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de 0,012453633906809, fração ideal de solo no condomínio de 0,001170430000000 
+                e quota de terreno de 3,781846000000000 metros quadrados.
                 
