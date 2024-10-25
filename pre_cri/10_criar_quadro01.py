@@ -24,12 +24,6 @@ registro_crea = result['registro_crea']
 local_construcao = result['local_construcao']
 
 
-
-
-
-
-
-
 # Fechar a conexão com o banco de dados
 conn.close()
 
