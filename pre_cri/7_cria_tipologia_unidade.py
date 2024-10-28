@@ -1,105 +1,234 @@
 import sqlite3
+from pathlib import Path
+from typing import Dict, List, Tuple, Optional
+import logging
+from dataclasses import dataclass
+from decimal import Decimal
+from contextlib import ExitStack
 
-# Conexão com o banco de dados SQLite
-conn = sqlite3.connect('./pre_cri/base_real.db')
-cursor = conn.cursor()
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
 
-# Query para selecionar todas as unidades, agrupadas por especie_unidade e tipo_unidade
-query = """
-SELECT especie_unidade, tipo_unidade, unidade_numero, area_privativa, area_comum, area_total_construida, 
-       fracao_ideal_solo_condominio, quota_terreno_condominio, 
-       fracao_ideal_unidade_subcondominio, vaga_vinculada_descoberta, area_vinculada_outras, area_comum_descoberta
-FROM cri
-ORDER BY especie_unidade, tipo_unidade;
-"""
+@dataclass
+class UnitData:
+    """Data class to store unit information"""
+    especie_unidade: str
+    tipo_unidade: str
+    unidade_numero: str
+    area_privativa: Decimal
+    area_comum: Decimal
+    area_total_construida: Decimal
+    fracao_ideal_solo_condominio: Decimal
+    quota_terreno_condominio: Decimal
+    fracao_ideal_unidade_subcondominio: Decimal
+    vaga_vinculada_descoberta: str
+    area_vinculada_outras: Decimal
+    area_comum_descoberta: Decimal
 
-# Executa a consulta
-cursor.execute(query)
-unidades = cursor.fetchall()
-
-# Organiza os dados em um dicionário agrupado por especie_unidade e tipo_unidade
-# Organiza os dados em um dicionário agrupado por especie_unidade e tipo_unidade
-unidades_dict = {}
-for unidade in unidades:
-    especie = unidade[0]
-    tipo = unidade[1]
-    if (especie, tipo) not in unidades_dict:
-        unidades_dict[(especie, tipo)] = []
-    unidades_dict[(especie, tipo)].append(unidade)
-
-# Abre três arquivos separados para apartamentos, vagas e lojas
-with open('./pre_cri/tipos_apartamentos.txt', 'w', encoding='utf-8') as f_apartamento, \
-     open('./pre_cri/tipos_vagas.txt', 'w', encoding='utf-8') as f_vaga, \
-     open('./pre_cri/tipos_lojas.txt', 'w', encoding='utf-8') as f_loja:
-    
-    # Itera sobre cada combinação de especie_unidade e tipo_unidade
-    for (especie_unidade, tipo_unidade), lista_unidades in unidades_dict.items():
-        numero_unidades = len(lista_unidades)
-        numeros_unidades = ', '.join([str(unidade[2]) for unidade in lista_unidades])
+    def __post_init__(self):
+        """Convert None values to appropriate defaults"""
+        self.especie_unidade = self.especie_unidade or ''
+        self.tipo_unidade = self.tipo_unidade or ''
+        self.unidade_numero = self.unidade_numero or ''
+        self.vaga_vinculada_descoberta = self.vaga_vinculada_descoberta or '0'
         
-        # Substituindo o ponto decimal por vírgula e garantindo 15 casas decimais
-        area_privativa = f"{lista_unidades[0][3]:.15f}".replace('.', ',')
-        area_comum = f"{lista_unidades[0][4]:.15f}".replace('.', ',')
-        area_total_construida = f"{lista_unidades[0][5]:.15f}".replace('.', ',')
-        fracao_ideal_solo_condominio = f"{lista_unidades[0][6]:.15f}".replace('.', ',')
-        quota_terreno = f"{lista_unidades[0][7]:.15f}".replace('.', ',')
-        fracao_ideal_unidade_subcondominio = f"{lista_unidades[0][8]:.15f}".replace('.', ',')
-        vaga_vinculada_descoberta = str(lista_unidades[0][9]).replace('.', ',')
-        area_vinculada_outras = f"{lista_unidades[0][10]:.15f}".replace('.', ',')
-        area_comum_descoberta = f"{lista_unidades[0][11]:.15f}".replace('.', ',')
+        # Convert None to Decimal('0') for numeric fields
+        decimal_fields = [
+            'area_privativa', 'area_comum', 'area_total_construida',
+            'fracao_ideal_solo_condominio', 'quota_terreno_condominio',
+            'fracao_ideal_unidade_subcondominio', 'area_vinculada_outras',
+            'area_comum_descoberta'
+        ]
+        
+        for field in decimal_fields:
+            value = getattr(self, field)
+            if value is None:
+                setattr(self, field, Decimal('0'))
+            elif not isinstance(value, Decimal):
+                setattr(self, field, Decimal(str(value)))
 
-        # Define o texto final de acordo com a especie_unidade
-        if especie_unidade.lower() == 'apartamento':
-            texto_apartamento = f"""
-            APARTAMENTO {tipo_unidade}: {numero_unidades} unidades, correspondentes aos apartamentos nº {numeros_unidades}, 
-            possuindo cada unidade as seguintes áreas construídas: área privativa de {area_privativa} metros quadrados, 
-            área comum de {area_comum} metros quadrados, perfazendo a área construída de {area_total_construida} metros quadrados; 
-            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de {fracao_ideal_unidade_subcondominio}, fração ideal de solo no condomínio de {fracao_ideal_solo_condominio} 
-            e quota de terreno de {quota_terreno} metros quadrados. Possuindo ainda uma área comum descoberta de {area_comum_descoberta} metros quadrados
+class UnitDescriptionGenerator:
+    def __init__(self, db_path: str = './pre_cri/base_real.db', output_dir: str = './pre_cri/output'):
+        self.db_path = Path(db_path)
+        self.output_dir = Path(output_dir)
+        self.conn: Optional[sqlite3.Connection] = None
+        
+        # Ensure output directory exists
+        self.output_dir.mkdir(parents=True, exist_ok=True)
+
+    def connect_database(self) -> None:
+        """Establish database connection"""
+        try:
+            self.conn = sqlite3.connect(str(self.db_path))
+            logging.info(f"Connected to database: {self.db_path}")
+        except sqlite3.Error as e:
+            logging.error(f"Database connection error: {e}")
+            raise
+
+    def fetch_unit_data(self) -> Dict[Tuple[str, str], List[UnitData]]:
+        """Fetch and organize unit data from database"""
+        try:
+            cursor = self.conn.cursor()
+            query = """
+            SELECT especie_unidade, tipo_unidade, unidade_numero, area_privativa, 
+                   area_comum, area_total_construida, fracao_ideal_solo_condominio, 
+                   quota_terreno_condominio, fracao_ideal_unidade_subcondominio, 
+                   vaga_vinculada_descoberta, area_vinculada_outras, area_comum_descoberta
+            FROM cri
+            WHERE especie_unidade IS NOT NULL
+            ORDER BY especie_unidade, tipo_unidade;
             """
+            cursor.execute(query)
+            units = cursor.fetchall()
+            
+            # Log any rows with NULL especie_unidade for debugging
+            cursor.execute("""
+            SELECT unidade_numero, tipo_unidade 
+            FROM cri 
+            WHERE especie_unidade IS NULL;
+            """)
+            null_units = cursor.fetchall()
+            if null_units:
+                logging.warning(f"Found {len(null_units)} units with NULL especie_unidade: {null_units}")
+            
+            # Organize data by unit type
+            units_dict: Dict[Tuple[str, str], List[UnitData]] = {}
+            for unit in units:
+                if any(x is None for x in unit[:2]):  # Check especie_unidade and tipo_unidade
+                    continue
+                    
+                unit_data = UnitData(*unit)
+                key = (unit_data.especie_unidade, unit_data.tipo_unidade)
+                if key not in units_dict:
+                    units_dict[key] = []
+                units_dict[key].append(unit_data)
+                
+            return units_dict
+            
+        except sqlite3.Error as e:
+            logging.error(f"Error fetching unit data: {e}")
+            raise
 
-            # Escreve o texto_apartamento no arquivo de apartamentos
-            f_apartamento.write(texto_apartamento)
-            f_apartamento.write('\n')
+    @staticmethod
+    def format_decimal(value: Decimal) -> str:
+        """Format decimal values with 8 decimal places and comma separator"""
+        return f"{float(value):.8f}".replace('.', ',')
 
-        elif especie_unidade.lower() == 'vaga':
-            # Verifica se existe área vinculada (área de depósito) associada
-            if area_vinculada_outras == '0,000000000000000':
-                texto_vaga = f"""
-                VAGA TIPO {tipo_unidade}: {numero_unidades} unidades, correspondentes às vagas nº {numeros_unidades}, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de {area_privativa} metros quadrados, 
-                área comum de {area_comum} metros quadrados, perfazendo a área construída de {area_total_construida} metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de {fracao_ideal_unidade_subcondominio}, fração ideal de solo no condomínio de {fracao_ideal_solo_condominio} 
-                e quota de terreno de {quota_terreno} metros quadrados.
-                """
-            else:
-                texto_vaga = f"""
-                VAGA TIPO {tipo_unidade}: {numero_unidades} unidades, correspondentes às vagas nº {numeros_unidades}, 
-                possuindo cada unidade as seguintes áreas construídas: área privativa de {area_privativa} metros quadrados, 
-                área comum de {area_comum} metros quadrados, área de depósito vinculado {numeros_unidades}, respectivamente, de {area_vinculada_outras} metros quadrados, 
-                perfazendo a área construída de {area_total_construida} metros quadrados; 
-                cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de {fracao_ideal_unidade_subcondominio}, fração ideal de solo no condomínio de {fracao_ideal_solo_condominio} 
-                e quota de terreno de {quota_terreno} metros quadrados.
-                """
+    def generate_apartment_description(self, units: List[UnitData]) -> str:
+        """Generate description for apartment units"""
+        first_unit = units[0]
+        unit_numbers = ', '.join(str(unit.unidade_numero) for unit in units)
+        
+        return f"""APARTAMENTO TIPO {first_unit.tipo_unidade}: {len(units)} unidades, 
+            correspondentes aos apartamentos nº {unit_numbers}, 
+            possuindo cada unidade as seguintes áreas construídas: 
+            área privativa de {self.format_decimal(first_unit.area_privativa)} metros quadrados, 
+            área comum de {self.format_decimal(first_unit.area_comum)} metros quadrados, 
+            perfazendo a área total construída de {self.format_decimal(first_unit.area_total_construida)} metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal nas partes comuns do subcondomínio de {self.format_decimal(first_unit.fracao_ideal_unidade_subcondominio)}, 
+            fração ideal de solo no condomínio de {self.format_decimal(first_unit.fracao_ideal_solo_condominio)} e 
+            quota de terreno de {self.format_decimal(first_unit.quota_terreno_condominio)} metros quadrados. 
+            Possuindo ainda uma área comum descoberta de {self.format_decimal(first_unit.area_comum_descoberta)} metros quadrados"""
 
-            # Escreve o texto_vaga no arquivo de vagas
-            f_vaga.write(texto_vaga)
-            f_vaga.write('\n')
+    def generate_parking_description(self, units: List[UnitData]) -> str:
+        """Generate description for parking units"""
+        first_unit = units[0]
+        unit_numbers = ', '.join(str(unit.unidade_numero) for unit in units)
+        
+        base_text = f"""VAGA TIPO {first_unit.tipo_unidade}: {len(units)} unidades, 
+            correspondentes às vagas nº {unit_numbers}, 
+            possuindo cada unidade as seguintes áreas construídas: 
+            área privativa de {self.format_decimal(first_unit.area_privativa)} metros quadrados, 
+            área comum de {self.format_decimal(first_unit.area_comum)} metros quadrados"""
+        
+        if first_unit.area_vinculada_outras != Decimal('0'):
+            base_text += f", área de depósito vinculado {unit_numbers}, respectivamente, de {self.format_decimal(first_unit.area_vinculada_outras)} metros quadrados"
+        
+        base_text += f""", perfazendo a área total construída de {self.format_decimal(first_unit.area_total_construida)} metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal nas partes comuns do subcondomínio de {self.format_decimal(first_unit.fracao_ideal_unidade_subcondominio)}, 
+            fração ideal de solo no condomínio de {self.format_decimal(first_unit.fracao_ideal_solo_condominio)} e 
+            quota de terreno de {self.format_decimal(first_unit.quota_terreno_condominio)} metros quadrados."""
+        
+        return base_text
 
-        elif especie_unidade.lower() == 'loja':
-            texto_loja = f"""
-            LOJA {tipo_unidade}: {numero_unidades} unidades, correspondentes ao Comércio e Serviço Vicinal  nº {numeros_unidades}, 
-            possuindo área privativa de {area_privativa} metros quadrados, área comum de {area_comum} metros quadrados, 
-            perfazendo uma área total construída de {area_total_construida} metros quadrados; 
-            cabendo-lhe as seguintes frações: fração ideal de solo no subcondomínio de {fracao_ideal_unidade_subcondominio}, fração ideal de solo no condomínio de {fracao_ideal_solo_condominio} 
-            e quota de terreno de {quota_terreno} metros quadrados.
-            """
+    def generate_store_description(self, units: List[UnitData]) -> str:
+        """Generate description for store units"""
+        first_unit = units[0]
+        unit_numbers = ', '.join(str(unit.unidade_numero) for unit in units)
+        
+        return f"""LOJA TIPO {first_unit.tipo_unidade}: {len(units)} unidades, 
+            correspondentes ao Comércio e Serviço Vicinal  nº {unit_numbers}, 
+            possuindo área privativa de {self.format_decimal(first_unit.area_privativa)} metros quadrados, 
+            área comum de {self.format_decimal(first_unit.area_comum)} metros quadrados, 
+            perfazendo uma área total construída de {self.format_decimal(first_unit.area_total_construida)} metros quadrados; 
+            cabendo-lhe as seguintes frações: fração ideal nas partes comuns do subcondomínio de {self.format_decimal(first_unit.fracao_ideal_unidade_subcondominio)}, 
+            fração ideal de solo no condomínio de {self.format_decimal(first_unit.fracao_ideal_solo_condominio)} e 
+            quota de terreno de {self.format_decimal(first_unit.quota_terreno_condominio)} metros quadrados."""
 
-            # Escreve o texto_loja no arquivo de lojas
-            f_loja.write(texto_loja)
-            f_loja.write('\n')
+    def generate_descriptions(self) -> None:
+        """Generate and save unit descriptions to files"""
+        try:
+            units_dict = self.fetch_unit_data()
+            
+            if not units_dict:
+                logging.error("No valid unit data found in database")
+                return
+            
+            # Process each unit type with separate file handlers
+            with open(self.output_dir / 'tipos_apartamentos.txt', 'w', encoding='utf-8') as f_apartamento, \
+                 open(self.output_dir / 'tipos_vagas.txt', 'w', encoding='utf-8') as f_vaga, \
+                 open(self.output_dir / 'tipos_lojas.txt', 'w', encoding='utf-8') as f_loja:
+                
+                # Process each unit type
+                for (especie, tipo), units in units_dict.items():
+                    try:
+                        especie_lower = especie.lower() if especie else ''
+                        
+                        if not especie_lower:
+                            logging.warning(f"Empty especie_unidade found for tipo: {tipo}")
+                            continue
+                        
+                        if especie_lower == 'apartamento':
+                            description = self.generate_apartment_description(units)
+                            f_apartamento.write(description + '\n')
+                        elif especie_lower == 'vaga':
+                            description = self.generate_parking_description(units)
+                            f_vaga.write(description + '\n')
+                        elif especie_lower == 'loja':
+                            description = self.generate_store_description(units)
+                            f_loja.write(description + '\n')
+                        else:
+                            logging.warning(f"Unknown especie_unidade: {especie}")
+                            
+                    except Exception as e:
+                        logging.error(f"Error processing unit type {especie} {tipo}: {e}")
+                        continue
+                        
+            logging.info("Unit descriptions generated successfully")
+            
+        except Exception as e:
+            logging.error(f"Error generating descriptions: {e}")
+            raise
 
+    def close(self) -> None:
+        """Close database connection"""
+        if self.conn:
+            self.conn.close()
+            logging.info("Database connection closed")
 
+def main():
+    generator = UnitDescriptionGenerator()
+    try:
+        generator.connect_database()
+        generator.generate_descriptions()
+    except Exception as e:
+        logging.error(f"Application error: {e}")
+        raise
+    finally:
+        generator.close()
 
-# Fecha a conexão com o banco de dados
-conn.close()
+if __name__ == "__main__":
+    main()

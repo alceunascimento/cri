@@ -2,11 +2,11 @@ import pandas as pd
 import sqlite3
 
 # Carregar a aba `quadro_area_05` da pasta de trabalho
-workbook_path = './pre_cri/base_real_ajustada.xlsx'
+workbook_path = './pre_cri/data/base_real_ajustada.xlsx'
 sheet_name = 'quadro_area_05'
 
 # Ler as variáveis a partir da linha 2 (índice começa em 0, então a linha 2 é a de índice 1)
-df_quadro_area_05 = pd.read_excel(workbook_path, sheet_name=sheet_name, header=1)
+df_quadro_area_05 = pd.read_excel(workbook_path, sheet_name=sheet_name, header=11)
 
 # Renomear as colunas conforme especificado
 column_names = [

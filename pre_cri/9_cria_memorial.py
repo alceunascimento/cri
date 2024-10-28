@@ -406,7 +406,7 @@ markdown_content += f"""
 """
 
 # Salvar o memorial descritivo em um arquivo de texto
-with open('./pre_cri/memorial.md', 'w', encoding='utf-8') as f:
+with open('./pre_cri/output/memorial.md', 'w', encoding='utf-8') as f:
     f.write(markdown_content)
 
 print("Memorial descritivo estruturado e salvo em 'memorial.md'.")

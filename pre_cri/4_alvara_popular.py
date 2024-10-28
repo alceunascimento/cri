@@ -2,7 +2,7 @@ import json
 import sqlite3
 
 # Caminho para o arquivo JSON
-json_file_path = './pre_cri/alvara.json'
+json_file_path = './pre_cri/data/alvara.json'
 
 # Carregar os dados do JSON
 with open(json_file_path, 'r', encoding='utf-8') as file:

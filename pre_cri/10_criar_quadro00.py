@@ -188,7 +188,7 @@ html_quadro = f"""
 """
 
 # Salvar o conteúdo HTML em um arquivo
-with open("./pre_cri/informacoes_preliminares_quadro.html", "w") as file:
+with open("./pre_cri/output/nbr_00_informacoes_preliminares.html", "w") as file:
     file.write(html_quadro)
 
 print("Arquivo HTML gerado com sucesso.")
