@@ -28,11 +28,30 @@ column_names = [
 ]
 df_quadro_area_04A.columns = column_names
 
+# Lista de colunas que contêm custos e precisam ter 2 casas decimais
+colunas_custo = ['custo', 'custo_construcao_total_rerrateio_custo', 'custo_subrogacao_unidade']
+
+# Formatar colunas de custo para terem 2 casas decimais usando round()
+for coluna in colunas_custo:
+    df_quadro_area_04A[coluna] = df_quadro_area_04A[coluna].round(2)
+
 # Criar conexão com o banco de dados SQLite
 conn = sqlite3.connect('./pre_cri/base_real.db')
 
+# Definir tipos de colunas para o SQLite
+dtype_mapping = {}
+for coluna in df_quadro_area_04A.columns:
+    if coluna in colunas_custo:
+        dtype_mapping[coluna] = 'REAL'  # Usando REAL para números decimais no SQLite
+
 # Criar a tabela `quadro_area_04A` no banco de dados
-df_quadro_area_04A.to_sql('quadro_area_04A', conn, if_exists='replace', index=False)
+df_quadro_area_04A.to_sql(
+    'quadro_area_04A',
+    conn,
+    if_exists='replace',
+    index=False,
+    dtype=dtype_mapping
+)
 
 # Fechar conexão
 conn.close()

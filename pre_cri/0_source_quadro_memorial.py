@@ -9,7 +9,18 @@ scripts = [
     "7_cria_tipologia_unidade.py",
     "8_cria_pavimentos.py",
     "9_cria_memorial2.py",
-    "9_md_to_docx.py"
+    "9_md_to_docx.py",
+    "10_criar_quadro00.py",
+    "10_criar_quadro01.py",
+    "10_criar_quadro02.py",
+    "10_criar_quadro03.py",
+    "10_criar_quadro04A.py",
+    "10_criar_quadro04B.py",
+    "10_criar_quadro05.py",
+    "10_criar_quadro06.py",
+    "10_criar_quadro07.py",
+    "10_criar_quadro08.py",
+    "10_criar_quadro_resumo.py"
 ]
 
 # Executar cada script

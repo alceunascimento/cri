@@ -52,49 +52,114 @@ def format_styler(df):
     def indent_item(x):
         if pd.notnull(x):
             if any(str(x).startswith(p) for p in second_indent_patterns):
-                return '\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0' + str(x)  # Double indentation
+                return '\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0\u00A0' + str(x)
             elif any(str(x).startswith(p) for p in first_indent_patterns):
-                return '\u00A0\u00A0\u00A0\u00A0' + str(x)  # Single indentation
+                return '\u00A0\u00A0\u00A0\u00A0' + str(x)
         return x
 
-    # Apply indentation directly to the DataFrame
+    def format_number(value, decimals=8):
+        """Format number with thousand separator and specified decimals"""
+        if pd.isna(value):
+            return '-'
+        
+        # Format with thousand separator and specified decimals
+        formatted = f'{value:,.{decimals}f}'
+        # Replace dots and commas correctly for Brazilian format
+        formatted = formatted.replace(',', '@').replace('.', ',').replace('@', '.')
+        return formatted
+
+    def format_percentage(value):
+        """Format number as percentage with 2 decimal places"""
+        if pd.isna(value):
+            return '-'
+        
+        # Convert to percentage and format with 2 decimal places
+        percentage = value * 100
+        formatted = f'{percentage:.2f}'.replace('.', ',')
+        return f'{formatted}%'
+
+    def format_date(value):
+        """Format number as date MM/YYYY"""
+        if pd.isna(value):
+            return '-'
+        try:
+            # Assuming value is in YYYYMM format as integer
+            year = int(value) // 100
+            month = int(value) % 100
+            return f'{month:02d}/{year}'
+        except:
+            return str(value)
+
+    # Define format for each cell based on its content and position
+    def custom_format(val, item=None, column=None):
+        # Handle NaN/None values consistently
+        if pd.isna(val):
+            return '-'
+            
+        # Special case for date
+        if str(item).strip() == '3.1. Data' and column == 'valor':
+            return format_date(val)
+            
+        # For the 'outros' column, format as percentage
+        if column == 'outros' and isinstance(val, (int, float)):
+            if str(item).strip() in ['4.', '5.', '5.1.']:  # Header rows
+                return '-'
+            return format_percentage(val)
+            
+        if isinstance(val, (int, float)):
+            # For all values in 'valor' column
+            if column == 'valor':
+                if str(item).strip() in ['4.', '5.', '5.1.']:  # Header rows
+                    return '-'
+                return format_number(val, 2)
+            
+            # For percentage values (column 3)
+            elif val <= 1:
+                return format_number(val, 8)
+            
+            # For other numeric values
+            else:
+                return format_number(val, 8)
+                
+        # Convert string 'nan' to '-'
+        if str(val).lower() == 'nan':
+            return '-'
+                
+        return str(val)
+
+    # Apply indentation
     df = df.copy()
     df['item'] = df['item'].apply(indent_item)
 
-    return df.style.hide(axis='index').set_table_styles([
+    # Format all columns consistently
+    for col in df.columns:
+        df[col] = df.apply(lambda row: custom_format(row[col], row['item'], col), axis=1)
+
+    return df.style.hide(axis='index').hide(axis='columns').set_table_styles([
         # Overall table styling
         {'selector': 'table', 'props': [
             ('width', '100%'),
             ('border-collapse', 'collapse'),
             ('margin', '0'),
-            ('table-layout', 'fixed')
+            ('table-layout', 'fixed'),
+            ('font-family', 'Arial'),
+            ('font-size', '11px')
         ]},
-        # Header styling
-        {'selector': 'thead th', 'props': [
-            ('background-color', '#E8E8E8'),
-            ('text-align', 'center'),
-            ('font-weight', 'normal'),
-            ('border', '1px solid black'),
-            ('padding', '2px 4px')
-        ]},
-        # Specific column styling
-        {'selector': 'td:nth-child(1)', 'props': [  # First column (item)
+        # Column styling for first column (left-aligned)
+        {'selector': 'td:nth-child(1)', 'props': [
             ('text-align', 'left'),
             ('border', '1px solid black'),
-            ('padding', '2px 4px')
+            ('padding', '2px 4px'),
+            ('width', '60%')
         ]},
-        {'selector': 'td:nth-child(2), td:nth-child(3)', 'props': [  # Other columns
+        # Column styling for other columns (right-aligned)
+        {'selector': 'td:nth-child(2), td:nth-child(3)', 'props': [
             ('text-align', 'right'),
             ('border', '1px solid black'),
-            ('padding', '2px 4px')
+            ('padding', '2px 4px'),
+            ('width', '20%')
         ]}
-    ]).format(
-        na_rep='-',
-        precision=2,
-        decimal=',',
-        thousands='.',
-        formatter=lambda x: f'{x:,.2f}' if isinstance(x, (int, float)) else x
-    )
+    ])
 
 def generate_header_html(info_data):
     """Generate HTML header with proper escaping"""
@@ -112,9 +177,12 @@ def generate_header_html(info_data):
             </td>
         </tr>
         <tr>
-            <td style="border: 1px solid black; padding: 2px 4px;">Local do Imóvel: {info_data['local_construcao']}</td>
+            <td style="border: 1px solid black; padding: 2px 4px;">Local do Imóvel: {info_data['local_construcao']}, {info_data['cidade_uf']}</td>
             <td style="border: 1px solid black; padding: 2px 4px;">Folha 4</td>
             <td colspan="2" style="border: 1px solid black; padding: 2px 4px;">Total de Folhas 10</td>
+        </tr>
+        <tr>
+        <td style="border: 1px solid black;">Nome do edifício: {info_data['nome_edificio']}</td>
         </tr>
         <tr>
             <td colspan="2" style="border: 1px solid black; padding: 2px 4px;">INCORPORADOR</td>
@@ -149,7 +217,7 @@ def main():
             
             # Load header information
             header_query = """
-                SELECT nome_incorporador, nome_responsavel_tecnico, registro_crea, local_construcao 
+                SELECT nome_incorporador, nome_responsavel_tecnico, registro_crea, local_construcao, cidade_uf, nome_edificio 
                 FROM informacoes_preliminares 
                 LIMIT 1
             """

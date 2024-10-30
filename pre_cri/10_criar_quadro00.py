@@ -12,7 +12,7 @@ SELECT nome_incorporador, cnpj_incorporador, endereco_incorporador,
        nome_edificio, local_construcao, cidade_uf, designacao_projeto_padrao,
        quantidade_unidades_autonomas, padrao_acabamento, numero_pavimentos, vagas_total, 
        vagas_unidade_autonoma, vagas_acessorio_unidade_autonoma, vagas_uso_comum, area_lote, 
-       data_aprovacao_projeto, numero_alvara_projeto
+       data_aprovacao_projeto, numero_alvara_projeto, nota
 FROM informacoes_preliminares
 LIMIT 1
 """
@@ -40,6 +40,7 @@ vagas_uso_comum = result['vagas_uso_comum']
 area_lote = result['area_lote']
 data_aprovacao_projeto = result['data_aprovacao_projeto']
 numero_alvara_projeto = result['numero_alvara_projeto']
+nota = result['nota']
 
 # Fechar a conexão com o banco de dados
 conn.close()
@@ -47,32 +48,43 @@ conn.close()
 # HTML para o novo quadro com a estrutura ajustada de acordo com a imagem de referência
 html_quadro = f"""
 <html>
-<head>
-    <title>Informações Preliminares - NBR 12.721</title>
-    <style>
-        table {{
-            width: 100%;
-            border-collapse: collapse;
-            border: 1px solid black;
-        }}
-        th, td {{
-            border: 1px solid black;
-            padding: 8px;
-            text-align: left;
-        }}
-        th {{
-            background-color: #f2f2f2;
-        }}
-        .section-header {{
-            font-weight: bold;
-            background-color: #e0e0e0;
-            text-align: center;
-        }}
-    </style>
-</head>
+<table style="width: 100%; border: 1px solid black; border-collapse: collapse;">
+    <tr>
+        <td colspan="4" style="text-align: center; font-weight: bold; border: 1px solid black;">
+            INFORMAÇÕES PARA ARQUIVO NO REGISTRO DE IMÓVEIS<br>
+            (Lei 4.591 - 16/12/64 - Art. 32 e ABNT NBR 12721)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" style="text-align: center; border: 1px solid black;">
+            NBR 12.721 - INFORMAÇÕES PRELIMINARES
+        </td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">Local do Imóvel: {local_construcao}, Curitiba, Paraná</td>
+        <td style="border: 1px solid black;">Folha 1</td>
+        <td style="border: 1px solid black;">Total de Folhas 10</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">Nome do edifício: {nome_edificio}</td>
+    </tr>
+    <tr>
+        <td colspan="2" style="border: 1px solid black;">INCORPORADOR</td>
+        <td colspan="2" style="border: 1px solid black;">PROFISSIONAL RESPONSÁVEL</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">{incorporador}</td>
+        <td style="border: 1px solid black;">Data: 28/10/2024</td>
+        <td style="border: 1px solid black;">{responsavel_tecnico} ({registro_crea})</td>
+        <td style="border: 1px solid black;"></td>
+    </tr>
+</table>
 <body>
     <h1 style="text-align: center;">NBR 12.721 - INFORMAÇÕES PRELIMINARES</h1>
-    
+    <tr>
+        <td style="text-align: left;">Folha 2</td>
+        <td style="text-align: left;">Total de Folhas 10</td>
+    </tr>
     <table>
         <tr class="section-header">
             <td colspan="2">1. INCORPORADOR</td>
@@ -151,7 +163,7 @@ html_quadro = f"""
         </tr>
         <tr>
             <td>3.8.2 Vagas Acessório de Unidade Autônoma:</td>
-            <td>{vagas_acessorio_unidade_autonoma}</td>
+            <td>{vagas_acessorio_unidade_autonoma} (vagas presas)</td>
         </tr>
         <tr>
             <td>3.8.3 Vagas de Uso Comum:</td>
@@ -181,6 +193,10 @@ html_quadro = f"""
             competente Registro de Imóveis, em atendimento ao disposto 
             na Lei 4.591, de 16 de dezembro de 1.964.
             </td>
+        </tr>
+        <tr>
+            <td>Nota:</td>
+            <td>{nota}</td>
         </tr>
     </table>
 </body>

@@ -88,6 +88,20 @@ df_multiplicado = numeric_cols.mul(quantidade_col, axis=0)
 # Calcular a soma das colunas multiplicadas
 sum_row = df_multiplicado.sum()
 
+# Identificar a coluna de custo
+coluna_custo = ("CUSTO DA CONSTRUÇÃO DA UNIDADE AUTÔNOMA", "CUSTO", "(31 x ITEM 13.QIII)", "41")
+
+# Arredondar apenas o valor desta coluna para duas casas decimais
+sum_row[coluna_custo] = round(sum_row[coluna_custo], 2)
+
+
+
+
+print(sum_row)
+
+
+# Primeiro arredonda os valores numéricos para 2 casas decimais
+#sum_row = sum_row.apply(lambda x: round(x, 6) if isinstance(x, (int, float)) else x)
 # Adicionar a coluna de Pavimento com valor "Total" na linha de somatório
 sum_row[("", "DESIGNAÇÃO DA UNIDADE", "(QII-19)", "39")] = "Total"
 # Adicionar a linha de somatório ao dataframe original
@@ -111,7 +125,8 @@ def format_styler(df):
             {'selector': '.index_name', 'props': 'display:none'},
             {'selector': '.row_heading', 'props': 'display:none'}
         ]
-    ).format(na_rep='-', precision=8)
+    ).format(na_rep='-', precision=8, decimal=',', thousands='.')\
+    .format({("CUSTO DA CONSTRUÇÃO DA UNIDADE AUTÔNOMA", "CUSTO", "(31 x ITEM 13.QIII)", "41"): '{:,.2f}'.format}, decimal=',', thousands='.')
     
     return styler
 
@@ -134,7 +149,7 @@ html_cabecalho = f"""
     </tr>
     <tr>
         <td style="border: 1px solid black;">Local do Imóvel: {local_construcao}, Curitiba, Paraná</td>
-        <td style="border: 1px solid black;">Folha 2</td>
+        <td style="border: 1px solid black;">Folha 5</td>
         <td style="border: 1px solid black;">Total de Folhas 10</td>
     </tr>
     <tr>

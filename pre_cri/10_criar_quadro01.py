@@ -142,7 +142,7 @@ def format_styler(df):
             {'selector': '.index_name', 'props': 'display:none'},
             {'selector': '.row_heading', 'props': 'display:none'}
         ]
-    ).format(na_rep='-', precision=8)
+    ).format(na_rep='-', precision=8, decimal=',', thousands='.')
     
     return styler
 

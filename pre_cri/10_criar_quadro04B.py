@@ -15,7 +15,7 @@ if 'ROWID' in df_quadro_area_04.columns:
 
 # Buscar as informações da tabela informacoes_preliminares para o cabeçalho
 query = """
-SELECT nome_incorporador, nome_responsavel_tecnico, registro_crea, local_construcao 
+SELECT nome_incorporador, nome_responsavel_tecnico, registro_crea, local_construcao, nome_edificio
 FROM informacoes_preliminares 
 LIMIT 1
 """
@@ -26,6 +26,7 @@ incorporador = result['nome_incorporador']
 responsavel_tecnico = result['nome_responsavel_tecnico']
 registro_crea = result['registro_crea']
 local_construcao = result['local_construcao']
+nome_edificio = result['nome_edificio']
 
 # Fechar a conexão com o banco de dados
 conn.close()
@@ -98,7 +99,7 @@ def format_styler(df):
             {'selector': '.index_name', 'props': 'display:none'},
             {'selector': '.row_heading', 'props': 'display:none'}
         ]
-    ).format(na_rep='-', precision=8)
+    ).format(na_rep='-', precision=8, decimal=',', thousands='.')
     
     return styler
 
@@ -121,8 +122,11 @@ html_cabecalho = f"""
     </tr>
     <tr>
         <td style="border: 1px solid black;">Local do Imóvel: {local_construcao}</td>
-        <td style="border: 1px solid black;">Folha 2</td>
+        <td style="border: 1px solid black;">Folha 6</td>
         <td style="border: 1px solid black;">Total de Folhas 10</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">Nome do edifício: {nome_edificio}</td>
     </tr>
     <tr>
         <td colspan="2" style="border: 1px solid black;">INCORPORADOR</td>

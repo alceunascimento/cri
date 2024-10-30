@@ -136,7 +136,7 @@ def format_styler(df):
             {'selector': '.index_name', 'props': 'display:none'},
             {'selector': '.row_heading', 'props': 'display:none'}
         ]
-    ).format(na_rep='-', precision=8)
+    ).format(na_rep='-', precision=8, decimal=',', thousands='.')
     
     return styler
 
@@ -159,7 +159,7 @@ html_cabecalho = f"""
     </tr>
     <tr>
         <td style="border: 1px solid black;">Local do Imóvel: {local_construcao}, Curitiba, Paraná</td>
-        <td style="border: 1px solid black;">Folha 2</td>
+        <td style="border: 1px solid black;">Folha 3</td>
         <td style="border: 1px solid black;">Total de Folhas 10</td>
     </tr>
     <tr>

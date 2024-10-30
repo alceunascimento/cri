@@ -21,6 +21,7 @@ scripts = [
     "4_alvara_criar.py",
     "4_alvara_popular.py",
     "5_tabela_cri.py",
+    "6_create_xml_from_db.py",
 ]
 
 # Executar cada script

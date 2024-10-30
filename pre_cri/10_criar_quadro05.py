@@ -12,7 +12,7 @@ df_quadro_area_05 = pd.read_sql_query(query, conn)
 # Buscar as informações da tabela informacoes_preliminares
 query = """
 SELECT nome_incorporador, nome_responsavel_tecnico, registro_crea, local_construcao,
-       data_aprovacao_projeto
+       data_aprovacao_projeto, nome_edificio
 FROM informacoes_preliminares 
 LIMIT 1
 """
@@ -24,6 +24,8 @@ responsavel_tecnico = result['nome_responsavel_tecnico']
 registro_crea = result['registro_crea']
 local_construcao = result['local_construcao']
 data_aprovacao = result['data_aprovacao_projeto']
+nome_edificio = result['nome_edificio']
+
 
 
 # Fechar a conexão com o banco de dados
@@ -79,12 +81,15 @@ html_template = f"""
                 INFORMAÇÕES GERAIS<br>
             </td>
             <td style="text-align: right;">
-                FOLHA NÚMERO 12<br>
-                TOTAL FOLHAS 18
+                FOLHA NÚMERO 7<br>
+                TOTAL FOLHAS 10
             </td>
         </tr>
         <tr>
             <td colspan="4">LOCAL DO IMÓVEL: {local_construcao}</td>
+        </tr>
+            <tr>
+        <td style="border: 1px solid black;">Nome do edifício: {nome_edificio}</td>
         </tr>
         <tr>
             <td colspan="2" class="section-title">INCORPORADOR</td>
@@ -93,11 +98,11 @@ html_template = f"""
         <tr>
             <td colspan="2">
                 Nome: {incorporador}<br>
-                Data: out/2024
+                Data: 23/10/2024
             </td>
             <td colspan="2">
                 Nome: {responsavel_tecnico}<br>
-                Data: out/2024 &nbsp;&nbsp;&nbsp;&nbsp; Registro no CREA: {registro_crea}
+                Data: 23/10/2024 &nbsp;&nbsp;&nbsp;&nbsp; Registro no CREA: {registro_crea}
             </td>
         </tr>
     </table>

@@ -29,7 +29,8 @@ cursor.execute('''
         area_lote REAL,
         data_aprovacao_projeto DATE,
         numero_alvara_projeto TEXT,
-        data_local_assinaturas DATE
+        data_local_assinaturas DATE,
+        nota TEXT
     )
 ''')
 
@@ -39,9 +40,9 @@ cursor.execute('''
         nome_incorporador, cnpj_incorporador, endereco_incorporador, nome_responsavel_tecnico, registro_crea, art, endereco_responsavel_tecnico, 
         nome_edificio, local_construcao, cidade_uf, designacao_projeto_padrao, quantidade_unidades_autonomas, padrao_acabamento, numero_pavimentos, 
         vagas_total, vagas_unidade_autonoma, vagas_acessorio_unidade_autonoma, vagas_uso_comum, area_lote, data_aprovacao_projeto, numero_alvara_projeto, 
-        data_local_assinaturas
+        data_local_assinaturas, nota
     ) VALUES (
-        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+        ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
     )
 ''', (
     'IPBL CARLOS DE CARVALHO INCORPORAÇÃO DE IMÓVEIS SPE LTDA', 
@@ -49,11 +50,11 @@ cursor.execute('''
     'Rua Kalil Elias Warde, 219, Campina do Siqueira, Curitiba, Paraná',
     'Ana Lucia Bajerski', 
     '24.075-D/PR', 
-    '1720245684127', 
+    '1720246147770', 
     'Rua Emiliano Perneta, 725, conj. 502, Centro, Curitiba, Paraná', 
     'AYA CARLOS DE CARVALHO', 
-    'Alameda Doutor Carlos de Carvalho, 256; Rua Visconde de Nacar, 1035; Rua Cruz Machado, 555', 
-    'Curitiba, Paraná',
+    'Alameda Doutor Carlos de Carvalho, 256; Rua Visconde de Nacar, 1035; Rua Cruz Machado, 555',
+    'Curitiba, Paraná.',
     'R16N', 
     890, 
     'Normal', 
@@ -63,9 +64,10 @@ cursor.execute('''
     49, 
     0, 
     3231.16, 
-    None, 
+    '2024-10-23', 
     405847, 
-    '2024-10-04'
+    '2024-10-23',
+    'Cf. ABNT 12.721: 2006 Item 3.17 nota 2: "As eventuais diferenças entre as áreas reais calculadas nos quadros desta Norma com outras áreas constantes nos projetos, alvarás e/ou habite-se, devem-se aos diferentes critérios estabelecidos nas respectivas metodologias de cálculo.'
 ))
 
 # Salvando (commit) as alterações e fechando a conexão

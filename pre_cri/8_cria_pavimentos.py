@@ -172,13 +172,45 @@ class BuildingUnitLocations:
 
     def generate_store_text(self, summary: UnitSummary) -> str:
         """Generate formatted text for stores"""
-        text = (f"As lojas estão localizadas no térreo, num total de {summary.total_count} "
-                f"unidades autônomas, sendo as Lojas nº ")
-
-        for floor in sorted(summary.locations.keys()):
-            units = self.format_unit_numbers(sorted(summary.locations[floor]))
-            text += f"{units}.\n"
-
+        # Get unique floor names from the locations dictionary
+        floors = list(summary.locations.keys())
+    
+        # Get first and second floor names
+        first_floor_text = floors[0]
+        second_floor_text = floors[1]
+    
+        # Get units for each floor and format them with leading zeros
+        units_first_floor = [f"{int(unit):02d}" for unit in summary.locations[first_floor_text]]
+        units_second_floor = [f"{int(unit):02d}" for unit in summary.locations[second_floor_text]]
+    
+        # Sort units for each floor
+        units_first_floor = sorted(units_first_floor, key=lambda x: int(x))
+        units_second_floor = sorted(units_second_floor, key=lambda x: int(x))
+    
+        # Create comma-separated strings for units on each floor
+        units_on_the_first_floor = ", ".join(units_first_floor)
+        units_on_the_second_floor = ", ".join(units_second_floor)
+    
+        # Collect all unit numbers from all floors into a single list
+        all_units = []
+        for units in summary.locations.values():
+            all_units.extend(units)
+    
+        # Sort all unit numbers numerically
+        sorted_units = sorted(all_units, key=lambda x: int(x))
+    
+        # Format all unit numbers with leading zeros
+        formatted_units = [f"{int(unit):02d}" for unit in sorted_units]
+    
+        # Join all units with commas
+        units_text = ", ".join(formatted_units)
+    
+        # Generate the complete text with floor-specific information
+        text = (f"As lojas, num total de {summary.total_count} "
+                f"unidades autônomas, são as Lojas nº {units_text}. "
+                f"Destas, as Lojas nº {units_on_the_first_floor} estão no {first_floor_text} e as "
+                f"Lojas nº {units_on_the_second_floor} estão no {second_floor_text}.")
+    
         return text
 
     def generate_all_texts(self) -> None:
