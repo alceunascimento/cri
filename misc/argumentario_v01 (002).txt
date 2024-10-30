@@ -1,0 +1,131 @@
+AUTOMATIZAÇÃO INCORPORAÇÃO IMOBILIÁRIA 
+PERGUNTAS PARA O SISTEMA 
+EDIFÍCIOS
+
+# A. Questões definidas pela legislação (Código de Normas da CGJ TJPR Extrajudicial)
+
+- Referencia normativa:
+Art. 607-E. Considerando tratar-se de documento técnico de engenharia, a qualificação do registrador sobre este documento deve se limitar a analisar:
+I - se a área do terreno está correta de acordo com a que consta da matrícula;
+II - se o somatório das frações ideais atribuídas às unidades, em forma decimal ou metragem quadrada, corresponde ao total da metragem do terreno;
+III - se as áreas identificadas no projeto de construção e reproduzidas nos quadros são enunciadas discriminadamente, conforme memorial.
+Art. 607-F. Na declaração relativa às vagas de garagens, deverá haver menção expressa do regime jurídico utilizado para as garagens (propriedade autônoma; direito real de uso; direito acessório da propriedade autônoma; parte de uso comum do edifício ou outra).
+
+- Perguntas:
+A.1. A "área do terreno" é igual à "area do imóvel" contida na descrição tabular da matrícula?
+- Sim. Nos dois documentos consta a área de [x]m²;
+- Não. Há uma diferença de [x]m2 entre as areas dos dois documentos;
+A.2. A soma das "quotas de terreno" de cada "unidade autônoma" é igual à "área do imóvel" contida na descrição tabular da matrícula?
+- Sim. A soma das "quotas de terreno" é [x] e a "área do imóvel" contida na descrição tabular da matrícula é [x].
+- Não. Há uma diferença de [x]m2 entre a soma das "quotas de terreno" e a "área do imóvel" contida na descrição tabular da matrícula;
+
+A.3. As "áreas" indicadas no memorial é igual às areas presentes no projeto e nos quadros da NBR? 
+[[AEN: extremamente genérico. Qual é o objetivo da norma, que o CRI compare o dado de cada instrumento: projeto, quadro e memorial?]] - OBS. TAYRINI: todas as áreas construídas e área superficial do terreno devem ser iguais entre todos os documentos.
+
+A.4. Há indicação do regime jurídico das vagas de garagem?
+- Sim.
+- Não. 
+
+
+# B. Questões definidas pelo CRI:
+
+1. A “área remanescente” constante do alvará de construção é igual à “área superficial do terreno” indicada no Quadro [x]?
+- Sim. Nos dois documentos consta a área de [x]m²;
+- Não. Há uma diferença de [x]m2 entre as areas dos dois documentos;
+
+2. A “fração ideal de terreno” de cada “unidade autônoma” indicada no Quadro [x] quando multiplicada pela “área superficial do terreno” indicada no Quadro [x] é igual à “cota de terreno” indicada no Quadro [x] para cada uma das unidades autônomas?
+- Sim.
+[incluir a apuração como um aba da "planilha do cri"]
+- Não. Há discrepância nas seguintes unidades autônomas:
+[unidade | fração ideal de terreno | area superficial do terreno | apuração da cota de terreno | cota de terreno declarada no Quadro [x]]
+
+3. A soma das “cotas de terreno” de cada unidade autonoma indicada no Quadro [x] é igual à “área superficial do terreno” indicada no Quadro [x]?
+- Sim. Nos dois documentos consta a área de [x]m²;
+- Não. Há uma diferença de [x]m2 entre as areas dos dois documentos;
+ 
+4. A soma das “cotas de terreno” de cada unidade autônoma, agrupada por subcondomínios, é igual à “área superficial do terreno” indicada no Quadro [x]? [[AEN: não vai ser igual]] 
+- Sim.
+- Não.
+ 
+5. A soma de todas as “frações ideais de terreno” de cada “unidade autônoma” indicada no Quadro [x] é igual a 1?
+- Sim. 
+- Não. A soma é [x];
+ 
+6. A soma de todas as “frações ideais de terreno” de cada “unidade autônoma” indicada no Quadro [x], agrupadas por subcondomínio, é igual a 1 em cada subcondomínio?
+- Sim.
+- Não. Há diferença no(s) subcondomínio(s):
+[subcondominio | soma das fracoes ideas de terreno]
+ 
+7. A soma da “área privativa construída” indicada no Item [x] do Quadro [x] e da “área comum construída” indicada no Item [x] do Quadro [x] de cada unidade autônoma corresponde à “área total construída” da respectiva unidade autônoma?
+- Sim.
+- Não.
+ 
+8. A soma da “área total construída” de cada unidade indicada no Quadro [x] é igual à “área total construída” constante do alvará de construção?
+- Sim. Nos dois documentos consta a área de [x]m²;
+- Não. Há uma diferença de [x]m2 entre as areas dos dois documentos;
+ 
+9. Quantas “unidades autônomas residenciais” possui o empreendimento, conforme o dado indicado no Quadro [x]? 
+- [x] “unidades autônomas residenciais”
+
+ 
+10. A quantidade de “unidades autônomas” que consta no quadro de areas NBR [x] é igual à quantidade que consta no alvará de construção?
+- Sim. Nos dois documentos consta a quantidade de [x] “unidades autônomas”;
+[ subcondomínio | quantidade de unidades autônomas indicada no quadro [x] | quantidade de unidades autônomas indicada no alvará de construção | diferença]
+- Não. Há uma diferença entre as quantidades dos dois documentos:
+[ subcondomínio | quantidade de unidades autônomas indicada no quadro [x] | quantidade de unidades autônomas indicada no alvará de construção | diferença]
+
+
+11. O alvará de construção discriminou a “área construída” das “unidades autônomas comerciais”? 
+- Sim.
+- Não.
+ 
+12. Se sim, é igual com à “área construída privativa” indicada no Quadro [x]?
+- Sim.
+- Não.
+ 
+13. Quantas “unidades vinculadas de vagas de estacionamento” possui o empreendimento? 
+Bate com o que está no alvará? (O ALVARÁ NÃO VAI DIZER SER É VINCULADA OU AUTÔNOMA, PORÉM O NÚMERO DE VAGAS, SEJAM ELAS VINCULADAS OU AUTÔNOMAS, DEVE CORRESPONDER AO QUE CONSTA DO ALVARÁ, PODE INCLUSIVE TER DOS DOIS TIPOS)
+- Sim.
+- Não.
+ 
+14. A soma da quantidade de “unidades autônomas de vagas de estacionamento” com a quantidade de “unidades vinculadas de vagas de estacionamento” é igual à quantidade total de vagas de estacionamento indicada no alvará de construção?
+- Sim.
+- Não.
+ 
+15. Existem unidade autônomas com o mesmo número de identificação, isto é, existem números de identificação duplicados?
+- Sim.
+[ unidades | especie | subcondomínio ]
+- Não.
+ 
+16. A quantidade de “blocos” do empreendimento é igual a constante do alvará?
+- Sim.
+- Não.
+ 
+17. A quantidade de “pavimentos” do empreendimento é igual a constante do alvará?
+- Sim. Nos dois documentos conta a existirem [x] pavimentos;
+- Não. Há uma diferença de [x] entre os dois documentos;
+ 
+18. Especifique quais são as “unidades autônomas” por pavimento; todas “unidades autônomas” estão mencionadas?
+- Sim.
+- Não.
+ 
+19. A identificação das unidades (numeração delas) é sequencial? Pulou algum número? Repetiu algum número?
+- Sim.
+[ subcondomínio | numero de inicio | numero de fim | sequencial | numeros ausentes]
+- Não.
+[ subcondomínio | numero de inicio | numero de fim | sequencial | numeros ausentes]
+
+20. Constou o número do alvará de construção identificado pelo Município? 
+- Sim. O número do alvará de construção é [x];
+- Não. 
+
+21.Confere com o alvará de construção apresentado? (VAI SAIR NO MEMORIAL)
+- Sim.
+- Não.
+ 
+
+
+C. Questões definidas pelo desenvolvedor
+
+1. O XML está com assinatura digital válida?
+- Sim. [descrever retorno da validação]
