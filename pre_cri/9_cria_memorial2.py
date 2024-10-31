@@ -51,6 +51,7 @@ class UnitType(Enum):
         """Convert string to UnitType"""
         mapping = {
             'APARTAMENTO': cls.APARTMENT,
+            'KITINETE': cls.APARTMENT,  # Adicionado KITINETE para mapear para APARTMENT
             'VAGA': cls.PARKING,
             'LOJA': cls.STORE
         }
@@ -112,7 +113,9 @@ class UnitDescriptionGenerator(ABC):
 
 class ApartmentDescriptionGenerator(UnitDescriptionGenerator):
     def generate(self, unit: UnitData) -> str:
-        return f"""APARTAMENTO {unit.unidade_numero}:
+        # Mantém o nome original da espécie da unidade
+        unit_type = unit.especie_unidade
+        return f"""{unit_type} {unit.unidade_numero}:
 Subcondomínio: {unit.subcondominio}.
 Áreas construídas: área total construída de {unit.area_total_construida:.8f} metros quadrados,
 sendo a área privativa de {unit.area_privativa:.8f} metros quadrados
@@ -127,6 +130,13 @@ pelo lado direito com {unit.confrontacao_direita},
 pelo lado esquerdo com {unit.confrontacao_esquerda}
 e pelo fundo com {unit.confrontacao_fundos}."""
 
+
+class KitineteDescriptionGenerator(ApartmentDescriptionGenerator):
+    def generate(self, unit: UnitData) -> str:
+        # Preserve KITINETE in description
+        return super().generate(unit)
+    
+    
 class ParkingDescriptionGenerator(UnitDescriptionGenerator):
     def generate(self, unit: UnitData) -> str:
         tipo_vaga_str = "simples para (1)" if unit.tipo_vaga.lower() == 'simples' else "dupla para (2)"
@@ -292,7 +302,10 @@ class MemorialGenerator:
         self.db_path = db_path
         self.output_dir = output_dir
         self.description_generators = {
-            UnitType.APARTMENT: ApartmentDescriptionGenerator(),
+            UnitType.APARTMENT: {
+                'APARTAMENTO': ApartmentDescriptionGenerator(),
+                'KITINETE': KitineteDescriptionGenerator()
+            }[unit_data.especie_unidade],
             UnitType.PARKING: ParkingDescriptionGenerator(),
             UnitType.STORE: StoreDescriptionGenerator()
         }
@@ -376,7 +389,7 @@ class MemorialGenerator:
     def _generate_descriptions(self, units_data: List[Dict[str, Any]]) -> List[str]:
         """Generate descriptions for all units with added logging"""
         descriptions = []
-        unit_counts = {'APARTAMENTO': 0, 'VAGA': 0, 'LOJA': 0}
+        unit_counts = {'APARTAMENTO': 0, 'KITINETE': 0, 'VAGA': 0, 'LOJA': 0}
         
         for unit_dict in units_data:
             try:
@@ -417,7 +430,7 @@ class MemorialGenerator:
         logger.info(f"Total descriptions to process: {len(descriptions)}")
         
         for desc in descriptions:
-            if desc.startswith("APARTAMENTO"):
+            if desc.startswith(("APARTAMENTO", "KITINETE")):
                 residencial.append(desc)
             elif desc.startswith("LOJA"):
                 logger.info(f"Found LOJA description: {desc.split('\n')[0]}")

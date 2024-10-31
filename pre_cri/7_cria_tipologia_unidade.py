@@ -121,9 +121,12 @@ class UnitDescriptionGenerator:
             """Generate description for apartment units"""
             first_unit = units[0]
             unit_numbers = ', '.join(str(unit.unidade_numero) for unit in units)
-            
-            return f"""APARTAMENTO TIPO {first_unit.tipo_unidade}: {len(units)} unidades, 
-                correspondentes aos apartamentos nº {unit_numbers}, 
+    
+            # Determina o tipo de unidade para o texto
+            unidade_texto = "apartamentos" if first_unit.especie_unidade.lower() == 'apartamento' else "kitinetes"
+    
+            return f"""{first_unit.especie_unidade.upper()} TIPO {first_unit.tipo_unidade}: {len(units)} unidades, 
+                correspondentes aos {unidade_texto} nº {unit_numbers}, 
                 possuindo cada unidade as seguintes áreas construídas: 
                 área total construída de {self.format_decimal(first_unit.area_total_construida)} metros quadrados,
                 sendo a área privativa de {self.format_decimal(first_unit.area_privativa)} metros quadrados
@@ -193,7 +196,7 @@ class UnitDescriptionGenerator:
                                 logging.warning(f"Empty especie_unidade found for tipo: {tipo}")
                                 continue
                             
-                            if especie_lower == 'apartamento':
+                            if especie_lower in('apartamento', 'kitinete'):
                                 description = self.generate_apartment_description(units)
                                 f_apartamento.write(description + '\n')
                             elif especie_lower == 'vaga':

@@ -94,7 +94,7 @@ class BuildingUnitLocations:
         apartment_data = self.execute_query("""
             SELECT pavimento, unidade_numero
             FROM cri
-            WHERE especie_unidade = 'APARTAMENTO'
+            WHERE especie_unidade IN ('APARTAMENTO','KITINETE')
             ORDER BY pavimento, unidade_numero
         """)
 

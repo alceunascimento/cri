@@ -14,7 +14,7 @@ Ana Lucia Bajerski, Engenheira Civil CREA 24.075-D/PR
 Matrícula nº 70.290 do Registro Geral de Imóveis do 1º Serviço de Registro de Imóveis da Comarca de Curitiba, Paraná.
 
 ## Edifício
-O incorporador, sobre o imóvel já descrito, construirá por sua conta e risco, por preço determinável, na forma do Artigo 43, da Lei 4.591, de 16 de dezembro de 1.964, um empreendimento denominado “AYA CARLOS DE CARVALHO”, subdividido em 03 (três) subcondomínios distintos: (i) Subcondomínio Estacionamento, composto por 208 (duzentos e oito) vagas de garagem autônomas, com capacidade para estacionar 257 veículos, o qual localizar-se-á desde o subsolo 3 até o subsolo 1, com acesso de entrada de veículos pela Alameda Doutor Carlos de Carvalho e saída de veículos pela Rua Cruz Machado. O acesso de pedestres será feito pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial; (ii) Subcondomínio Galeria, composto por 08 (oito) unidades de Comércios e Serviços Vicinais designados como LOJAS, todas com destinação comercial, o qual localizar-se-á no térreo e mezanino, com acesso de pedestres pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial; (iii) Subcondomínio Residencial, composto por 574 kitinetes e 308 apartamentos, totalizando 882 (oitocentos e oitenta e dois) unidades residenciais designadas como APARTAMENTOS, com destinação de habitação coletiva, o qual localizar-se-á desde o 3º pavimento até o 32º pavimento, com acesso de pedestres pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial. O edifício será localizado na Alameda Doutor Carlos de Carvalho, 256, com a Rua Visconde de Nacar, 1035 e Rua Cruz Machado, 555, será construído em alvenaria e estrutura em concreto armado, com área total construída de 54.781,50m², conforme projeto aprovado pelo Alvará de Construção nº 405847, datado de 23/10/2024, e terá 38 (trinta e oito) pisos: subsolo 3, subsolo 2, subsolo 1, térreo, mezanino, 2º pavimento, pavimentos Tipo B1 (3º pavimento), pavimentos Tipo B2  (4° e 5° pavimento),  Tipo A1 (6° pavimento), pavimentos Tipo A2 (7° e 8° pavimento), pavimentos Tipo A3  (9° pavimento), pavimentos Tipo A4 (10° pavimento), pavimentos Tipo A5 (11° pavimento), pavimentos Tipo A6 (12° e 14° pavimento), pavimentos Tipo A7 (13° pavimento), pavimentos Tipo B3 (15° pavimento), pavimentos Tipo B4 (16° pavimento), pavimentos Tipo A8  (17° pavimento.), pavimentos Tipo C1 (18° pavimento), pavimentos Tipo C2 (19° e 20° pavimento), pavimentos Tipo C3 (21° pavimento), pavimentos Tipo C4 (22° ao 24° pavimento), pavimentos Tipo C5 (25° pavimento), pavimentos Tipo D1 (26° ao 28° pavimento),  pavimentos Tipo D2  (29° pavimento), pavimentos Tipo D3  (30° pavimento), pavimentos Tipo D4  (31° e 32° pavimento), piso técnico e 33º pavimento. Os pisos do edifício estarão assim distribuídos: 01º piso ou subsolo 3: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, depósito coletivo sob rampa, 09 (nove) depósitos vinculados às vagas sob nº 176/177, 178/179, 182/183, 184/185, 215/216, 217, 218, 219, 220/221, rampa sobe para subsolo 2, estacionamento com 72 (setenta e duas) vagas de automóveis sob nº 163 ao 257, sendo 49 (quarenta e nove) vagas simples autônomas e 23 (vinte e três) vagas duplas autônomas; 02º piso ou subsolo 2: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, 09 (nove) depósitos vinculados às vagas sob nº 82/81, 84/83, 88/87, 90/89, 120/121, 122, 123, 124, 125/126, rampa desce para subsolo 3, rampa sobe para subsolo 1, estacionamento com 95 (noventa e cinco) vagas de automóveis sob nº 68 ao 162, sendo 49 (quarenta e nove) vagas simples autônomas e 23 (vinte e três) vagas duplas autônomas; 03º piso ou subsolo 1: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, copa funcionários, vestiário fem., vestiário masc., vestiário acessível, sala BMS, administrativo, bicicletário, espaços técnicos para cisternas, contenção de cheias, caixa de gordura, gerador, medidores e transformadores, depósito vinculado à vaga sob nº 67, rampa desce para subsolo 2, rampa de entrada do térreo, rampa de saída para o térreo, estacionamento com 67 (sessenta e sete) vagas de automóveis sob nº 1 ao 67, sendo 61 (sessenta e uma) vagas simples autônomas e 03 (três) vagas duplas autônomas; 04º piso ou térreo: 04 (quatro) acessos de pedestres comercial/residencial, sendo um pela Rua Cruz Machado, 02 (dois) pela Rua Visconde de Nacar e um pela Alameda Doutor Carlos de Carvalho; acesso embarque e desembarque de passageiros e port cochére comercial/residencial, saída de veículos estacionamento (rampa que sobe do subsolo 1) pela Rua Cruz Machado; acesso de veículos estacionamento (rampa que desce para subsolo 1) pela Alameda Doutor Carlos de Carvalho; rampas e escadas de acessos de pedestres, plataforma PNE, calçadas, jardins, lixeiras, rampa/eclusa serviço, eclusa/lockers, portaria com I.S., depósito encomendas, hall delivery, hall residencial, 10 (dez) elevadores, 03 (três) escadas de emergência, antecâmara, área técnica, galeria comercial e 08 (oito) lojas sob nº 01, 02, 03, 04, 05, 06, 07 e 08; 05º piso ou mezanino: 10 (dez) elevadores (sem parada), 02 (duas) escadas de emergência (sem acesso), 03 (três) espaços técnicos e mezaninos das lojas nº 01, 02, 07 e 08; 06º piso ou 2º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, 02 (dois) I.Ss, DML, 02 (dois) halls, jogos adulto, coworking, 02 (dois) I.S.s A., gourmet 1, gourmet 2, lavanderia, sala de reunião, copa festas, salão de festas com 02 (dois) I.S.s A., churrasqueira 1, churrasqueira 2 e 02 (dois) terraços/recreações descobertos; 07º piso ou 3º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) apartamentos sob nº 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337 e 338; 08º piso ou 4º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) apartamentos sob nº 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437 e 438; 09º piso ou 5º pavimento:  09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) apartamentos sob nº 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537 e 538; 10º piso ou 6º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 601, 602, 603, 604, 605, 606, 607, 608, 609, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 630, 631, 632, 633, 634, 635, 636, 637 e 638; 11º piso ou 7º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 701, 702, 703, 704, 705, 706, 707, 708, 709, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 730, 731, 732, 733, 734, 735, 736, 737 e 738; 12º piso ou 8º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 801, 802, 803, 804, 805, 806, 807, 808, 809, 811, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 828, 830, 831, 832, 833, 834, 835, 836, 837 e 838; 13º piso ou 09º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 901, 902, 903, 904, 905, 906, 907, 908, 909, 911, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 930, 931, 932, 933, 934, 935, 936, 937 e 938; 14º piso ou 10º pavimento:  09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1028, 1030, 1031, 1032, 1033, 1034, 1035, 1036, 1037 e 1038; 15º piso ou 11º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1109, 1111, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1128, 1130, 1131, 1132, 1133, 1134, 1135, 1136, 1137 e 1138; 16º piso ou 12º pavimento:  09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1209, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1220, 1221, 1222, 1223, 1224, 1225, 1226, 1227, 1228, 1230, 1231, 1232, 1233, 1234, 1235, 1236, 1237 e 1238; 17º piso ou 13º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1309, 1311, 1312, 1313, 1314, 1315, 1316, 1317, 1318, 1319, 1320, 1321, 1322, 1323, 1324, 1325, 1326, 1327, 1328, 1330, 1331, 1332, 1333, 1334, 1335, 1336, 1337 e 1338; 18º piso ou 14º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1401, 1402, 1403, 1404, 1405, 1406, 1407, 1408, 1409, 1411, 1412, 1413, 1414, 1415, 1416, 1417, 1418, 1419, 1420, 1421, 1422, 1423, 1424, 1425, 1426, 1427, 1428, 1430, 1431, 1432, 1433, 1434, 1435, 1436, 1437 e 1438; 19º piso ou 15º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) apartamentos sob nº 1501, 1502, 1503, 1504, 1505, 1506, 1507, 1508, 1509, 1510, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, 1519, 1520, 1521, 1522, 1523, 1524, 1525, 1526, 1527, 1528, 1529, 1530, 1531, 1532, 1533, 1534, 1535, 1536, 1537 e 1538; 20º piso ou 16º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) apartamentos sob nº 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617, 1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637 e 1638; 21º piso ou 17º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 36 (trinta e seis) apartamentos sob nº 1701, 1702, 1703, 1704, 1705, 1706, 1707, 1708, 1709, 1711, 1712, 1713, 1714, 1715, 1716, 1717, 1718, 1719, 1720, 1721, 1722, 1723, 1724, 1725, 1726, 1727, 1728, 1730, 1731, 1732, 1733, 1734, 1735, 1736, 1737 e 1738; 22º piso ou 18º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 1801, 1803, 1806, 1807, 1808, 1809, 1811, 1812, 1813, 1814, 1816, 1819, 1820, 1822, 1825, 1826, 1827, 1828, 1830, 1831, 1832, 1833, 1835 e 1838; 23º piso ou 19º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 1901, 1903, 1906, 1907, 1908, 1909, 1911, 1912, 1913, 1914, 1916, 1919, 1920, 1922, 1925, 1926, 1927, 1928, 1930, 1931, 1932, 1933, 1935 e 1938; 24º piso ou 20º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2001, 2003, 2006, 2007, 2008, 2009, 2011, 2012, 2013, 2014, 2016, 2019, 2020, 2022, 2025, 2026, 2027, 2028, 2030, 2031, 2032, 2033, 2035 e 2038; 25º piso ou 21º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2101, 2103, 2106, 2107, 2108, 2109, 2111, 2112, 2113, 2114, 2116, 2119, 2120, 2122, 2125, 2126, 2127, 2128, 2130, 2131, 2132, 2133, 2135 e 2138; 26º piso ou 22º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2201, 2203, 2206, 2207, 2208, 2209, 2211, 2212, 2213, 2214, 2216, 2219, 2220, 2222, 2225, 2226, 2227, 2228, 2230, 2231, 2232, 2233, 2235 e 2238; 27º piso ou 23º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2301, 2303, 2306, 2307, 2308, 2309, 2311, 2312, 2313, 2314, 2316, 2319, 2320, 2322, 2325, 2326, 2327, 2328, 2330, 2331, 2332, 2333, 2335 e 2338; 28º piso ou 24º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2401, 2403, 2406, 2407, 2408, 2409, 2411, 2412, 2413, 2414, 2416, 2419, 2420, 2422, 2425, 2426, 2427, 2428, 2430, 2431, 2432, 2433, 2435 e 2438; 29º piso ou 25º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 24 (vinte e quatro) apartamentos sob nº 2501, 2503, 2506, 2507, 2508, 2509, 2511, 2512, 2513, 2514, 2516, 2519, 2520, 2522, 2525, 2526, 2527, 2528, 2530, 2531, 2532, 2533, 2535 e 2538; 30º piso 26º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2601, 2603, 2606, 2607, 2609, 2611, 2613, 2614, 2616, 2619, 2620, 2622, 2625, 2626, 2628, 2630, 2632, 2633, 2635 e 2638; 31º piso ou 27º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2701, 2703, 2706, 2707, 2709, 2711, 2713, 2714, 2716, 2719, 2720, 2722, 2725, 2726, 2728, 2730, 2732, 2733, 2735 e 2738; 32º piso ou 28º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2801, 2803, 2806, 2807, 2809, 2811, 2813, 2814, 2816, 2819, 2820, 2822, 2825, 2826, 2828, 2830, 2832, 2833, 2835 e 2838; 33º piso ou 29º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2901, 2903, 2906, 2907, 2909, 2911, 2913, 2914, 2916, 2919, 2920, 2922, 2925, 2926, 2928, 2930, 2932, 2933, 2935 e 2938; 34º piso ou 30º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3001, 3003, 3006, 3007, 3009, 3011, 3013, 3014, 3016, 3019, 3020, 3022, 3025, 3026, 3028, 3030, 3032, 3033, 3035 e 3038; 35º piso ou 31º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3101, 3103, 3106, 3107, 3109, 3111, 3113, 3114, 3116, 3119, 3120, 3122, 3125, 3126, 3128, 3130, 3132, 3133, 3135 e 3138; 36º piso ou 32º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3201, 3203, 3206, 3207, 3209, 3211, 3213, 3214, 3216, 3219, 3220, 3222, 3225, 3226, 3228, 3230, 3232, 3233, 3235 e 3238; 37º piso ou piso técnico:09 (nove) elevadores (sem parada), 02 (duas) escadas de emergência e área técnica; 38º piso ou 33º pavimento: 09 (nove) elevadores, hall elevador, 02 (duas) escadas de emergência, escada serviço cobertura, hall, wellnes, sauna, piscina coberta, academia e recreação/área descoberta de lazer. Na parte superior do edifício situam-se, ainda, o barrilete 1, barrilete 2, casa de máquinas dos elevadores e caixa de água com 02 (dois) reservatórios.
+O incorporador, sobre o imóvel já descrito, construirá por sua conta e risco, por preço determinável, na forma do Artigo 43, da Lei 4.591, de 16 de dezembro de 1.964, um empreendimento denominado “AYA CARLOS DE CARVALHO”, subdividido em 03 (três) subcondomínios distintos: (i) Subcondomínio Estacionamento, composto por 208 (duzentos e oito) vagas de garagem autônomas, com capacidade para estacionar 257 veículos, o qual localizar-se-á desde o subsolo 3 até o subsolo 1, com acesso de entrada de veículos pela Alameda Doutor Carlos de Carvalho e saída de veículos pela Rua Cruz Machado. O acesso de pedestres será feito pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial; (ii) Subcondomínio Galeria, composto por 08 (oito) unidades de Comércios e Serviços Vicinais designados como LOJAS, todas com destinação comercial, o qual localizar-se-á no térreo e mezanino, com acesso de pedestres pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial; (iii) Subcondomínio Residencial, composto por 574 (quinhentos e setenta e quatro) kitinetes e 308 (trezentos e oito) apartamentos, totalizando 882 (oitocentos e oitenta e dois) unidades residenciais, com destinação de habitação coletiva, o qual localizar-se-á desde o 3º pavimento até o 32º pavimento, com acesso de pedestres pelas Rua Cruz Machado, Rua Visconde de Nacar e Alameda Doutor Carlos de Carvalho, através da circulação da galeria comercial. O edifício será localizado na Alameda Doutor Carlos de Carvalho, 256, com a Rua Visconde de Nacar, 1035 e Rua Cruz Machado, 555, será construído em alvenaria e estrutura em concreto armado, com área total construída de 54.781,50m², conforme projeto aprovado pelo Alvará de Construção nº 405847, datado de 23/10/2024, e terá 38 (trinta e oito) pisos: subsolo 3, subsolo 2, subsolo 1, térreo, mezanino, 2º pavimento, pavimentos Tipo B1 (3º pavimento), pavimentos Tipo B2 (4° e 5° pavimento), Tipo A1 (6° pavimento), pavimentos Tipo A2 (7° e 8° pavimento), pavimentos Tipo A3 (9° pavimento), pavimentos Tipo A4 (10° pavimento), pavimentos Tipo A5 (11° pavimento), pavimentos Tipo A6 (12° e 14° pavimento), pavimentos Tipo A7 (13° pavimento), pavimentos Tipo B3 (15° pavimento), pavimentos Tipo B4 (16° pavimento), pavimentos Tipo A8 (17° pavimento.), pavimentos Tipo C1 (18° pavimento), pavimentos Tipo C2 (19° e 20° pavimento), pavimentos Tipo C3 (21° pavimento), pavimentos Tipo C4 (22° ao 24° pavimento), pavimentos Tipo C5 (25° pavimento), pavimentos Tipo D1 (26° ao 28° pavimento), pavimentos Tipo D2 (29° pavimento), pavimentos Tipo D3 (30° pavimento), pavimentos Tipo D4 (31° e 32° pavimento), piso técnico e 33º pavimento. Os pisos do edifício estarão assim distribuídos: 01º piso ou subsolo 3: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, depósito coletivo sob rampa, 09 (nove) depósitos vinculados às vagas sob nº 176/177, 178/179, 182/183, 184/185, 215/216, 217, 218, 219, 220/221, rampa sobe para subsolo 2, estacionamento com 72 (setenta e duas) vagas de automóveis sob nº 163 ao 257, sendo 49 (quarenta e nove) vagas simples autônomas e 23 (vinte e três) vagas duplas autônomas; 02º piso ou subsolo 2: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, 09 (nove) depósitos vinculados às vagas sob nº 82/81, 84/83, 88/87, 90/89, 120/121, 122, 123, 124, 125/126, rampa desce para subsolo 3, rampa sobe para subsolo 1, estacionamento com 95 (noventa e cinco) vagas de automóveis sob nº 68 ao 162, sendo 49 (quarenta e nove) vagas simples autônomas e 23 (vinte e três) vagas duplas autônomas; 03º piso ou subsolo 1: Hall elevadores e escadas, hall elevador, antecâmara, 10 (dez) elevadores, 03 (três) escadas de emergência, copa funcionários, vestiário fem., vestiário masc., vestiário acessível, sala BMS, administrativo, bicicletário, espaços técnicos para cisternas, contenção de cheias, caixa de gordura, gerador, medidores e transformadores, depósito vinculado à vaga sob nº 67, rampa desce para subsolo 2, rampa de entrada do térreo, rampa de saída para o térreo, estacionamento com 67 (sessenta e sete) vagas de automóveis sob nº 1 ao 67, sendo 61 (sessenta e uma) vagas simples autônomas e 03 (três) vagas duplas autônomas; 04º piso ou térreo: 04 (quatro) acessos de pedestres comercial/residencial, sendo um pela Rua Cruz Machado, 02 (dois) pela Rua Visconde de Nacar e um pela Alameda Doutor Carlos de Carvalho; acesso embarque e desembarque de passageiros e port cochére comercial/residencial, saída de veículos estacionamento (rampa que sobe do subsolo 1) pela Rua Cruz Machado; acesso de veículos estacionamento (rampa que desce para subsolo 1) pela Alameda Doutor Carlos de Carvalho; rampas e escadas de acessos de pedestres, plataforma PNE, calçadas, jardins, lixeiras, rampa/eclusa serviço, eclusa/lockers, portaria com I.S., depósito encomendas, hall delivery, hall residencial, 10 (dez) elevadores, 03 (três) escadas de emergência, antecâmara, área técnica, galeria comercial e 08 (oito) lojas sob nº 01, 02, 03, 04, 05, 06, 07 e 08; 05º piso ou mezanino: 10 (dez) elevadores (sem parada), 02 (duas) escadas de emergência (sem acesso), 03 (três) espaços técnicos e mezaninos das lojas nº 01, 02, 07 e 08; 06º piso ou 2º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, 02 (dois) I.Ss, DML, 02 (dois) halls, jogos adulto, coworking, 02 (dois) I.S.s A., gourmet 1, gourmet 2, lavanderia, sala de reunião, copa festas, salão de festas com 02 (dois) I.S.s A., churrasqueira 1, churrasqueira 2 e 02 (dois) terraços/recreações descobertos; 07º piso ou 3º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) kitinetes sob nº 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337 e 338; 08º piso ou 4º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) kitinetes sob nº 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 433, 434, 435, 436, 437 e 438; 09º piso ou 5º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) kitinetes sob nº 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537 e 538; 10º piso ou 6º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 601, 602, 603, 604, 605, 606, 607, 608, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 631, 632, 633, 634, 635, 636, 637 e 638 e 04 (quatro) apartamentos sob nº 609, 611, 628 e 630; 11º piso ou 7º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 701, 702, 703, 704, 705, 706, 707, 708, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 731, 732, 733, 734, 735, 736, 737 e 738 e 04 (quatro) apartamentos sob nº 709, 711, 728 e 730; 12º piso ou 8º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 801, 802, 803, 804, 805, 806, 807, 808, 812, 813, 814, 815, 816, 817, 818, 819, 820, 821, 822, 823, 824, 825, 826, 827, 831, 832, 833, 834, 835, 836, 837 e 838 e 04 (quatro) apartamentos sob nº 809, 811, 828 e 830; 13º piso ou 09º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 901, 902, 903, 904, 905, 906, 907, 908, 912, 913, 914, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 931, 932, 933, 934, 935, 936, 937 e 938 e 04 (quatro) apartamentos sob nº 909, 911, 928 e 930; 14º piso ou 10º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020, 1021, 1022, 1023, 1024, 1025, 1026, 1027, 1031, 1032, 1033, 1034, 1035, 1036, 1037 e 1038 e 04 (quatro) apartamentos sob nº 1009, 1011, 1028 e 1030; 15º piso ou 11º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 1101, 1102, 1103, 1104, 1105, 1106, 1107, 1108, 1112, 1113, 1114, 1115, 1116, 1117, 1118, 1119, 1120, 1121, 1122, 1123, 1124, 1125, 1126, 1127, 1131, 1132, 1133, 1134, 1135, 1136, 1137 e 1138 e 04 (quatro) apartamentos sob nº 1109, 1111, 1128 e 1130; 16º piso ou 12º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 1201, 1202, 1203, 1204, 1205, 1206, 1207, 1208, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1220, 1221, 1222, 1223, 1224, 1225, 1226, 1227, 1231, 1232, 1233, 1234, 1235, 1236, 1237 e 1238 e 04 (quatro) apartamentos sob nº 1209, 1211, 1228 e 1230; 17º piso ou 13º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes  sob nº 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1312, 1313, 1314, 1315, 1316, 1317, 1318, 1319, 1320, 1321, 1322, 1323, 1324, 1325, 1326, 1327, 1331, 1332, 1333, 1334, 1335, 1336, 1337 e 1338 e 04 (quatro) apartamentos sob nº 1309, 1311, 1328 e 1330; 18º piso ou 14º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 1401, 1402, 1403, 1404, 1405, 1406, 1407, 1408, 1412, 1413, 1414, 1415, 1416, 1417, 1418, 1419, 1420, 1421, 1422, 1423, 1424, 1425, 1426, 1427, 1431, 1432, 1433, 1434, 1435, 1436, 1437 e 1438 e 04 (quatro) apartamentos sob nº 1409, 1411, 1428 e 1430; 19º piso ou 15º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) kitinetes sob nº 1501, 1502, 1503, 1504, 1505, 1506, 1507, 1508, 1509, 1510, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, 1519, 1520, 1521, 1522, 1523, 1524, 1525, 1526, 1527, 1528, 1529, 1530, 1531, 1532, 1533, 1534, 1535, 1536, 1537 e 1538; 20º piso ou 16º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 38 (trinta e oito) kitinetes sob nº 1601, 1602, 1603, 1604, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1616, 1617, 1618, 1619, 1620, 1621, 1622, 1623, 1624, 1625, 1626, 1627, 1628, 1629, 1630, 1631, 1632, 1633, 1634, 1635, 1636, 1637 e 1638; 21º piso ou 17º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 32 (trinta e duas) kitinetes sob nº 1701, 1702, 1703, 1704, 1705, 1706, 1707, 1708, 1712, 1713, 1714, 1715, 1716, 1717, 1718, 1719, 1720, 1721, 1722, 1723, 1724, 1725, 1726, 1727, 1731, 1732, 1733, 1734, 1735, 1736, 1737 e 1738 e 04 (quatro) apartamentos sob nº 1709, 1711, 1728 e 1730; 22º piso ou 18º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 1807, 1808, 1812, 1813, 1826, 1827, 1831 e 1832 e 16 (dezesseis) apartamentos sob nº 1801, 1803, 1806, 1809, 1811, 1814, 1816, 1819, 1820, 1822, 1825, 1828, 1830, 1833, 1835 e 1838; 23º piso ou 19º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 1907, 1908, 1912, 1913, 1926, 1927, 1931 e 1932 e 16 (dezesseis) apartamentos sob nº 1901, 1903, 1906, 1909, 1911, 1914, 1916, 1919, 1920, 1922, 1925, 1928, 1930, 1933, 1935 e 1938; 24º piso ou 20º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2007, 2008, 2012, 2013, 2026, 2027, 2031 e 2032 e 16 (dezesseis) apartamentos sob nº 2001, 2003, 2006, 2009, 2011, 2014, 2016, 2019, 2020, 2022, 2025, 2028, 2030, 2033, 2035 e 2038; 25º piso ou 21º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2107, 2108, 2112, 2113, 2126, 2127, 2131 e 2132 e 16 (dezesseis) apartamentos sob nº 2101, 2103, 2106, 2109, 2111, 2114, 2116, 2119, 2120, 2122, 2125, 2128, 2130, 2133, 2135 e 2138; 26º piso ou 22º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2207, 2208, 2212, 2213, 2226, 2227, 2231 e 2232 e 16 (dezesseis) apartamentos sob nº 2201, 2203, 2206, 2209, 2211, 2214, 2216, 2219, 2220, 2222, 2225, 2228, 2230, 2233, 2235 e 2238; 27º piso ou 23º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2307, 2308, 2312, 2313, 2326, 2327, 2331 e 2332 e 16 (dezesseis) apartamentos sob nº 2301, 2303, 2306, 2309, 2311, 2314, 2316, 2319, 2320, 2322, 2325, 2328, 2330, 2333, 2335 e 2338; 28º piso ou 24º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2407, 2408, 2412, 2413, 2426, 2427, 2431 e 2432 e 16 (dezesseis) sob nº 2401, 2403, 2406, 2409, 2411, 2414, 2416, 2419, 2420, 2422, 2425, 2428, 2430, 2433, 2435 e 2438; 29º piso ou 25º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações, 08 (oito) kitinetes sob nº 2507, 2508, 2512, 2513, 2526, 2527, 2531 e 2532 e 16 (dezesseis) sob nº 2501, 2503, 2506, 2509, 2511, 2514, 2516, 2519, 2520, 2522, 2525, 2528, 2530, 2533, 2535 e 2538; 30º piso 26º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2601, 2603, 2606, 2607, 2609, 2611, 2613, 2614, 2616, 2619, 2620, 2622, 2625, 2626, 2628, 2630, 2632, 2633, 2635 e 2638; 31º piso ou 27º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2701, 2703, 2706, 2707, 2709, 2711, 2713, 2714, 2716, 2719, 2720, 2722, 2725, 2726, 2728, 2730, 2732, 2733, 2735 e 2738; 32º piso ou 28º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2801, 2803, 2806, 2807, 2809, 2811, 2813, 2814, 2816, 2819, 2820, 2822, 2825, 2826, 2828, 2830, 2832, 2833, 2835 e 2838; 33º piso ou 29º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 2901, 2903, 2906, 2907, 2909, 2911, 2913, 2914, 2916, 2919, 2920, 2922, 2925, 2926, 2928, 2930, 2932, 2933, 2935 e 2938; 34º piso ou 30º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3001, 3003, 3006, 3007, 3009, 3011, 3013, 3014, 3016, 3019, 3020, 3022, 3025, 3026, 3028, 3030, 3032, 3033, 3035 e 3038; 35º piso ou 31º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3101, 3103, 3106, 3107, 3109, 3111, 3113, 3114, 3116, 3119, 3120, 3122, 3125, 3126, 3128, 3130, 3132, 3133, 3135 e 3138; 36º piso ou 32º pavimento: 09 (nove) elevadores, 02 (duas) escadas de emergência, hall/circulações e 20 (vinte) apartamentos sob nº 3201, 3203, 3206, 3207, 3209, 3211, 3213, 3214, 3216, 3219, 3220, 3222, 3225, 3226, 3228, 3230, 3232, 3233, 3235 e 3238; 37º piso ou piso técnico:09 (nove) elevadores (sem parada), 02 (duas) escadas de emergência e área técnica; 38º piso ou 33º pavimento: 09 (nove) elevadores, hall elevador, 02 (duas) escadas de emergência, escada serviço cobertura, hall, wellnes, sauna, piscina coberta, academia e recreação/área descoberta de lazer. Na parte superior do edifício situam-se, ainda, o barrilete 1, barrilete 2, casa de máquinas dos elevadores e caixa de água com 02 (dois) reservatórios.
 
 ## Acesso ao edificio
 O acesso de pedestres será feito por entrada em comum através da circulação da galeria comercial para os Subcondomínio Galeria, Subcondomínio Estacionamento e Subcondomínio Residencial, com quatro entradas, sendo uma pela Alameda Doutor Carlos de Carvalho, duas pela Rua Visconde de Nacar e uma pela Rua Cruz Machado. O acesso de veículos para o Subcondomínio Estacionamento será feito por entrada para os subsolos pela Alameda Dr. Carlos de Carvalho e saída pela Rua Cruz Machado. Também haverá um acesso de veículos para embarque e desembarque, com uma entrada e uma saída pela Rua Cruz Machado.
@@ -24,1836 +24,6 @@ O acesso de pedestres será feito por entrada em comum através da circulação 
 São partes de propriedade exclusiva as seguintes unidades autônomas, agrupadas por subcondomínio.
 
 ## SUBCONDOMINIO RESIDENCIAL
-
-APARTAMENTO 301:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 302
-e pelo fundo com circulação comum e apartamento 338.
-
-APARTAMENTO 302:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 301,
-pelo lado esquerdo com apartamento 303
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 303:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 302,
-pelo lado esquerdo com apartamento 304
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 304:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 303,
-pelo lado esquerdo com apartamento 305
-e pelo fundo com circulação comum.
-
-APARTAMENTO 305:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 304,
-pelo lado esquerdo com apartamento 306
-e pelo fundo com circulação comum.
-
-APARTAMENTO 306:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 305,
-pelo lado esquerdo com shaft e apartamento 307
-e pelo fundo com circulação comum.
-
-APARTAMENTO 307:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 306 e terreno do condomínio,
-pelo lado esquerdo com apartamento 308
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 308:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 307,
-pelo lado esquerdo com apartamento 309
-e pelo fundo com circulação comum.
-
-APARTAMENTO 309:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 308,
-pelo lado esquerdo com apartamento 310
-e pelo fundo com circulação comum.
-
-APARTAMENTO 310:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 309,
-pelo lado esquerdo com apartamento 311
-e pelo fundo com circulação comum.
-
-APARTAMENTO 311:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 310,
-pelo lado esquerdo com apartamento 312
-e pelo fundo com circulação comum.
-
-APARTAMENTO 312:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 311,
-pelo lado esquerdo com apartamento 313
-e pelo fundo com circulação comum.
-
-APARTAMENTO 313:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 312,
-pelo lado esquerdo com apartamento 314 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 314:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 313,
-pelo lado esquerdo com apartamento 315
-e pelo fundo com circulação comum.
-
-APARTAMENTO 315:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 314,
-pelo lado esquerdo com apartamento 316
-e pelo fundo com circulação comum.
-
-APARTAMENTO 316:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 315,
-pelo lado esquerdo com apartamento 317
-e pelo fundo com circulação comum.
-
-APARTAMENTO 317:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 316,
-pelo lado esquerdo com apartamento 318
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 318:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 317,
-pelo lado esquerdo com apartamento 319
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 319:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 318,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 320.
-
-APARTAMENTO 320:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 321
-e pelo fundo com circulação comum e apartamento 319.
-
-APARTAMENTO 321:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 320,
-pelo lado esquerdo com apartamento 322
-e pelo fundo com circulação comum.
-
-APARTAMENTO 322:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 321,
-pelo lado esquerdo com apartamento 323 
-e pelo fundo com circulação comum.
-
-APARTAMENTO 323:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 322,
-pelo lado esquerdo com apartamento 324
-e pelo fundo com circulação comum.
-
-APARTAMENTO 324:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 323,
-pelo lado esquerdo com apartamento 325
-e pelo fundo com circulação comum.
-
-APARTAMENTO 325:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 324,
-pelo lado esquerdo com shaft e apartamento 326
-e pelo fundo com circulação comum.
-
-APARTAMENTO 326:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 325 e terreno do condomínio,
-pelo lado esquerdo com apartamento 327
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 327:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 326,
-pelo lado esquerdo com apartamento 328
-e pelo fundo com circulação comum.
-
-APARTAMENTO 328:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 327,
-pelo lado esquerdo com apartamento 329
-e pelo fundo com circulação comum.
-
-APARTAMENTO 329:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 328,
-pelo lado esquerdo com apartamento 330
-e pelo fundo com circulação comum.
-
-APARTAMENTO 330:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 329,
-pelo lado esquerdo com apartamento 331
-e pelo fundo com circulação comum.
-
-APARTAMENTO 331:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 330,
-pelo lado esquerdo com apartamento 332
-e pelo fundo com circulação comum.
-
-APARTAMENTO 332:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 331,
-pelo lado esquerdo com apartamento 333 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 333:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 332,
-pelo lado esquerdo com apartamento 334
-e pelo fundo com circulação comum.
-
-APARTAMENTO 334:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 333,
-pelo lado esquerdo com apartamento 335
-e pelo fundo com circulação comum.
-
-APARTAMENTO 335:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 334,
-pelo lado esquerdo com apartamento 336
-e pelo fundo com circulação comum.
-
-APARTAMENTO 336:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 335,
-pelo lado esquerdo com apartamento 337
-e pelo fundo com circulação comum.
-
-APARTAMENTO 337:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 336,
-pelo lado esquerdo com apartamento 338
-e pelo fundo com circulação comum.
-
-APARTAMENTO 338:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 3º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 337,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 301.
-
-APARTAMENTO 401:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 402
-e pelo fundo com circulação comum e apartamento 438.
-
-APARTAMENTO 402:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 401,
-pelo lado esquerdo com apartamento 403
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 403:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 402,
-pelo lado esquerdo com apartamento 404
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 404:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 403,
-pelo lado esquerdo com apartamento 405
-e pelo fundo com circulação comum.
-
-APARTAMENTO 405:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 404,
-pelo lado esquerdo com apartamento 406
-e pelo fundo com circulação comum.
-
-APARTAMENTO 406:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 405,
-pelo lado esquerdo com shaft e apartamento 407
-e pelo fundo com circulação comum.
-
-APARTAMENTO 407:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 406 e terreno do condomínio,
-pelo lado esquerdo com apartamento 408
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 408:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 407,
-pelo lado esquerdo com apartamento 409
-e pelo fundo com circulação comum.
-
-APARTAMENTO 409:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 408,
-pelo lado esquerdo com apartamento 410
-e pelo fundo com circulação comum.
-
-APARTAMENTO 410:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 409,
-pelo lado esquerdo com apartamento 411
-e pelo fundo com circulação comum.
-
-APARTAMENTO 411:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 410,
-pelo lado esquerdo com apartamento 412
-e pelo fundo com circulação comum.
-
-APARTAMENTO 412:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 411,
-pelo lado esquerdo com apartamento 413
-e pelo fundo com circulação comum.
-
-APARTAMENTO 413:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 412,
-pelo lado esquerdo com apartamento 414 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 414:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 413,
-pelo lado esquerdo com apartamento 415
-e pelo fundo com circulação comum.
-
-APARTAMENTO 415:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 414,
-pelo lado esquerdo com apartamento 416
-e pelo fundo com circulação comum.
-
-APARTAMENTO 416:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 415,
-pelo lado esquerdo com apartamento 417
-e pelo fundo com circulação comum.
-
-APARTAMENTO 417:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 416,
-pelo lado esquerdo com apartamento 418
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 418:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 417,
-pelo lado esquerdo com apartamento 419
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 419:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 418,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 420.
-
-APARTAMENTO 420:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 421
-e pelo fundo com circulação comum e apartamento 419.
-
-APARTAMENTO 421:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 420,
-pelo lado esquerdo com apartamento 422
-e pelo fundo com circulação comum.
-
-APARTAMENTO 422:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 421,
-pelo lado esquerdo com apartamento 423
-e pelo fundo com circulação comum.
-
-APARTAMENTO 423:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 422,
-pelo lado esquerdo com apartamento 424
-e pelo fundo com circulação comum.
-
-APARTAMENTO 424:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 423,
-pelo lado esquerdo com apartamento 425
-e pelo fundo com circulação comum.
-
-APARTAMENTO 425:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 424,
-pelo lado esquerdo com shaft e apartamento 426
-e pelo fundo com circulação comum.
-
-APARTAMENTO 426:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 425 e terreno do condomínio,
-pelo lado esquerdo com apartamento 427
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 427:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 426,
-pelo lado esquerdo com apartamento 428
-e pelo fundo com circulação comum.
-
-APARTAMENTO 428:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 427,
-pelo lado esquerdo com apartamento 429
-e pelo fundo com circulação comum.
-
-APARTAMENTO 429:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 428,
-pelo lado esquerdo com apartamento 430
-e pelo fundo com circulação comum.
-
-APARTAMENTO 430:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 429,
-pelo lado esquerdo com apartamento 431
-e pelo fundo com circulação comum.
-
-APARTAMENTO 431:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 430,
-pelo lado esquerdo com apartamento 432
-e pelo fundo com circulação comum.
-
-APARTAMENTO 432:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 431,
-pelo lado esquerdo com apartamento 433 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 433:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 432,
-pelo lado esquerdo com apartamento 434
-e pelo fundo com circulação comum.
-
-APARTAMENTO 434:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 433,
-pelo lado esquerdo com apartamento 435
-e pelo fundo com circulação comum.
-
-APARTAMENTO 435:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 434,
-pelo lado esquerdo com apartamento 436
-e pelo fundo com circulação comum.
-
-APARTAMENTO 436:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 435,
-pelo lado esquerdo com apartamento 437
-e pelo fundo com circulação comum.
-
-APARTAMENTO 437:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 436,
-pelo lado esquerdo com apartamento 438
-e pelo fundo com circulação comum.
-
-APARTAMENTO 438:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 4º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 437,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 401.
-
-APARTAMENTO 501:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 502
-e pelo fundo com circulação comum e apartamento 538.
-
-APARTAMENTO 502:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 501,
-pelo lado esquerdo com apartamento 503
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 503:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 502,
-pelo lado esquerdo com apartamento 504
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 504:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 503,
-pelo lado esquerdo com apartamento 505
-e pelo fundo com circulação comum.
-
-APARTAMENTO 505:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 504,
-pelo lado esquerdo com apartamento 506
-e pelo fundo com circulação comum.
-
-APARTAMENTO 506:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 505,
-pelo lado esquerdo com shaft e apartamento 507
-e pelo fundo com circulação comum.
-
-APARTAMENTO 507:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 506 e terreno do condomínio,
-pelo lado esquerdo com apartamento 508
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 508:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 507,
-pelo lado esquerdo com apartamento 509
-e pelo fundo com circulação comum.
-
-APARTAMENTO 509:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 508,
-pelo lado esquerdo com apartamento 510
-e pelo fundo com circulação comum.
-
-APARTAMENTO 510:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 509,
-pelo lado esquerdo com apartamento 511
-e pelo fundo com circulação comum.
-
-APARTAMENTO 511:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 510,
-pelo lado esquerdo com apartamento 512
-e pelo fundo com circulação comum.
-
-APARTAMENTO 512:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 511,
-pelo lado esquerdo com apartamento 513
-e pelo fundo com circulação comum.
-
-APARTAMENTO 513:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 512,
-pelo lado esquerdo com apartamento 514 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 514:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 513,
-pelo lado esquerdo com apartamento 515
-e pelo fundo com circulação comum.
-
-APARTAMENTO 515:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 514,
-pelo lado esquerdo com apartamento 516
-e pelo fundo com circulação comum.
-
-APARTAMENTO 516:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 515,
-pelo lado esquerdo com apartamento 517
-e pelo fundo com circulação comum.
-
-APARTAMENTO 517:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 516,
-pelo lado esquerdo com apartamento 518
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 518:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 517,
-pelo lado esquerdo com apartamento 519
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 519:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 518,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 520.
-
-APARTAMENTO 520:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 521
-e pelo fundo com circulação comum e apartamento 519.
-
-APARTAMENTO 521:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 520,
-pelo lado esquerdo com apartamento 522
-e pelo fundo com circulação comum.
-
-APARTAMENTO 522:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 521,
-pelo lado esquerdo com apartamento 523
-e pelo fundo com circulação comum.
-
-APARTAMENTO 523:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 522,
-pelo lado esquerdo com apartamento 524
-e pelo fundo com circulação comum.
-
-APARTAMENTO 524:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 523,
-pelo lado esquerdo com apartamento 525
-e pelo fundo com circulação comum.
-
-APARTAMENTO 525:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 524,
-pelo lado esquerdo com shaft e apartamento 526
-e pelo fundo com circulação comum.
-
-APARTAMENTO 526:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 525 e terreno do condomínio,
-pelo lado esquerdo com apartamento 527
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 527:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 526,
-pelo lado esquerdo com apartamento 528
-e pelo fundo com circulação comum.
-
-APARTAMENTO 528:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 527,
-pelo lado esquerdo com apartamento 529
-e pelo fundo com circulação comum.
-
-APARTAMENTO 529:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 528,
-pelo lado esquerdo com apartamento 530
-e pelo fundo com circulação comum.
-
-APARTAMENTO 530:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 529,
-pelo lado esquerdo com apartamento 531
-e pelo fundo com circulação comum.
-
-APARTAMENTO 531:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 530,
-pelo lado esquerdo com apartamento 532
-e pelo fundo com circulação comum.
-
-APARTAMENTO 532:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 531,
-pelo lado esquerdo com apartamento 533 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 533:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 532,
-pelo lado esquerdo com apartamento 534
-e pelo fundo com circulação comum.
-
-APARTAMENTO 534:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 533,
-pelo lado esquerdo com apartamento 535
-e pelo fundo com circulação comum.
-
-APARTAMENTO 535:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 534,
-pelo lado esquerdo com apartamento 536
-e pelo fundo com circulação comum.
-
-APARTAMENTO 536:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 535,
-pelo lado esquerdo com apartamento 537
-e pelo fundo com circulação comum.
-
-APARTAMENTO 537:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 536,
-pelo lado esquerdo com apartamento 538
-e pelo fundo com circulação comum.
-
-APARTAMENTO 538:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 5º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 537,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 501.
-
-APARTAMENTO 601:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 602
-e pelo fundo com circulação comum e apartamento 638.
-
-APARTAMENTO 602:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 601,
-pelo lado esquerdo com apartamento 603
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 603:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 602,
-pelo lado esquerdo com apartamento 604
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 604:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 603,
-pelo lado esquerdo com apartamento 605
-e pelo fundo com circulação comum.
-
-APARTAMENTO 605:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 604,
-pelo lado esquerdo com apartamento 606
-e pelo fundo com circulação comum.
-
-APARTAMENTO 606:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 605,
-pelo lado esquerdo com shaft e apartamento 607
-e pelo fundo com circulação comum.
-
-APARTAMENTO 607:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 606 e terreno do condomínio,
-pelo lado esquerdo com apartamento 608
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 608:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 607,
-pelo lado esquerdo com apartamento 609
-e pelo fundo com circulação comum.
 
 APARTAMENTO 609:
 Subcondomínio: RESIDENCIAL.
@@ -1866,7 +36,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 6º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 608,
+pelo lado direito com kitinete 608,
 pelo lado esquerdo com apartamento 611
 e pelo fundo com circulação comum.
 
@@ -1882,247 +52,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 6º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 609,
-pelo lado esquerdo com apartamento 612
-e pelo fundo com circulação comum.
-
-APARTAMENTO 612:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 611,
-pelo lado esquerdo com apartamento 613
-e pelo fundo com circulação comum.
-
-APARTAMENTO 613:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 612,
-pelo lado esquerdo com apartamento 614 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 614:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 613,
-pelo lado esquerdo com apartamento 615
-e pelo fundo com circulação comum.
-
-APARTAMENTO 615:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 614,
-pelo lado esquerdo com apartamento 616
-e pelo fundo com circulação comum.
-
-APARTAMENTO 616:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 615,
-pelo lado esquerdo com apartamento 617
-e pelo fundo com circulação comum.
-
-APARTAMENTO 617:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 616,
-pelo lado esquerdo com apartamento 618
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 618:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 617,
-pelo lado esquerdo com apartamento 619
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 619:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 618,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 620.
-
-APARTAMENTO 620:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 621
-e pelo fundo com circulação comum e apartamento 619.
-
-APARTAMENTO 621:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 620,
-pelo lado esquerdo com apartamento 622
-e pelo fundo com circulação comum.
-
-APARTAMENTO 622:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 621,
-pelo lado esquerdo com apartamento 623 
-e pelo fundo com circulação comum.
-
-APARTAMENTO 623:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 622,
-pelo lado esquerdo com apartamento 624
-e pelo fundo com circulação comum.
-
-APARTAMENTO 624:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 623,
-pelo lado esquerdo com apartamento 625
-e pelo fundo com circulação comum.
-
-APARTAMENTO 625:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 624,
-pelo lado esquerdo com shaft e apartamento 626
-e pelo fundo com circulação comum.
-
-APARTAMENTO 626:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 625 e terreno do condomínio,
-pelo lado esquerdo com apartamento 627
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 627:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 626,
-pelo lado esquerdo com apartamento 628
+pelo lado esquerdo com kitinete 612
 e pelo fundo com circulação comum.
 
 APARTAMENTO 628:
@@ -2136,7 +66,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 6º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 627,
+pelo lado direito com kitinete 627,
 pelo lado esquerdo com apartamento 630
 e pelo fundo com circulação comum.
 
@@ -2152,247 +82,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 6º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 628,
-pelo lado esquerdo com apartamento 631
-e pelo fundo com circulação comum.
-
-APARTAMENTO 631:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 630,
-pelo lado esquerdo com apartamento 632
-e pelo fundo com circulação comum.
-
-APARTAMENTO 632:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 631,
-pelo lado esquerdo com apartamento 633 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 633:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 632,
-pelo lado esquerdo com apartamento 634
-e pelo fundo com circulação comum.
-
-APARTAMENTO 634:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 633,
-pelo lado esquerdo com apartamento 635
-e pelo fundo com circulação comum.
-
-APARTAMENTO 635:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 634,
-pelo lado esquerdo com apartamento 636
-e pelo fundo com circulação comum.
-
-APARTAMENTO 636:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 635,
-pelo lado esquerdo com apartamento 637
-e pelo fundo com circulação comum.
-
-APARTAMENTO 637:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 636,
-pelo lado esquerdo com apartamento 638
-e pelo fundo com circulação comum.
-
-APARTAMENTO 638:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 6º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 637,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 601.
-
-APARTAMENTO 701:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 702
-e pelo fundo com circulação comum e apartamento 738.
-
-APARTAMENTO 702:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 701,
-pelo lado esquerdo com apartamento 703
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 703:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 702,
-pelo lado esquerdo com apartamento 704
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 704:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 703,
-pelo lado esquerdo com apartamento 705
-e pelo fundo com circulação comum.
-
-APARTAMENTO 705:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 704,
-pelo lado esquerdo com apartamento 706
-e pelo fundo com circulação comum.
-
-APARTAMENTO 706:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 705,
-pelo lado esquerdo com shaft e apartamento 707
-e pelo fundo com circulação comum.
-
-APARTAMENTO 707:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 706 e terreno do condomínio,
-pelo lado esquerdo com apartamento 708
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 708:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 707,
-pelo lado esquerdo com apartamento 709
+pelo lado esquerdo com kitinete 631
 e pelo fundo com circulação comum.
 
 APARTAMENTO 709:
@@ -2406,7 +96,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 7º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 708,
+pelo lado direito com kitinete 708,
 pelo lado esquerdo com apartamento 711
 e pelo fundo com circulação comum.
 
@@ -2422,247 +112,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 7º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 709,
-pelo lado esquerdo com apartamento 712
-e pelo fundo com circulação comum.
-
-APARTAMENTO 712:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 711,
-pelo lado esquerdo com apartamento 713
-e pelo fundo com circulação comum.
-
-APARTAMENTO 713:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 712,
-pelo lado esquerdo com apartamento 714 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 714:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 713,
-pelo lado esquerdo com apartamento 715
-e pelo fundo com circulação comum.
-
-APARTAMENTO 715:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 714,
-pelo lado esquerdo com apartamento 716
-e pelo fundo com circulação comum.
-
-APARTAMENTO 716:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 715,
-pelo lado esquerdo com apartamento 717
-e pelo fundo com circulação comum.
-
-APARTAMENTO 717:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 716,
-pelo lado esquerdo com apartamento 718
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 718:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 717,
-pelo lado esquerdo com apartamento 719
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 719:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 718,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 720.
-
-APARTAMENTO 720:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 721
-e pelo fundo com circulação comum e apartamento 719.
-
-APARTAMENTO 721:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 720,
-pelo lado esquerdo com apartamento 722
-e pelo fundo com circulação comum.
-
-APARTAMENTO 722:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 721,
-pelo lado esquerdo com apartamento 723
-e pelo fundo com circulação comum.
-
-APARTAMENTO 723:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 722,
-pelo lado esquerdo com apartamento 724
-e pelo fundo com circulação comum.
-
-APARTAMENTO 724:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 723,
-pelo lado esquerdo com apartamento 725
-e pelo fundo com circulação comum.
-
-APARTAMENTO 725:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 724,
-pelo lado esquerdo com shaft e apartamento 726
-e pelo fundo com circulação comum.
-
-APARTAMENTO 726:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 725 e terreno do condomínio,
-pelo lado esquerdo com apartamento 727
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 727:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 726,
-pelo lado esquerdo com apartamento 728
+pelo lado esquerdo com kitinete 712
 e pelo fundo com circulação comum.
 
 APARTAMENTO 728:
@@ -2676,7 +126,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 7º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 727,
+pelo lado direito com kitinete 727,
 pelo lado esquerdo com apartamento 730
 e pelo fundo com circulação comum.
 
@@ -2692,247 +142,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 7º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 728,
-pelo lado esquerdo com apartamento 731
-e pelo fundo com circulação comum.
-
-APARTAMENTO 731:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 730,
-pelo lado esquerdo com apartamento 732
-e pelo fundo com circulação comum.
-
-APARTAMENTO 732:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 731,
-pelo lado esquerdo com apartamento 733 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 733:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 732,
-pelo lado esquerdo com apartamento 734
-e pelo fundo com circulação comum.
-
-APARTAMENTO 734:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 733,
-pelo lado esquerdo com apartamento 735
-e pelo fundo com circulação comum.
-
-APARTAMENTO 735:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 734,
-pelo lado esquerdo com apartamento 736
-e pelo fundo com circulação comum.
-
-APARTAMENTO 736:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 735,
-pelo lado esquerdo com apartamento 737
-e pelo fundo com circulação comum.
-
-APARTAMENTO 737:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 736,
-pelo lado esquerdo com apartamento 738
-e pelo fundo com circulação comum.
-
-APARTAMENTO 738:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 7º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 737,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 701.
-
-APARTAMENTO 801:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 802
-e pelo fundo com circulação comum e apartamento 838.
-
-APARTAMENTO 802:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 801,
-pelo lado esquerdo com apartamento 803
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 803:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 802,
-pelo lado esquerdo com apartamento 804
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 804:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 803,
-pelo lado esquerdo com apartamento 805
-e pelo fundo com circulação comum.
-
-APARTAMENTO 805:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 804,
-pelo lado esquerdo com apartamento 806
-e pelo fundo com circulação comum.
-
-APARTAMENTO 806:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 805,
-pelo lado esquerdo com shaft e apartamento 807
-e pelo fundo com circulação comum.
-
-APARTAMENTO 807:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 806 e terreno do condomínio,
-pelo lado esquerdo com apartamento 808
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 808:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 807,
-pelo lado esquerdo com apartamento 809
+pelo lado esquerdo com kitinete 731
 e pelo fundo com circulação comum.
 
 APARTAMENTO 809:
@@ -2946,7 +156,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 8º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 808,
+pelo lado direito com kitinete 808,
 pelo lado esquerdo com apartamento 811
 e pelo fundo com circulação comum.
 
@@ -2962,247 +172,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 8º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 809,
-pelo lado esquerdo com apartamento 812
-e pelo fundo com circulação comum.
-
-APARTAMENTO 812:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 811,
-pelo lado esquerdo com apartamento 813
-e pelo fundo com circulação comum.
-
-APARTAMENTO 813:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 812,
-pelo lado esquerdo com apartamento 814 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 814:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 813,
-pelo lado esquerdo com apartamento 815
-e pelo fundo com circulação comum.
-
-APARTAMENTO 815:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 814,
-pelo lado esquerdo com apartamento 816
-e pelo fundo com circulação comum.
-
-APARTAMENTO 816:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 815,
-pelo lado esquerdo com apartamento 817
-e pelo fundo com circulação comum.
-
-APARTAMENTO 817:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 816,
-pelo lado esquerdo com apartamento 818
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 818:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 817,
-pelo lado esquerdo com apartamento 819
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 819:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 818,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 820.
-
-APARTAMENTO 820:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 821
-e pelo fundo com circulação comum e apartamento 819.
-
-APARTAMENTO 821:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 820,
-pelo lado esquerdo com apartamento 822
-e pelo fundo com circulação comum.
-
-APARTAMENTO 822:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 821,
-pelo lado esquerdo com apartamento 823
-e pelo fundo com circulação comum.
-
-APARTAMENTO 823:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 822,
-pelo lado esquerdo com apartamento 824
-e pelo fundo com circulação comum.
-
-APARTAMENTO 824:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 823,
-pelo lado esquerdo com apartamento 825
-e pelo fundo com circulação comum.
-
-APARTAMENTO 825:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 824,
-pelo lado esquerdo com shaft e apartamento 826
-e pelo fundo com circulação comum.
-
-APARTAMENTO 826:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 825 e terreno do condomínio,
-pelo lado esquerdo com apartamento 827
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 827:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 826,
-pelo lado esquerdo com apartamento 828
+pelo lado esquerdo com kitinete 812
 e pelo fundo com circulação comum.
 
 APARTAMENTO 828:
@@ -3216,7 +186,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 8º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 827,
+pelo lado direito com kitinete 827,
 pelo lado esquerdo com apartamento 830
 e pelo fundo com circulação comum.
 
@@ -3232,247 +202,7 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 8º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 828,
-pelo lado esquerdo com apartamento 831
-e pelo fundo com circulação comum.
-
-APARTAMENTO 831:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 830,
-pelo lado esquerdo com apartamento 832
-e pelo fundo com circulação comum.
-
-APARTAMENTO 832:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 831,
-pelo lado esquerdo com apartamento 833 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 833:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 832,
-pelo lado esquerdo com apartamento 834
-e pelo fundo com circulação comum.
-
-APARTAMENTO 834:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 833,
-pelo lado esquerdo com apartamento 835
-e pelo fundo com circulação comum.
-
-APARTAMENTO 835:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 834,
-pelo lado esquerdo com apartamento 836
-e pelo fundo com circulação comum.
-
-APARTAMENTO 836:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 835,
-pelo lado esquerdo com apartamento 837
-e pelo fundo com circulação comum.
-
-APARTAMENTO 837:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 836,
-pelo lado esquerdo com apartamento 838
-e pelo fundo com circulação comum.
-
-APARTAMENTO 838:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 8º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 837,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 801.
-
-APARTAMENTO 901:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 902
-e pelo fundo com circulação comum e apartamento 938.
-
-APARTAMENTO 902:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 901,
-pelo lado esquerdo com apartamento 903
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 903:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 902,
-pelo lado esquerdo com apartamento 904
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 904:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 903,
-pelo lado esquerdo com apartamento 905
-e pelo fundo com circulação comum.
-
-APARTAMENTO 905:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 904,
-pelo lado esquerdo com apartamento 906
-e pelo fundo com circulação comum.
-
-APARTAMENTO 906:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 905,
-pelo lado esquerdo com shaft e apartamento 907
-e pelo fundo com circulação comum.
-
-APARTAMENTO 907:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 906 e terreno do condomínio,
-pelo lado esquerdo com apartamento 908
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 908:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 907,
-pelo lado esquerdo com apartamento 909
+pelo lado esquerdo com kitinete 831
 e pelo fundo com circulação comum.
 
 APARTAMENTO 909:
@@ -3486,7 +216,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 9º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 908,
+pelo lado direito com kitinete 908,
 pelo lado esquerdo com apartamento 911
 e pelo fundo com circulação comum.
 
@@ -3502,247 +232,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 9º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 909,
-pelo lado esquerdo com apartamento 912
-e pelo fundo com circulação comum.
-
-APARTAMENTO 912:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 911,
-pelo lado esquerdo com apartamento 913
-e pelo fundo com circulação comum.
-
-APARTAMENTO 913:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 912,
-pelo lado esquerdo com apartamento 914 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 914:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 913,
-pelo lado esquerdo com apartamento 915
-e pelo fundo com circulação comum.
-
-APARTAMENTO 915:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 914,
-pelo lado esquerdo com apartamento 916
-e pelo fundo com circulação comum.
-
-APARTAMENTO 916:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 915,
-pelo lado esquerdo com apartamento 917
-e pelo fundo com circulação comum.
-
-APARTAMENTO 917:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 916,
-pelo lado esquerdo com apartamento 918
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 918:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 917,
-pelo lado esquerdo com apartamento 919
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 919:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 918,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 920.
-
-APARTAMENTO 920:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 921
-e pelo fundo com circulação comum e apartamento 919.
-
-APARTAMENTO 921:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 920,
-pelo lado esquerdo com apartamento 922
-e pelo fundo com circulação comum.
-
-APARTAMENTO 922:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 921,
-pelo lado esquerdo com apartamento 923
-e pelo fundo com circulação comum.
-
-APARTAMENTO 923:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 922,
-pelo lado esquerdo com apartamento 924
-e pelo fundo com circulação comum.
-
-APARTAMENTO 924:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 923,
-pelo lado esquerdo com apartamento 925
-e pelo fundo com circulação comum.
-
-APARTAMENTO 925:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 924,
-pelo lado esquerdo com shaft e apartamento 926
-e pelo fundo com circulação comum.
-
-APARTAMENTO 926:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 925 e terreno do condomínio,
-pelo lado esquerdo com apartamento 927
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 927:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 926,
-pelo lado esquerdo com apartamento 928
+pelo lado esquerdo com kitinete 912
 e pelo fundo com circulação comum.
 
 APARTAMENTO 928:
@@ -3756,7 +246,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 9º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 927,
+pelo lado direito com kitinete 927,
 pelo lado esquerdo com apartamento 930
 e pelo fundo com circulação comum.
 
@@ -3772,247 +262,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 9º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 928,
-pelo lado esquerdo com apartamento 931
-e pelo fundo com circulação comum.
-
-APARTAMENTO 931:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 930,
-pelo lado esquerdo com apartamento 932
-e pelo fundo com circulação comum.
-
-APARTAMENTO 932:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 931,
-pelo lado esquerdo com apartamento 933 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 933:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 932,
-pelo lado esquerdo com apartamento 934
-e pelo fundo com circulação comum.
-
-APARTAMENTO 934:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 933,
-pelo lado esquerdo com apartamento 935
-e pelo fundo com circulação comum.
-
-APARTAMENTO 935:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 934,
-pelo lado esquerdo com apartamento 936
-e pelo fundo com circulação comum.
-
-APARTAMENTO 936:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 935,
-pelo lado esquerdo com apartamento 937
-e pelo fundo com circulação comum.
-
-APARTAMENTO 937:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 936,
-pelo lado esquerdo com apartamento 938
-e pelo fundo com circulação comum.
-
-APARTAMENTO 938:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 9º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 937,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 901.
-
-APARTAMENTO 1001:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1002
-e pelo fundo com circulação comum e apartamento 1038.
-
-APARTAMENTO 1002:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1001,
-pelo lado esquerdo com apartamento 1003
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1003:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1002,
-pelo lado esquerdo com apartamento 1004
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1004:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1003,
-pelo lado esquerdo com apartamento 1005
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1005:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1004,
-pelo lado esquerdo com apartamento 1006
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1006:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1005,
-pelo lado esquerdo com shaft e apartamento 1007
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1007:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1006 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1008
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1008:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1007,
-pelo lado esquerdo com apartamento 1009
+pelo lado esquerdo com kitinete 931
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1009:
@@ -4026,7 +276,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 10º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1008,
+pelo lado direito com kitinete 1008,
 pelo lado esquerdo com apartamento 1011
 e pelo fundo com circulação comum.
 
@@ -4042,247 +292,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 10º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1009,
-pelo lado esquerdo com apartamento 1012
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1012:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1011,
-pelo lado esquerdo com apartamento 1013
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1013:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1012,
-pelo lado esquerdo com apartamento 1014 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1014:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1013,
-pelo lado esquerdo com apartamento 1015
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1015:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1014,
-pelo lado esquerdo com apartamento 1016
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1016:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1015,
-pelo lado esquerdo com apartamento 1017
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1017:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1016,
-pelo lado esquerdo com apartamento 1018
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1018:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1017,
-pelo lado esquerdo com apartamento 1019
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1019:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1018,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1020.
-
-APARTAMENTO 1020:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1021
-e pelo fundo com circulação comum e apartamento 1019.
-
-APARTAMENTO 1021:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1020,
-pelo lado esquerdo com apartamento 1022
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1022:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1021,
-pelo lado esquerdo com apartamento 1023
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1023:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1022,
-pelo lado esquerdo com apartamento 1024
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1024:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1023,
-pelo lado esquerdo com apartamento 1025
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1025:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1024,
-pelo lado esquerdo com shaft e apartamento 1026
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1026:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1025 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1027
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1027:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1026,
-pelo lado esquerdo com apartamento 1028
+pelo lado esquerdo com kitinete 1012
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1028:
@@ -4296,7 +306,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 10º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1027,
+pelo lado direito com kitinete 1027,
 pelo lado esquerdo com apartamento 1030
 e pelo fundo com circulação comum.
 
@@ -4312,247 +322,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 10º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1028,
-pelo lado esquerdo com apartamento 1031
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1031:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1030,
-pelo lado esquerdo com apartamento 1032
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1032:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1031,
-pelo lado esquerdo com apartamento 1033 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1033:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1032,
-pelo lado esquerdo com apartamento 1034
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1034:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1033,
-pelo lado esquerdo com apartamento 1035
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1035:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1034,
-pelo lado esquerdo com apartamento 1036
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1036:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1035,
-pelo lado esquerdo com apartamento 1037
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1037:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1036,
-pelo lado esquerdo com apartamento 1038
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1038:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 10º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1037,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1001.
-
-APARTAMENTO 1101:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1102
-e pelo fundo com circulação comum e apartamento 1138.
-
-APARTAMENTO 1102:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1101,
-pelo lado esquerdo com apartamento 1103
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1103:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1102,
-pelo lado esquerdo com apartamento 1104
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1104:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1103,
-pelo lado esquerdo com apartamento 1105
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1105:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1104,
-pelo lado esquerdo com apartamento 1106
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1106:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1105,
-pelo lado esquerdo com shaft e apartamento 1107
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1107:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1106 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1108
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1108:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1107,
-pelo lado esquerdo com apartamento 1109
+pelo lado esquerdo com kitinete 1031
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1109:
@@ -4566,7 +336,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 11º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1108,
+pelo lado direito com kitinete 1108,
 pelo lado esquerdo com apartamento 1111
 e pelo fundo com circulação comum.
 
@@ -4582,247 +352,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 11º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1109,
-pelo lado esquerdo com apartamento 1112
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1112:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1111,
-pelo lado esquerdo com apartamento 1113
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1113:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1112,
-pelo lado esquerdo com apartamento 1114 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1114:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1113,
-pelo lado esquerdo com apartamento 1115
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1115:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1114,
-pelo lado esquerdo com apartamento 1116
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1116:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1115,
-pelo lado esquerdo com apartamento 1117
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1117:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1116,
-pelo lado esquerdo com apartamento 1118
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1118:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1117,
-pelo lado esquerdo com apartamento 1119
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1119:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1118,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1120.
-
-APARTAMENTO 1120:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1121
-e pelo fundo com circulação comum e apartamento 1119.
-
-APARTAMENTO 1121:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1120,
-pelo lado esquerdo com apartamento 1122
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1122:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1121,
-pelo lado esquerdo com apartamento 1123
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1123:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1122,
-pelo lado esquerdo com apartamento 1124
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1124:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1123,
-pelo lado esquerdo com apartamento 1125
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1125:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1124,
-pelo lado esquerdo com shaft e apartamento 1126
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1126:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1125 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1127
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1127:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1126,
-pelo lado esquerdo com apartamento 1128
+pelo lado esquerdo com kitinete 1112
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1128:
@@ -4836,7 +366,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 11º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1127,
+pelo lado direito com kitinete 1127,
 pelo lado esquerdo com apartamento 1130
 e pelo fundo com circulação comum.
 
@@ -4852,247 +382,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 11º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1128,
-pelo lado esquerdo com apartamento 1131
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1131:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1130,
-pelo lado esquerdo com apartamento 1132
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1132:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1131,
-pelo lado esquerdo com apartamento 1133 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1133:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1132,
-pelo lado esquerdo com apartamento 1134
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1134:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1133,
-pelo lado esquerdo com apartamento 1135
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1135:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1134,
-pelo lado esquerdo com apartamento 1136
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1136:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1135,
-pelo lado esquerdo com apartamento 1137
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1137:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1136,
-pelo lado esquerdo com apartamento 1138
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1138:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 11º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1137,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1101.
-
-APARTAMENTO 1201:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1202
-e pelo fundo com circulação comum e apartamento 1238.
-
-APARTAMENTO 1202:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1201,
-pelo lado esquerdo com apartamento 1203
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1203:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1202,
-pelo lado esquerdo com apartamento 1204
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1204:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1203,
-pelo lado esquerdo com apartamento 1205
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1205:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1204,
-pelo lado esquerdo com apartamento 1206
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1206:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1205,
-pelo lado esquerdo com shaft e apartamento 1207
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1207:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1206 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1208
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1208:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1207,
-pelo lado esquerdo com apartamento 1209
+pelo lado esquerdo com kitinete 1131
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1209:
@@ -5106,7 +396,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 12º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1208,
+pelo lado direito com kitinete 1208,
 pelo lado esquerdo com apartamento 1211
 e pelo fundo com circulação comum.
 
@@ -5122,247 +412,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 12º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1209,
-pelo lado esquerdo com apartamento 1212
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1212:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1211,
-pelo lado esquerdo com apartamento 1213
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1213:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1212,
-pelo lado esquerdo com apartamento 1214 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1214:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1213,
-pelo lado esquerdo com apartamento 1215
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1215:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1214,
-pelo lado esquerdo com apartamento 1216
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1216:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1215,
-pelo lado esquerdo com apartamento 1217
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1217:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1216,
-pelo lado esquerdo com apartamento 1218
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1218:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1217,
-pelo lado esquerdo com apartamento 1219
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1219:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1218,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1220.
-
-APARTAMENTO 1220:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1221
-e pelo fundo com circulação comum e apartamento 1219.
-
-APARTAMENTO 1221:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1220,
-pelo lado esquerdo com apartamento 1222
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1222:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1221,
-pelo lado esquerdo com apartamento 1223
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1223:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1222,
-pelo lado esquerdo com apartamento 1224
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1224:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1223,
-pelo lado esquerdo com apartamento 1225
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1225:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1224,
-pelo lado esquerdo com shaft e apartamento 1226
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1226:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1225 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1227
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1227:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1226,
-pelo lado esquerdo com apartamento 1228
+pelo lado esquerdo com kitinete 1212
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1228:
@@ -5376,7 +426,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 12º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1227,
+pelo lado direito com kitinete 1227,
 pelo lado esquerdo com apartamento 1230
 e pelo fundo com circulação comum.
 
@@ -5392,247 +442,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 12º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1228,
-pelo lado esquerdo com apartamento 1231
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1231:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1230,
-pelo lado esquerdo com apartamento 1232
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1232:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1231,
-pelo lado esquerdo com apartamento 1233 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1233:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1232,
-pelo lado esquerdo com apartamento 1234
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1234:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1233,
-pelo lado esquerdo com apartamento 1235
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1235:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1234,
-pelo lado esquerdo com apartamento 1236
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1236:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1235,
-pelo lado esquerdo com apartamento 1237
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1237:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1236,
-pelo lado esquerdo com apartamento 1238
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1238:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 12º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1237,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1201.
-
-APARTAMENTO 1301:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1302
-e pelo fundo com circulação comum e apartamento 1338.
-
-APARTAMENTO 1302:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1301,
-pelo lado esquerdo com apartamento 1303
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1303:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1302,
-pelo lado esquerdo com apartamento 1304
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1304:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1303,
-pelo lado esquerdo com apartamento 1305
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1305:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1304,
-pelo lado esquerdo com apartamento 1306
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1306:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1305,
-pelo lado esquerdo com shaft e apartamento 1307
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1307:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1306 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1308
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1308:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1307,
-pelo lado esquerdo com apartamento 1309
+pelo lado esquerdo com kitinete 1231
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1309:
@@ -5646,7 +456,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 13º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1308,
+pelo lado direito com kitinete 1308,
 pelo lado esquerdo com apartamento 1311
 e pelo fundo com circulação comum.
 
@@ -5662,247 +472,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 13º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1309,
-pelo lado esquerdo com apartamento 1312
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1312:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1311,
-pelo lado esquerdo com apartamento 1313
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1313:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1312,
-pelo lado esquerdo com apartamento 1314 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1314:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1313,
-pelo lado esquerdo com apartamento 1315
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1315:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1314,
-pelo lado esquerdo com apartamento 1316
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1316:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1315,
-pelo lado esquerdo com apartamento 1317
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1317:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1316,
-pelo lado esquerdo com apartamento 1318
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1318:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1317,
-pelo lado esquerdo com apartamento 1319
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1319:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1318,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1320.
-
-APARTAMENTO 1320:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1321
-e pelo fundo com circulação comum e apartamento 1319.
-
-APARTAMENTO 1321:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1320,
-pelo lado esquerdo com apartamento 1322
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1322:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1321,
-pelo lado esquerdo com apartamento 1323
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1323:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1322,
-pelo lado esquerdo com apartamento 1324
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1324:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1323,
-pelo lado esquerdo com apartamento 1325
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1325:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1324,
-pelo lado esquerdo com shaft e apartamento 1326
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1326:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1325 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1327
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1327:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1326,
-pelo lado esquerdo com apartamento 1328
+pelo lado esquerdo com kitinete 1312
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1328:
@@ -5916,7 +486,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 13º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1327,
+pelo lado direito com kitinete 1327,
 pelo lado esquerdo com apartamento 1330
 e pelo fundo com circulação comum.
 
@@ -5932,247 +502,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 13º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1328,
-pelo lado esquerdo com apartamento 1331
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1331:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1330,
-pelo lado esquerdo com apartamento 1332
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1332:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1331,
-pelo lado esquerdo com apartamento 1333 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1333:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1332,
-pelo lado esquerdo com apartamento 1334
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1334:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1333,
-pelo lado esquerdo com apartamento 1335
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1335:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1334,
-pelo lado esquerdo com apartamento 1336
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1336:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1335,
-pelo lado esquerdo com apartamento 1337
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1337:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1336,
-pelo lado esquerdo com apartamento 1338
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1338:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 13º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1337,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1301.
-
-APARTAMENTO 1401:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1402
-e pelo fundo com circulação comum e apartamento 1438.
-
-APARTAMENTO 1402:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1401,
-pelo lado esquerdo com apartamento 1403
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1403:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1402,
-pelo lado esquerdo com apartamento 1404
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1404:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1403,
-pelo lado esquerdo com apartamento 1405
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1405:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1404,
-pelo lado esquerdo com apartamento 1406
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1406:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1405,
-pelo lado esquerdo com shaft e apartamento 1407
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1407:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1406 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1408
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1408:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1407,
-pelo lado esquerdo com apartamento 1409
+pelo lado esquerdo com kitinete 1331
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1409:
@@ -6186,7 +516,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 14º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1408,
+pelo lado direito com kitinete 1408,
 pelo lado esquerdo com apartamento 1411
 e pelo fundo com circulação comum.
 
@@ -6202,247 +532,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 14º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1409,
-pelo lado esquerdo com apartamento 1412
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1412:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1411,
-pelo lado esquerdo com apartamento 1413
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1413:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1412,
-pelo lado esquerdo com apartamento 1414 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1414:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1413,
-pelo lado esquerdo com apartamento 1415
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1415:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1414,
-pelo lado esquerdo com apartamento 1416
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1416:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1415,
-pelo lado esquerdo com apartamento 1417
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1417:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1416,
-pelo lado esquerdo com apartamento 1418
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1418:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1417,
-pelo lado esquerdo com apartamento 1419
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1419:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1418,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1420.
-
-APARTAMENTO 1420:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1421
-e pelo fundo com circulação comum e apartamento 1419.
-
-APARTAMENTO 1421:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1420,
-pelo lado esquerdo com apartamento 1422
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1422:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1421,
-pelo lado esquerdo com apartamento 1423
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1423:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1422,
-pelo lado esquerdo com apartamento 1424
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1424:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1423,
-pelo lado esquerdo com apartamento 1425
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1425:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1424,
-pelo lado esquerdo com shaft e apartamento 1426
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1426:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1425 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1427
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1427:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1426,
-pelo lado esquerdo com apartamento 1428
+pelo lado esquerdo com kitinete 1412
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1428:
@@ -6456,7 +546,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 14º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1427,
+pelo lado direito com kitinete 1427,
 pelo lado esquerdo com apartamento 1430
 e pelo fundo com circulação comum.
 
@@ -6472,1387 +562,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 14º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1428,
-pelo lado esquerdo com apartamento 1431
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1431:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1430,
-pelo lado esquerdo com apartamento 1432
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1432:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1431,
-pelo lado esquerdo com apartamento 1433 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1433:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1432,
-pelo lado esquerdo com apartamento 1434
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1434:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1433,
-pelo lado esquerdo com apartamento 1435
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1435:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1434,
-pelo lado esquerdo com apartamento 1436
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1436:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1435,
-pelo lado esquerdo com apartamento 1437
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1437:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1436,
-pelo lado esquerdo com apartamento 1438
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1438:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 14º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1437,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1401.
-
-APARTAMENTO 1501:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1502
-e pelo fundo com circulação comum e apartamento 1538.
-
-APARTAMENTO 1502:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1501,
-pelo lado esquerdo com apartamento 1503
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1503:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1502,
-pelo lado esquerdo com apartamento 1504
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1504:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1503,
-pelo lado esquerdo com apartamento 1505
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1505:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1504,
-pelo lado esquerdo com apartamento 1506
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1506:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1505,
-pelo lado esquerdo com shaft e apartamento 1507
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1507:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1506 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1508
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1508:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1507,
-pelo lado esquerdo com apartamento 1509
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1509:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1508,
-pelo lado esquerdo com apartamento 1510
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1510:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1509,
-pelo lado esquerdo com apartamento 1511
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1511:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1510,
-pelo lado esquerdo com apartamento 1512
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1512:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1511,
-pelo lado esquerdo com apartamento 1513
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1513:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1512,
-pelo lado esquerdo com apartamento 1514 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1514:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1513,
-pelo lado esquerdo com apartamento 1515
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1515:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1514,
-pelo lado esquerdo com apartamento 1516
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1516:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1515,
-pelo lado esquerdo com apartamento 1517
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1517:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1516,
-pelo lado esquerdo com apartamento 1518
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1518:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1517,
-pelo lado esquerdo com apartamento 1519
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1519:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1518,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1520.
-
-APARTAMENTO 1520:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1521
-e pelo fundo com circulação comum e apartamento 1519.
-
-APARTAMENTO 1521:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1520,
-pelo lado esquerdo com apartamento 1522
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1522:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1521,
-pelo lado esquerdo com apartamento 1523
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1523:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1522,
-pelo lado esquerdo com apartamento 1524
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1524:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1523,
-pelo lado esquerdo com apartamento 1525
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1525:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1524,
-pelo lado esquerdo com shaft e apartamento 1526
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1526:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1525 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1527
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1527:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1526,
-pelo lado esquerdo com apartamento 1528
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1528:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1527,
-pelo lado esquerdo com apartamento 1529
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1529:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1528,
-pelo lado esquerdo com apartamento 1530
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1530:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1529,
-pelo lado esquerdo com apartamento 1531
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1531:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1530,
-pelo lado esquerdo com apartamento 1532
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1532:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1531,
-pelo lado esquerdo com apartamento 1533 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1533:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1532,
-pelo lado esquerdo com apartamento 1534
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1534:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1533,
-pelo lado esquerdo com apartamento 1535
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1535:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1534,
-pelo lado esquerdo com apartamento 1536
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1536:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1535,
-pelo lado esquerdo com apartamento 1537
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1537:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1536,
-pelo lado esquerdo com apartamento 1538
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1538:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 15º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1537,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1501.
-
-APARTAMENTO 1601:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1602
-e pelo fundo com circulação comum e apartamento 1638.
-
-APARTAMENTO 1602:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1601,
-pelo lado esquerdo com apartamento 1603
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1603:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1602,
-pelo lado esquerdo com apartamento 1604
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1604:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1603,
-pelo lado esquerdo com apartamento 1605
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1605:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1604,
-pelo lado esquerdo com apartamento 1606
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1606:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1605,
-pelo lado esquerdo com shaft e apartamento 1607
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1607:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1606 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1608
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1608:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1607,
-pelo lado esquerdo com apartamento 1609
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1609:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1608,
-pelo lado esquerdo com apartamento 1610
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1610:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1609,
-pelo lado esquerdo com apartamento 1611
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1611:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1610,
-pelo lado esquerdo com apartamento 1612
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1612:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1611,
-pelo lado esquerdo com apartamento 1613
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1613:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1612,
-pelo lado esquerdo com apartamento 1614 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1614:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1613,
-pelo lado esquerdo com apartamento 1615
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1615:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1614,
-pelo lado esquerdo com apartamento 1616
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1616:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1615,
-pelo lado esquerdo com apartamento 1617
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1617:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1616,
-pelo lado esquerdo com apartamento 1618
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1618:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1617,
-pelo lado esquerdo com apartamento 1619
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1619:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1618,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1620.
-
-APARTAMENTO 1620:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1621
-e pelo fundo com circulação comum e apartamento 1619.
-
-APARTAMENTO 1621:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1620,
-pelo lado esquerdo com apartamento 1622
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1622:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1621,
-pelo lado esquerdo com apartamento 1623
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1623:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1622,
-pelo lado esquerdo com apartamento 1624
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1624:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1623,
-pelo lado esquerdo com apartamento 1625
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1625:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1624,
-pelo lado esquerdo com shaft e apartamento 1626
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1626:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1625 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1627
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1627:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1626,
-pelo lado esquerdo com apartamento 1628
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1628:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1627,
-pelo lado esquerdo com apartamento 1629
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1629:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.96180900 metros quadrados,
-sendo a área privativa de 24.73000000 metros quadrados
-e a área comum de 12.23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00083873;
-Fração ideal de solo e partes comuns no condomínio: 0.00072379;
-Quota de terreno: 2.33868100 metros quadrados.
-Area comum descoberta: 1.09717200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1628,
-pelo lado esquerdo com apartamento 1630
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1630:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1629,
-pelo lado esquerdo com apartamento 1631
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1631:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1630,
-pelo lado esquerdo com apartamento 1632
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1632:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1631,
-pelo lado esquerdo com apartamento 1633 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1633:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1632,
-pelo lado esquerdo com apartamento 1634
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1634:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1633,
-pelo lado esquerdo com apartamento 1635
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1635:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1634,
-pelo lado esquerdo com apartamento 1636
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1636:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1635,
-pelo lado esquerdo com apartamento 1637
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1637:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1636,
-pelo lado esquerdo com apartamento 1638
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1638:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 16º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1637,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1601.
-
-APARTAMENTO 1701:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.37201800 metros quadrados,
-sendo a área privativa de 28.36000000 metros quadrados
-e a área comum de 14.01201800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096079;
-Fração ideal de solo e partes comuns no condomínio: 0.00082913;
-Quota de terreno: 2.67905200 metros quadrados.
-Area comum descoberta: 1.25685400 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1702
-e pelo fundo com circulação comum e apartamento 1738.
-
-APARTAMENTO 1702:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1701,
-pelo lado esquerdo com apartamento 1703
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1703:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1702,
-pelo lado esquerdo com apartamento 1704
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1704:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1703,
-pelo lado esquerdo com apartamento 1705
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1705:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1704,
-pelo lado esquerdo com apartamento 1706
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1706:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1705,
-pelo lado esquerdo com shaft e apartamento 1707
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1707:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1706 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1708
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1708:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1707,
-pelo lado esquerdo com apartamento 1709
+pelo lado esquerdo com kitinete 1431
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1709:
@@ -7866,7 +576,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 17º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1708,
+pelo lado direito com kitinete 1708,
 pelo lado esquerdo com apartamento 1711
 e pelo fundo com circulação comum.
 
@@ -7882,247 +592,7 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 17º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1709,
-pelo lado esquerdo com apartamento 1712
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1712:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1711,
-pelo lado esquerdo com apartamento 1713
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1713:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1712,
-pelo lado esquerdo com apartamento 1714 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1714:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1713,
-pelo lado esquerdo com apartamento 1715
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1715:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1714,
-pelo lado esquerdo com apartamento 1716
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1716:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1715,
-pelo lado esquerdo com apartamento 1717
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1717:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1716,
-pelo lado esquerdo com apartamento 1718
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1718:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1717,
-pelo lado esquerdo com apartamento 1719
-e pelo fundo com shaft e circulação comum.
-
-APARTAMENTO 1719:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.70677000 metros quadrados,
-sendo a área privativa de 28.60000000 metros quadrados
-e a área comum de 14.10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096730;
-Fração ideal de solo e partes comuns no condomínio: 0.00083474;
-Quota de terreno: 2.69717800 metros quadrados.
-Area comum descoberta: 1.26535800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1718,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1720.
-
-APARTAMENTO 1720:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.53955300 metros quadrados,
-sendo a área privativa de 28.48000000 metros quadrados
-e a área comum de 14.05955300 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00096405;
-Fração ideal de solo e partes comuns no condomínio: 0.00083194;
-Quota de terreno: 2.68813100 metros quadrados.
-Area comum descoberta: 1.26111400 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com terreno do condomínio,
-pelo lado esquerdo com apartamento 1721
-e pelo fundo com circulação comum e apartamento 1719.
-
-APARTAMENTO 1721:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1720,
-pelo lado esquerdo com apartamento 1722
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1722:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1721,
-pelo lado esquerdo com apartamento 1723
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1723:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1722,
-pelo lado esquerdo com apartamento 1724
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1724:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1723,
-pelo lado esquerdo com apartamento 1725
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1725:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1724,
-pelo lado esquerdo com shaft e apartamento 1726
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1726:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1725 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1727
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1727:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1726,
-pelo lado esquerdo com apartamento 1728
+pelo lado esquerdo com kitinete 1712
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1728:
@@ -8136,7 +606,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 17º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1727,
+pelo lado direito com kitinete 1727,
 pelo lado esquerdo com apartamento 1730
 e pelo fundo com circulação comum.
 
@@ -8152,128 +622,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 17º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1728,
-pelo lado esquerdo com apartamento 1731
+pelo lado esquerdo com kitinete 1731
 e pelo fundo com circulação comum.
-
-APARTAMENTO 1731:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1730,
-pelo lado esquerdo com apartamento 1732
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1732:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.30286500 metros quadrados,
-sendo a área privativa de 28.93000000 metros quadrados
-e a área comum de 14.37286500 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098554;
-Fração ideal de solo e partes comuns no condomínio: 0.00085048;
-Quota de terreno: 2.74803700 metros quadrados.
-Area comum descoberta: 1.28921900 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1731,
-pelo lado esquerdo com apartamento 1733 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1733:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.56384900 metros quadrados,
-sendo a área privativa de 25.21000000 metros quadrados
-e a área comum de 12.35384900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00084709;
-Fração ideal de solo e partes comuns no condomínio: 0.00073101;
-Quota de terreno: 2.36201000 metros quadrados.
-Area comum descoberta: 1.10811700 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1732,
-pelo lado esquerdo com apartamento 1734
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1734:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1733,
-pelo lado esquerdo com apartamento 1735
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1735:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.95426800 metros quadrados,
-sendo a área privativa de 25.45000000 metros quadrados
-e a área comum de 12.50426800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00085741;
-Fração ideal de solo e partes comuns no condomínio: 0.00073991;
-Quota de terreno: 2.39076800 metros quadrados.
-Area comum descoberta: 1.12160800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1734,
-pelo lado esquerdo com apartamento 1736
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1736:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1735,
-pelo lado esquerdo com apartamento 1737
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1737:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.27378400 metros quadrados,
-sendo a área privativa de 25.68000000 metros quadrados
-e a área comum de 12.59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086355;
-Fração ideal de solo e partes comuns no condomínio: 0.00074521;
-Quota de terreno: 2.40789300 metros quadrados.
-Area comum descoberta: 1.12964200 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1736,
-pelo lado esquerdo com apartamento 1738
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1738:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 42.85906800 metros quadrados,
-sendo a área privativa de 28.71000000 metros quadrados
-e a área comum de 14.14906800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00097019;
-Fração ideal de solo e partes comuns no condomínio: 0.00083724;
-Quota de terreno: 2.70525600 metros quadrados.
-Area comum descoberta: 1.26914800 metros quadrados.
-Localização: 17º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1737,
-pelo lado esquerdo com terreno do condomínio
-e pelo fundo com circulação comum e apartamento 1701.
 
 APARTAMENTO 1801:
 Subcondomínio: RESIDENCIAL.
@@ -8317,37 +667,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1803,
-pelo lado esquerdo com shaft e apartamento 1807
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1807:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1806 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1808
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1808:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1807,
-pelo lado esquerdo com apartamento 1809
+pelo lado esquerdo com shaft e kitinete 1807
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1809:
@@ -8361,7 +681,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1808,
+pelo lado direito com kitinete 1808,
 pelo lado esquerdo com apartamento 1811
 e pelo fundo com circulação comum.
 
@@ -8377,38 +697,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1809,
-pelo lado esquerdo com apartamento 1812
+pelo lado esquerdo com kitinete 1812
 e pelo fundo com circulação comum.
-
-APARTAMENTO 1812:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1811,
-pelo lado esquerdo com apartamento 1813
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1813:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1812,
-pelo lado esquerdo com apartamento 1814 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 1814:
 Subcondomínio: RESIDENCIAL.
@@ -8421,7 +711,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1813,
+pelo lado direito com shaft e kitinete 1813,
 pelo lado esquerdo com apartamento 1816
 e pelo fundo com circulação comum.
 
@@ -8497,37 +787,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1822,
-pelo lado esquerdo com shaft e apartamento 1826
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1826:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1825 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1827
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1827:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1826,
-pelo lado esquerdo com apartamento 1828
+pelo lado esquerdo com shaft e kitinete 1826
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1828:
@@ -8541,7 +801,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1827,
+pelo lado direito com kitinete 1827,
 pelo lado esquerdo com apartamento 1830
 e pelo fundo com circulação comum.
 
@@ -8557,38 +817,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1828,
-pelo lado esquerdo com apartamento 1831
+pelo lado esquerdo com kitinete 1831
 e pelo fundo com circulação comum.
-
-APARTAMENTO 1831:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1830,
-pelo lado esquerdo com apartamento 1832
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1832:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 18º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1831,
-pelo lado esquerdo com apartamento 1833 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 1833:
 Subcondomínio: RESIDENCIAL.
@@ -8601,7 +831,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 18º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1832,
+pelo lado direito com shaft e kitinete 1832,
 pelo lado esquerdo com apartamento 1835
 e pelo fundo com circulação comum.
 
@@ -8677,37 +907,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1903,
-pelo lado esquerdo com shaft e apartamento 1907
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1907:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1906 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1908
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1908:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1907,
-pelo lado esquerdo com apartamento 1909
+pelo lado esquerdo com shaft e kitinete 1907
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1909:
@@ -8721,7 +921,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1908,
+pelo lado direito com kitinete 1908,
 pelo lado esquerdo com apartamento 1911
 e pelo fundo com circulação comum.
 
@@ -8737,38 +937,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1909,
-pelo lado esquerdo com apartamento 1912
+pelo lado esquerdo com kitinete 1912
 e pelo fundo com circulação comum.
-
-APARTAMENTO 1912:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1911,
-pelo lado esquerdo com apartamento 1913
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1913:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1912,
-pelo lado esquerdo com apartamento 1914 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 1914:
 Subcondomínio: RESIDENCIAL.
@@ -8781,7 +951,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1913,
+pelo lado direito com shaft e kitinete 1913,
 pelo lado esquerdo com apartamento 1916
 e pelo fundo com circulação comum.
 
@@ -8857,37 +1027,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1922,
-pelo lado esquerdo com shaft e apartamento 1926
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1926:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1925 e terreno do condomínio,
-pelo lado esquerdo com apartamento 1927
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 1927:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1926,
-pelo lado esquerdo com apartamento 1928
+pelo lado esquerdo com shaft e kitinete 1926
 e pelo fundo com circulação comum.
 
 APARTAMENTO 1928:
@@ -8901,7 +1041,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1927,
+pelo lado direito com kitinete 1927,
 pelo lado esquerdo com apartamento 1930
 e pelo fundo com circulação comum.
 
@@ -8917,38 +1057,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 1928,
-pelo lado esquerdo com apartamento 1931
+pelo lado esquerdo com kitinete 1931
 e pelo fundo com circulação comum.
-
-APARTAMENTO 1931:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1930,
-pelo lado esquerdo com apartamento 1932
-e pelo fundo com circulação comum.
-
-APARTAMENTO 1932:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 19º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 1931,
-pelo lado esquerdo com apartamento 1933 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 1933:
 Subcondomínio: RESIDENCIAL.
@@ -8961,7 +1071,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 19º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 1932,
+pelo lado direito com shaft e kitinete 1932,
 pelo lado esquerdo com apartamento 1935
 e pelo fundo com circulação comum.
 
@@ -9037,37 +1147,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2003,
-pelo lado esquerdo com shaft e apartamento 2007
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2007:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2006 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2008
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2008:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2007,
-pelo lado esquerdo com apartamento 2009
+pelo lado esquerdo com shaft e kitinete 2007
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2009:
@@ -9081,7 +1161,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2008,
+pelo lado direito com kitinete 2008,
 pelo lado esquerdo com apartamento 2011
 e pelo fundo com circulação comum.
 
@@ -9097,38 +1177,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2009,
-pelo lado esquerdo com apartamento 2012
+pelo lado esquerdo com kitinete 2012
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2012:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2011,
-pelo lado esquerdo com apartamento 2013
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2013:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2012,
-pelo lado esquerdo com apartamento 2014 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2014:
 Subcondomínio: RESIDENCIAL.
@@ -9141,7 +1191,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2013,
+pelo lado direito com shaft e kitinete 2013,
 pelo lado esquerdo com apartamento 2016
 e pelo fundo com circulação comum.
 
@@ -9217,37 +1267,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2022,
-pelo lado esquerdo com shaft e apartamento 2026
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2026:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2025 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2027
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2027:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 37.92966000 metros quadrados,
-sendo a área privativa de 25.37000000 metros quadrados
-e a área comum de 12.55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086121;
-Fração ideal de solo e partes comuns no condomínio: 0.00074319;
-Quota de terreno: 2.40136600 metros quadrados.
-Area comum descoberta: 1.12658000 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2026,
-pelo lado esquerdo com apartamento 2028
+pelo lado esquerdo com shaft e kitinete 2026
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2028:
@@ -9261,7 +1281,7 @@ Quota de terreno: 3.52690800 metros quadrados.
 Area comum descoberta: 1.65461900 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2027,
+pelo lado direito com kitinete 2027,
 pelo lado esquerdo com apartamento 2030
 e pelo fundo com circulação comum.
 
@@ -9277,38 +1297,8 @@ Area comum descoberta: 1.64268900 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2028,
-pelo lado esquerdo com apartamento 2031
+pelo lado esquerdo com kitinete 2031
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2031:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.53518000 metros quadrados,
-sendo a área privativa de 24.45000000 metros quadrados
-e a área comum de 12.08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082867;
-Fração ideal de solo e partes comuns no condomínio: 0.00071511;
-Quota de terreno: 2.31063500 metros quadrados.
-Area comum descoberta: 1.08401500 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2030,
-pelo lado esquerdo com apartamento 2032
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2032:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 20º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2031,
-pelo lado esquerdo com apartamento 2033 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2033:
 Subcondomínio: RESIDENCIAL.
@@ -9321,7 +1311,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 20º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2032,
+pelo lado direito com shaft e kitinete 2032,
 pelo lado esquerdo com apartamento 2035
 e pelo fundo com circulação comum.
 
@@ -9397,37 +1387,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2103,
-pelo lado esquerdo com shaft e apartamento 2107
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2107:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2106 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2108
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2108:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2107,
-pelo lado esquerdo com apartamento 2109
+pelo lado esquerdo com shaft e kitinete 2107
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2109:
@@ -9441,7 +1401,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2108,
+pelo lado direito com kitinete 2108,
 pelo lado esquerdo com apartamento 2111
 e pelo fundo com circulação comum.
 
@@ -9457,38 +1417,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2109,
-pelo lado esquerdo com apartamento 2112
+pelo lado esquerdo com kitinete 2112
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2112:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2111,
-pelo lado esquerdo com apartamento 2113
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2113:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2112,
-pelo lado esquerdo com apartamento 2114 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2114:
 Subcondomínio: RESIDENCIAL.
@@ -9501,7 +1431,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2113,
+pelo lado direito com shaft e kitinete 2113,
 pelo lado esquerdo com apartamento 2116
 e pelo fundo com circulação comum.
 
@@ -9577,37 +1507,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2122,
-pelo lado esquerdo com shaft e apartamento 2126
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2126:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2125 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2127
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2127:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2126,
-pelo lado esquerdo com apartamento 2128
+pelo lado esquerdo com shaft e kitinete 2126
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2128:
@@ -9621,7 +1521,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2127,
+pelo lado direito com kitinete 2127,
 pelo lado esquerdo com apartamento 2130
 e pelo fundo com circulação comum.
 
@@ -9637,38 +1537,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2128,
-pelo lado esquerdo com apartamento 2131
+pelo lado esquerdo com kitinete 2131
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2131:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2130,
-pelo lado esquerdo com apartamento 2132
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2132:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 21º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2131,
-pelo lado esquerdo com apartamento 2133 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2133:
 Subcondomínio: RESIDENCIAL.
@@ -9681,7 +1551,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 21º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2132,
+pelo lado direito com shaft e kitinete 2132,
 pelo lado esquerdo com apartamento 2135
 e pelo fundo com circulação comum.
 
@@ -9757,37 +1627,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2203,
-pelo lado esquerdo com shaft e apartamento 2207
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2207:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2206 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2208
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2208:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2207,
-pelo lado esquerdo com apartamento 2209
+pelo lado esquerdo com shaft e kitinete 2207
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2209:
@@ -9801,7 +1641,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2208,
+pelo lado direito com kitinete 2208,
 pelo lado esquerdo com apartamento 2211
 e pelo fundo com circulação comum.
 
@@ -9817,38 +1657,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2209,
-pelo lado esquerdo com apartamento 2212
+pelo lado esquerdo com kitinete 2212
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2212:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2211,
-pelo lado esquerdo com apartamento 2213
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2213:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2212,
-pelo lado esquerdo com apartamento 2214 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2214:
 Subcondomínio: RESIDENCIAL.
@@ -9861,7 +1671,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2213,
+pelo lado direito com shaft e kitinete 2213,
 pelo lado esquerdo com apartamento 2216
 e pelo fundo com circulação comum.
 
@@ -9937,37 +1747,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2222,
-pelo lado esquerdo com shaft e apartamento 2226
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2226:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2225 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2227
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2227:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2226,
-pelo lado esquerdo com apartamento 2228
+pelo lado esquerdo com shaft e kitinete 2226
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2228:
@@ -9981,7 +1761,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2227,
+pelo lado direito com kitinete 2227,
 pelo lado esquerdo com apartamento 2230
 e pelo fundo com circulação comum.
 
@@ -9997,38 +1777,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2228,
-pelo lado esquerdo com apartamento 2231
+pelo lado esquerdo com kitinete 2231
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2231:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2230,
-pelo lado esquerdo com apartamento 2232
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2232:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 22º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2231,
-pelo lado esquerdo com apartamento 2233 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2233:
 Subcondomínio: RESIDENCIAL.
@@ -10041,7 +1791,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 22º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2232,
+pelo lado direito com shaft e kitinete 2232,
 pelo lado esquerdo com apartamento 2235
 e pelo fundo com circulação comum.
 
@@ -10117,37 +1867,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2303,
-pelo lado esquerdo com shaft e apartamento 2307
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2307:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2306 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2308
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2308:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2307,
-pelo lado esquerdo com apartamento 2309
+pelo lado esquerdo com shaft e kitinete 2307
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2309:
@@ -10161,7 +1881,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2308,
+pelo lado direito com kitinete 2308,
 pelo lado esquerdo com apartamento 2311
 e pelo fundo com circulação comum.
 
@@ -10177,38 +1897,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2309,
-pelo lado esquerdo com apartamento 2312
+pelo lado esquerdo com kitinete 2312
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2312:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2311,
-pelo lado esquerdo com apartamento 2313
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2313:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2312,
-pelo lado esquerdo com apartamento 2314 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2314:
 Subcondomínio: RESIDENCIAL.
@@ -10221,7 +1911,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2313,
+pelo lado direito com shaft e kitinete 2313,
 pelo lado esquerdo com apartamento 2316
 e pelo fundo com circulação comum.
 
@@ -10297,37 +1987,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2322,
-pelo lado esquerdo com shaft e apartamento 2326
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2326:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2325 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2327
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2327:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2326,
-pelo lado esquerdo com apartamento 2328
+pelo lado esquerdo com shaft e kitinete 2326
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2328:
@@ -10341,7 +2001,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2327,
+pelo lado direito com kitinete 2327,
 pelo lado esquerdo com apartamento 2330
 e pelo fundo com circulação comum.
 
@@ -10357,38 +2017,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2328,
-pelo lado esquerdo com apartamento 2331
+pelo lado esquerdo com kitinete 2331
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2331:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2330,
-pelo lado esquerdo com apartamento 2332
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2332:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 23º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2331,
-pelo lado esquerdo com apartamento 2333 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2333:
 Subcondomínio: RESIDENCIAL.
@@ -10401,7 +2031,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 23º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2332,
+pelo lado direito com shaft e kitinete 2332,
 pelo lado esquerdo com apartamento 2335
 e pelo fundo com circulação comum.
 
@@ -10477,37 +2107,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2403,
-pelo lado esquerdo com shaft e apartamento 2407
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2407:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2406 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2408
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2408:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2407,
-pelo lado esquerdo com apartamento 2409
+pelo lado esquerdo com shaft e kitinete 2407
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2409:
@@ -10521,7 +2121,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2408,
+pelo lado direito com kitinete 2408,
 pelo lado esquerdo com apartamento 2411
 e pelo fundo com circulação comum.
 
@@ -10537,38 +2137,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2409,
-pelo lado esquerdo com apartamento 2412
+pelo lado esquerdo com kitinete 2412
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2412:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2411,
-pelo lado esquerdo com apartamento 2413
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2413:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2412,
-pelo lado esquerdo com apartamento 2414 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2414:
 Subcondomínio: RESIDENCIAL.
@@ -10581,7 +2151,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2413,
+pelo lado direito com shaft e kitinete 2413,
 pelo lado esquerdo com apartamento 2416
 e pelo fundo com circulação comum.
 
@@ -10657,37 +2227,7 @@ Area comum descoberta: 2.17544200 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2422,
-pelo lado esquerdo com shaft e apartamento 2426
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2426:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2425 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2427
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2427:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2426,
-pelo lado esquerdo com apartamento 2428
+pelo lado esquerdo com shaft e kitinete 2426
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2428:
@@ -10701,7 +2241,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2427,
+pelo lado direito com kitinete 2427,
 pelo lado esquerdo com apartamento 2430
 e pelo fundo com circulação comum.
 
@@ -10717,38 +2257,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2428,
-pelo lado esquerdo com apartamento 2431
+pelo lado esquerdo com kitinete 2431
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2431:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2430,
-pelo lado esquerdo com apartamento 2432
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2432:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 24º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2431,
-pelo lado esquerdo com apartamento 2433 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2433:
 Subcondomínio: RESIDENCIAL.
@@ -10761,7 +2271,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 24º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2432,
+pelo lado direito com shaft e kitinete 2432,
 pelo lado esquerdo com apartamento 2435
 e pelo fundo com circulação comum.
 
@@ -10837,37 +2347,7 @@ Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2503,
-pelo lado esquerdo com shaft e apartamento 2507
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2507:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2506 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2508
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2508:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2507,
-pelo lado esquerdo com apartamento 2509
+pelo lado esquerdo com shaft e kitinete 2507
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2509:
@@ -10881,7 +2361,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2508,
+pelo lado direito com kitinete 2508,
 pelo lado esquerdo com apartamento 2511
 e pelo fundo com circulação comum.
 
@@ -10897,38 +2377,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2509,
-pelo lado esquerdo com apartamento 2512
+pelo lado esquerdo com kitinete 2512
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2512:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2511,
-pelo lado esquerdo com apartamento 2513
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2513:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2512,
-pelo lado esquerdo com apartamento 2514 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2514:
 Subcondomínio: RESIDENCIAL.
@@ -10941,7 +2391,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2513,
+pelo lado direito com shaft e kitinete 2513,
 pelo lado esquerdo com apartamento 2516
 e pelo fundo com circulação comum.
 
@@ -11017,37 +2467,7 @@ Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2522,
-pelo lado esquerdo com shaft e apartamento 2526
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2526:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2525 e terreno do condomínio,
-pelo lado esquerdo com apartamento 2527
-e pelo fundo com circulação comum e shaft .
-
-APARTAMENTO 2527:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 38.19313800 metros quadrados,
-sendo a área privativa de 25.56000000 metros quadrados
-e a área comum de 12.63313800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00086625;
-Fração ideal de solo e partes comuns no condomínio: 0.00074754;
-Quota de terreno: 2.41542100 metros quadrados.
-Area comum descoberta: 1.13317400 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2526,
-pelo lado esquerdo com apartamento 2528
+pelo lado esquerdo com shaft e kitinete 2526
 e pelo fundo com circulação comum.
 
 APARTAMENTO 2528:
@@ -11061,7 +2481,7 @@ Quota de terreno: 3.54422700 metros quadrados.
 Area comum descoberta: 1.66274400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2527,
+pelo lado direito com kitinete 2527,
 pelo lado esquerdo com apartamento 2530
 e pelo fundo com circulação comum.
 
@@ -11077,38 +2497,8 @@ Area comum descoberta: 1.63263900 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
 pelo lado direito com apartamento 2528,
-pelo lado esquerdo com apartamento 2531
+pelo lado esquerdo com kitinete 2531
 e pelo fundo com circulação comum.
-
-APARTAMENTO 2531:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 36.30009800 metros quadrados,
-sendo a área privativa de 24.28000000 metros quadrados
-e a área comum de 12.02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00082421;
-Fração ideal de solo e partes comuns no condomínio: 0.00071126;
-Quota de terreno: 2.29819500 metros quadrados.
-Area comum descoberta: 1.07817900 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2530,
-pelo lado esquerdo com apartamento 2532
-e pelo fundo com circulação comum.
-
-APARTAMENTO 2532:
-Subcondomínio: RESIDENCIAL.
-Áreas construídas: área total construída de 43.39428400 metros quadrados,
-sendo a área privativa de 28.99000000 metros quadrados
-e a área comum de 14.40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0.00098769;
-Fração ideal de solo e partes comuns no condomínio: 0.00085234;
-Quota de terreno: 2.75404700 metros quadrados.
-Area comum descoberta: 1.29203800 metros quadrados.
-Localização: 25º pavimento, sendo que para quem entra na unidade,
-confronta pela frente com terreno do condomínio,
-pelo lado direito com apartamento 2531,
-pelo lado esquerdo com apartamento 2533 e terreno do condomínio
-e pelo fundo com circulação comum e shaft .
 
 APARTAMENTO 2533:
 Subcondomínio: RESIDENCIAL.
@@ -11121,7 +2511,7 @@ Quota de terreno: 4.65073800 metros quadrados.
 Area comum descoberta: 2.18185400 metros quadrados.
 Localização: 25º pavimento, sendo que para quem entra na unidade,
 confronta pela frente com terreno do condomínio,
-pelo lado direito com shaft e apartamento 2532,
+pelo lado direito com shaft e kitinete 2532,
 pelo lado esquerdo com apartamento 2535
 e pelo fundo com circulação comum.
 
@@ -13294,7 +4684,7 @@ e a área comum de 1.71739600 metros quadrados.
 Fração ideal nas partes comuns do subcondomínio: 0.03302698;
 Fração ideal de solo e partes comuns no condoínio: 0.00142196;
 Quota de terreno: 4.59458000 metros quadrados.
-Localização: térreo, sendo que para quem entra na unidade,
+Localização: térreo  , sendo que para quem entra na unidade,
 confronta pela frente com rampa/eclusa serviço,
 pelo lado direito com galeria comercial,
 pelo lado esquerdo com hall residencial e loja 4
@@ -13308,7 +4698,7 @@ e a área comum de 0.69171200 metros quadrados.
 Fração ideal nas partes comuns do subcondomínio: 0.01330221;
 Fração ideal de solo e partes comuns no condoínio: 0.00057272;
 Quota de terreno: 1.85055000 metros quadrados.
-Localização: térreo, sendo que para quem entra na unidade,
+Localização: térreo  , sendo que para quem entra na unidade,
 confronta pela frente com hall residencial,
 pelo lado direito com loja 3,
 pelo lado esquerdo com loja 5
@@ -13322,7 +4712,7 @@ e a área comum de 0.97488500 metros quadrados.
 Fração ideal nas partes comuns do subcondomínio: 0.01874787;
 Fração ideal de solo e partes comuns no condoínio: 0.00080718;
 Quota de terreno: 2.60812800 metros quadrados.
-Localização: térreo, sendo que para quem entra na unidade,
+Localização: térreo  , sendo que para quem entra na unidade,
 confronta pela frente com hall residencial,
 pelo lado direito com loja 4,
 pelo lado esquerdo com loja 6
@@ -13336,7 +4726,7 @@ e a área comum de 0.73358600 metros quadrados.
 Fração ideal nas partes comuns do subcondomínio: 0.01410747;
 Fração ideal de solo e partes comuns no condoínio: 0.00060739;
 Quota de terreno: 1.96257400 metros quadrados.
-Localização: térreo, sendo que para quem entra na unidade,
+Localização: térreo  , sendo que para quem entra na unidade,
 confronta pela frente com hall residencial,
 pelo lado direito com loja 5,
 pelo lado esquerdo com área técnica e jardim da galeria comercial
@@ -13848,40 +5238,10 @@ No subsolo 2 serão 72 vagas autônomas de nº 100, 101, 122, 123, 124, 131, 132
 No subsolo 3 serão 72 vagas autônomas de nº 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 190, 191, 192, 193, 194, 195, 196, 217, 218, 219, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256 e 257 (vagas simples) e 174/175, 176/177, 178/179, 180/181, 182/183, 184/185, 186/187, 188/189, 197/198, 199/200, 201/202, 203/204, 205/206, 207/208, 209/210, 211/212, 213/214, 215/216, 220/221, 222/223, 224/225, 241/242 e 243/244 (vagas duplas).
 
 ## SUBCONDOMINIO GALERIA
-As lojas, num total de 8 unidades autônomas, são as Lojas nº 01, 02, 03, 04, 05, 06, 07, 08. Destas, as Lojas nº 03, 04, 05, 06 estão no térreo e as Lojas nº 01, 02, 07, 08 estão no térreo e mezanino.
+As lojas, num total de 8 unidades autônomas, são as Lojas nº 01, 02, 03, 04, 05, 06, 07, 08. Destas, as Lojas nº 03, 04, 05, 06 estão no térreo   e as Lojas nº 01, 02, 07, 08 estão no térreo e mezanino.
 
 # TIPOLOGIA DAS UNIDADES AUTÔNMAS
 ## SUBCONDOMINIO RESIDENCIAL
-APARTAMENTO TIPO 1: 22 unidades, 
-correspondentes aos apartamentos nº 301, 319, 401, 419, 501, 519, 619, 719, 819, 919, 1019, 1101, 1119, 1201, 1219, 1301, 1319, 1401, 1419, 1519, 1619, 1719, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 42,70677000 metros quadrados,
-sendo a área privativa de 28,60000000 metros quadrados
-e a área comum de 14,10677000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00096730;
-Fração ideal de solo e partes comuns no condomínio: 0,00083474;
-Quota de terreno: 2,69717800 metros quadrados.
-Area comum descoberta: 1,26535800 metros quadrados.
-APARTAMENTO TIPO 10: 10 unidades, 
-correspondentes aos apartamentos nº 310, 329, 410, 429, 510, 529, 1510, 1529, 1610, 1629, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 36,96180900 metros quadrados,
-sendo a área privativa de 24,73000000 metros quadrados
-e a área comum de 12,23180900 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00083873;
-Fração ideal de solo e partes comuns no condomínio: 0,00072379;
-Quota de terreno: 2,33868100 metros quadrados.
-Area comum descoberta: 1,09717200 metros quadrados.
-APARTAMENTO TIPO 11: 28 unidades, 
-correspondentes aos apartamentos nº 311, 312, 330, 331, 411, 412, 430, 431, 511, 512, 530, 531, 612, 631, 712, 731, 812, 831, 2112, 2131, 2212, 2231, 2312, 2331, 2412, 2431, 2512, 2531, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 36,30009800 metros quadrados,
-sendo a área privativa de 24,28000000 metros quadrados
-e a área comum de 12,02009800 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00082421;
-Fração ideal de solo e partes comuns no condomínio: 0,00071126;
-Quota de terreno: 2,29819500 metros quadrados.
-Area comum descoberta: 1,07817900 metros quadrados.
 APARTAMENTO TIPO 12: 16 unidades, 
 correspondentes aos apartamentos nº 609, 628, 709, 728, 809, 828, 2109, 2128, 2209, 2228, 2309, 2328, 2409, 2428, 2509, 2528, 
 possuindo cada unidade as seguintes áreas construídas: 
@@ -13902,16 +5262,6 @@ Fração ideal nas partes comuns do subcondomínio: 0,00124806;
 Fração ideal de solo e partes comuns no condomínio: 0,00107703;
 Quota de terreno: 3,48005600 metros quadrados.
 Area comum descoberta: 1,63263900 metros quadrados.
-APARTAMENTO TIPO 14: 28 unidades, 
-correspondentes aos apartamentos nº 908, 927, 1008, 1027, 1108, 1127, 1208, 1227, 1308, 1327, 1408, 1427, 1508, 1509, 1527, 1528, 1608, 1609, 1627, 1628, 1708, 1727, 1808, 1827, 1908, 1927, 2008, 2027, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 37,92966000 metros quadrados,
-sendo a área privativa de 25,37000000 metros quadrados
-e a área comum de 12,55966000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00086121;
-Fração ideal de solo e partes comuns no condomínio: 0,00074319;
-Quota de terreno: 2,40136600 metros quadrados.
-Area comum descoberta: 1,12658000 metros quadrados.
 APARTAMENTO TIPO 15: 20 unidades, 
 correspondentes aos apartamentos nº 909, 928, 1009, 1028, 1109, 1128, 1209, 1228, 1309, 1328, 1409, 1428, 1709, 1728, 1809, 1828, 1909, 1928, 2009, 2028, 
 possuindo cada unidade as seguintes áreas construídas: 
@@ -13932,16 +5282,6 @@ Fração ideal nas partes comuns do subcondomínio: 0,00125574;
 Fração ideal de solo e partes comuns no condomínio: 0,00108366;
 Quota de terreno: 3,50147900 metros quadrados.
 Area comum descoberta: 1,64268900 metros quadrados.
-APARTAMENTO TIPO 17: 28 unidades, 
-correspondentes aos apartamentos nº 912, 931, 1012, 1031, 1112, 1131, 1212, 1231, 1312, 1331, 1412, 1431, 1511, 1512, 1530, 1531, 1611, 1612, 1630, 1631, 1712, 1731, 1812, 1831, 1912, 1931, 2012, 2031, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 36,53518000 metros quadrados,
-sendo a área privativa de 24,45000000 metros quadrados
-e a área comum de 12,08518000 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00082867;
-Fração ideal de solo e partes comuns no condomínio: 0,00071511;
-Quota de terreno: 2,31063500 metros quadrados.
-Area comum descoberta: 1,08401500 metros quadrados.
 APARTAMENTO TIPO 18: 15 unidades, 
 correspondentes aos apartamentos nº 1801, 1901, 2001, 2101, 2201, 2301, 2401, 2901, 2919, 3001, 3019, 3101, 3119, 3201, 3219, 
 possuindo cada unidade as seguintes áreas construídas: 
@@ -13962,16 +5302,6 @@ Fração ideal nas partes comuns do subcondomínio: 0,00168386;
 Fração ideal de solo e partes comuns no condomínio: 0,00145311;
 Quota de terreno: 4,69523100 metros quadrados.
 Area comum descoberta: 2,20272800 metros quadrados.
-APARTAMENTO TIPO 2: 116 unidades, 
-correspondentes aos apartamentos nº 302, 303, 315, 316, 321, 322, 334, 335, 402, 403, 415, 416, 421, 422, 434, 435, 502, 503, 515, 516, 521, 522, 534, 535, 603, 615, 616, 622, 634, 635, 703, 715, 716, 722, 734, 735, 803, 815, 816, 822, 834, 835, 903, 915, 916, 922, 934, 935, 1003, 1015, 1016, 1022, 1034, 1035, 1102, 1103, 1117, 1118, 1121, 1122, 1136, 1137, 1202, 1203, 1217, 1218, 1221, 1222, 1236, 1237, 1302, 1303, 1317, 1318, 1321, 1322, 1336, 1337, 1402, 1403, 1417, 1418, 1421, 1422, 1436, 1437, 1503, 1504, 1505, 1517, 1518, 1522, 1523, 1524, 1536, 1537, 1603, 1604, 1605, 1617, 1618, 1622, 1623, 1624, 1636, 1637, 1703, 1704, 1705, 1717, 1718, 1722, 1723, 1724, 1736, 1737, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 38,27378400 metros quadrados,
-sendo a área privativa de 25,68000000 metros quadrados
-e a área comum de 12,59378400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00086355;
-Fração ideal de solo e partes comuns no condomínio: 0,00074521;
-Quota de terreno: 2,40789300 metros quadrados.
-Area comum descoberta: 1,12964200 metros quadrados.
 APARTAMENTO TIPO 20: 30 unidades, 
 correspondentes aos apartamentos nº 1806, 1825, 1906, 1925, 2006, 2025, 2106, 2125, 2206, 2225, 2306, 2325, 2406, 2425, 2906, 2914, 2925, 2933, 3006, 3014, 3025, 3033, 3106, 3114, 3125, 3133, 3206, 3214, 3225, 3233, 
 possuindo cada unidade as seguintes áreas construídas: 
@@ -13982,16 +5312,6 @@ Fração ideal nas partes comuns do subcondomínio: 0,00166300;
 Fração ideal de solo e partes comuns no condomínio: 0,00143511;
 Quota de terreno: 4,63707000 metros quadrados.
 Area comum descoberta: 2,17544200 metros quadrados.
-APARTAMENTO TIPO 21: 32 unidades, 
-correspondentes aos apartamentos nº 1807, 1813, 1826, 1832, 1907, 1913, 1926, 1932, 2007, 2013, 2026, 2032, 2107, 2113, 2126, 2132, 2207, 2213, 2226, 2232, 2307, 2313, 2326, 2332, 2407, 2413, 2426, 2432, 2507, 2513, 2526, 2532, 
-possuindo cada unidade as seguintes áreas construídas: 
-área total construída de 43,39428400 metros quadrados,
-sendo a área privativa de 28,99000000 metros quadrados
-e a área comum de 14,40428400 metros quadrados.
-Fração ideal nas partes comuns do subcondomínio: 0,00098769;
-Fração ideal de solo e partes comuns no condomínio: 0,00085234;
-Quota de terreno: 2,75404700 metros quadrados.
-Area comum descoberta: 1,29203800 metros quadrados.
 APARTAMENTO TIPO 22: 30 unidades, 
 correspondentes aos apartamentos nº 1814, 1833, 1914, 1933, 2014, 2033, 2114, 2133, 2214, 2233, 2314, 2333, 2414, 2433, 2506, 2514, 2525, 2533, 2606, 2614, 2625, 2633, 2706, 2714, 2725, 2733, 2806, 2814, 2825, 2833, 
 possuindo cada unidade as seguintes áreas construídas: 
@@ -14072,8 +5392,78 @@ Fração ideal nas partes comuns do subcondomínio: 0,00184932;
 Fração ideal de solo e partes comuns no condomínio: 0,00159589;
 Quota de terreno: 5,15657600 metros quadrados.
 Area comum descoberta: 2,41916400 metros quadrados.
-APARTAMENTO TIPO 3: 124 unidades, 
-correspondentes aos apartamentos nº 304, 305, 317, 318, 323, 324, 336, 337, 404, 405, 417, 418, 423, 424, 436, 437, 504, 505, 517, 518, 523, 524, 536, 537, 602, 604, 605, 617, 618, 621, 623, 624, 636, 637, 702, 704, 705, 717, 718, 721, 723, 724, 736, 737, 802, 804, 805, 817, 818, 821, 823, 824, 836, 837, 902, 904, 905, 917, 918, 921, 923, 924, 936, 937, 1002, 1004, 1005, 1017, 1018, 1021, 1023, 1024, 1036, 1037, 1104, 1105, 1115, 1116, 1123, 1124, 1134, 1135, 1204, 1205, 1215, 1216, 1223, 1224, 1234, 1235, 1304, 1305, 1315, 1316, 1323, 1324, 1334, 1335, 1404, 1405, 1415, 1416, 1423, 1424, 1434, 1435, 1502, 1515, 1516, 1521, 1534, 1535, 1602, 1615, 1616, 1621, 1634, 1635, 1702, 1715, 1716, 1721, 1734, 1735, 
+KITINETE TIPO 1: 22 unidades, 
+correspondentes aos kitinetes nº 301, 319, 401, 419, 501, 519, 619, 719, 819, 919, 1019, 1101, 1119, 1201, 1219, 1301, 1319, 1401, 1419, 1519, 1619, 1719, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 42,70677000 metros quadrados,
+sendo a área privativa de 28,60000000 metros quadrados
+e a área comum de 14,10677000 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00096730;
+Fração ideal de solo e partes comuns no condomínio: 0,00083474;
+Quota de terreno: 2,69717800 metros quadrados.
+Area comum descoberta: 1,26535800 metros quadrados.
+KITINETE TIPO 10: 10 unidades, 
+correspondentes aos kitinetes nº 310, 329, 410, 429, 510, 529, 1510, 1529, 1610, 1629, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 36,96180900 metros quadrados,
+sendo a área privativa de 24,73000000 metros quadrados
+e a área comum de 12,23180900 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00083873;
+Fração ideal de solo e partes comuns no condomínio: 0,00072379;
+Quota de terreno: 2,33868100 metros quadrados.
+Area comum descoberta: 1,09717200 metros quadrados.
+KITINETE TIPO 11: 28 unidades, 
+correspondentes aos kitinetes nº 311, 312, 330, 331, 411, 412, 430, 431, 511, 512, 530, 531, 612, 631, 712, 731, 812, 831, 2112, 2131, 2212, 2231, 2312, 2331, 2412, 2431, 2512, 2531, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 36,30009800 metros quadrados,
+sendo a área privativa de 24,28000000 metros quadrados
+e a área comum de 12,02009800 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00082421;
+Fração ideal de solo e partes comuns no condomínio: 0,00071126;
+Quota de terreno: 2,29819500 metros quadrados.
+Area comum descoberta: 1,07817900 metros quadrados.
+KITINETE TIPO 14: 28 unidades, 
+correspondentes aos kitinetes nº 908, 927, 1008, 1027, 1108, 1127, 1208, 1227, 1308, 1327, 1408, 1427, 1508, 1509, 1527, 1528, 1608, 1609, 1627, 1628, 1708, 1727, 1808, 1827, 1908, 1927, 2008, 2027, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 37,92966000 metros quadrados,
+sendo a área privativa de 25,37000000 metros quadrados
+e a área comum de 12,55966000 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00086121;
+Fração ideal de solo e partes comuns no condomínio: 0,00074319;
+Quota de terreno: 2,40136600 metros quadrados.
+Area comum descoberta: 1,12658000 metros quadrados.
+KITINETE TIPO 17: 28 unidades, 
+correspondentes aos kitinetes nº 912, 931, 1012, 1031, 1112, 1131, 1212, 1231, 1312, 1331, 1412, 1431, 1511, 1512, 1530, 1531, 1611, 1612, 1630, 1631, 1712, 1731, 1812, 1831, 1912, 1931, 2012, 2031, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 36,53518000 metros quadrados,
+sendo a área privativa de 24,45000000 metros quadrados
+e a área comum de 12,08518000 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00082867;
+Fração ideal de solo e partes comuns no condomínio: 0,00071511;
+Quota de terreno: 2,31063500 metros quadrados.
+Area comum descoberta: 1,08401500 metros quadrados.
+KITINETE TIPO 2: 116 unidades, 
+correspondentes aos kitinetes nº 302, 303, 315, 316, 321, 322, 334, 335, 402, 403, 415, 416, 421, 422, 434, 435, 502, 503, 515, 516, 521, 522, 534, 535, 603, 615, 616, 622, 634, 635, 703, 715, 716, 722, 734, 735, 803, 815, 816, 822, 834, 835, 903, 915, 916, 922, 934, 935, 1003, 1015, 1016, 1022, 1034, 1035, 1102, 1103, 1117, 1118, 1121, 1122, 1136, 1137, 1202, 1203, 1217, 1218, 1221, 1222, 1236, 1237, 1302, 1303, 1317, 1318, 1321, 1322, 1336, 1337, 1402, 1403, 1417, 1418, 1421, 1422, 1436, 1437, 1503, 1504, 1505, 1517, 1518, 1522, 1523, 1524, 1536, 1537, 1603, 1604, 1605, 1617, 1618, 1622, 1623, 1624, 1636, 1637, 1703, 1704, 1705, 1717, 1718, 1722, 1723, 1724, 1736, 1737, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 38,27378400 metros quadrados,
+sendo a área privativa de 25,68000000 metros quadrados
+e a área comum de 12,59378400 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00086355;
+Fração ideal de solo e partes comuns no condomínio: 0,00074521;
+Quota de terreno: 2,40789300 metros quadrados.
+Area comum descoberta: 1,12964200 metros quadrados.
+KITINETE TIPO 21: 32 unidades, 
+correspondentes aos kitinetes nº 1807, 1813, 1826, 1832, 1907, 1913, 1926, 1932, 2007, 2013, 2026, 2032, 2107, 2113, 2126, 2132, 2207, 2213, 2226, 2232, 2307, 2313, 2326, 2332, 2407, 2413, 2426, 2432, 2507, 2513, 2526, 2532, 
+possuindo cada unidade as seguintes áreas construídas: 
+área total construída de 43,39428400 metros quadrados,
+sendo a área privativa de 28,99000000 metros quadrados
+e a área comum de 14,40428400 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,00098769;
+Fração ideal de solo e partes comuns no condomínio: 0,00085234;
+Quota de terreno: 2,75404700 metros quadrados.
+Area comum descoberta: 1,29203800 metros quadrados.
+KITINETE TIPO 3: 124 unidades, 
+correspondentes aos kitinetes nº 304, 305, 317, 318, 323, 324, 336, 337, 404, 405, 417, 418, 423, 424, 436, 437, 504, 505, 517, 518, 523, 524, 536, 537, 602, 604, 605, 617, 618, 621, 623, 624, 636, 637, 702, 704, 705, 717, 718, 721, 723, 724, 736, 737, 802, 804, 805, 817, 818, 821, 823, 824, 836, 837, 902, 904, 905, 917, 918, 921, 923, 924, 936, 937, 1002, 1004, 1005, 1017, 1018, 1021, 1023, 1024, 1036, 1037, 1104, 1105, 1115, 1116, 1123, 1124, 1134, 1135, 1204, 1205, 1215, 1216, 1223, 1224, 1234, 1235, 1304, 1305, 1315, 1316, 1323, 1324, 1334, 1335, 1404, 1405, 1415, 1416, 1423, 1424, 1434, 1435, 1502, 1515, 1516, 1521, 1534, 1535, 1602, 1615, 1616, 1621, 1634, 1635, 1702, 1715, 1716, 1721, 1734, 1735, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 37,95426800 metros quadrados,
 sendo a área privativa de 25,45000000 metros quadrados
@@ -14082,8 +5472,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00085741;
 Fração ideal de solo e partes comuns no condomínio: 0,00073991;
 Quota de terreno: 2,39076800 metros quadrados.
 Area comum descoberta: 1,12160800 metros quadrados.
-APARTAMENTO TIPO 4: 60 unidades, 
-correspondentes aos apartamentos nº 306, 314, 325, 333, 406, 414, 425, 433, 506, 514, 525, 533, 606, 614, 625, 633, 706, 714, 725, 733, 806, 814, 825, 833, 906, 914, 925, 933, 1006, 1014, 1025, 1033, 1106, 1114, 1125, 1133, 1206, 1214, 1225, 1233, 1306, 1314, 1325, 1333, 1406, 1414, 1425, 1433, 1506, 1514, 1525, 1533, 1606, 1614, 1625, 1633, 1706, 1714, 1725, 1733, 
+KITINETE TIPO 4: 60 unidades, 
+correspondentes aos kitinetes nº 306, 314, 325, 333, 406, 414, 425, 433, 506, 514, 525, 533, 606, 614, 625, 633, 706, 714, 725, 733, 806, 814, 825, 833, 906, 914, 925, 933, 1006, 1014, 1025, 1033, 1106, 1114, 1125, 1133, 1206, 1214, 1225, 1233, 1306, 1314, 1325, 1333, 1406, 1414, 1425, 1433, 1506, 1514, 1525, 1533, 1606, 1614, 1625, 1633, 1706, 1714, 1725, 1733, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 37,56384900 metros quadrados,
 sendo a área privativa de 25,21000000 metros quadrados
@@ -14092,8 +5482,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00084709;
 Fração ideal de solo e partes comuns no condomínio: 0,00073101;
 Quota de terreno: 2,36201000 metros quadrados.
 Area comum descoberta: 1,10811700 metros quadrados.
-APARTAMENTO TIPO 5: 22 unidades, 
-correspondentes aos apartamentos nº 320, 338, 420, 438, 520, 538, 638, 738, 838, 938, 1038, 1120, 1138, 1220, 1238, 1320, 1338, 1420, 1438, 1538, 1638, 1738, 
+KITINETE TIPO 5: 22 unidades, 
+correspondentes aos kitinetes nº 320, 338, 420, 438, 520, 538, 638, 738, 838, 938, 1038, 1120, 1138, 1220, 1238, 1320, 1338, 1420, 1438, 1538, 1638, 1738, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 42,85906800 metros quadrados,
 sendo a área privativa de 28,71000000 metros quadrados
@@ -14102,8 +5492,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00097019;
 Fração ideal de solo e partes comuns no condomínio: 0,00083724;
 Quota de terreno: 2,70525600 metros quadrados.
 Area comum descoberta: 1,26914800 metros quadrados.
-APARTAMENTO TIPO 6: 8 unidades, 
-correspondentes aos apartamentos nº 601, 701, 801, 901, 1001, 1501, 1601, 1701, 
+KITINETE TIPO 6: 8 unidades, 
+correspondentes aos kitinetes nº 601, 701, 801, 901, 1001, 1501, 1601, 1701, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 42,37201800 metros quadrados,
 sendo a área privativa de 28,36000000 metros quadrados
@@ -14112,8 +5502,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00096079;
 Fração ideal de solo e partes comuns no condomínio: 0,00082913;
 Quota de terreno: 2,67905200 metros quadrados.
 Area comum descoberta: 1,25685400 metros quadrados.
-APARTAMENTO TIPO 7: 8 unidades, 
-correspondentes aos apartamentos nº 620, 720, 820, 920, 1020, 1520, 1620, 1720, 
+KITINETE TIPO 7: 8 unidades, 
+correspondentes aos kitinetes nº 620, 720, 820, 920, 1020, 1520, 1620, 1720, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 42,53955300 metros quadrados,
 sendo a área privativa de 28,48000000 metros quadrados
@@ -14122,8 +5512,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00096405;
 Fração ideal de solo e partes comuns no condomínio: 0,00083194;
 Quota de terreno: 2,68813100 metros quadrados.
 Area comum descoberta: 1,26111400 metros quadrados.
-APARTAMENTO TIPO 8: 60 unidades, 
-correspondentes aos apartamentos nº 307, 313, 326, 332, 407, 413, 426, 432, 507, 513, 526, 532, 607, 613, 626, 632, 707, 713, 726, 732, 807, 813, 826, 832, 907, 913, 926, 932, 1007, 1013, 1026, 1032, 1107, 1113, 1126, 1132, 1207, 1213, 1226, 1232, 1307, 1313, 1326, 1332, 1407, 1413, 1426, 1432, 1507, 1513, 1526, 1532, 1607, 1613, 1626, 1632, 1707, 1713, 1726, 1732, 
+KITINETE TIPO 8: 60 unidades, 
+correspondentes aos kitinetes nº 307, 313, 326, 332, 407, 413, 426, 432, 507, 513, 526, 532, 607, 613, 626, 632, 707, 713, 726, 732, 807, 813, 826, 832, 907, 913, 926, 932, 1007, 1013, 1026, 1032, 1107, 1113, 1126, 1132, 1207, 1213, 1226, 1232, 1307, 1313, 1326, 1332, 1407, 1413, 1426, 1432, 1507, 1513, 1526, 1532, 1607, 1613, 1626, 1632, 1707, 1713, 1726, 1732, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 43,30286500 metros quadrados,
 sendo a área privativa de 28,93000000 metros quadrados
@@ -14132,8 +5522,8 @@ Fração ideal nas partes comuns do subcondomínio: 0,00098554;
 Fração ideal de solo e partes comuns no condomínio: 0,00085048;
 Quota de terreno: 2,74803700 metros quadrados.
 Area comum descoberta: 1,28921900 metros quadrados.
-APARTAMENTO TIPO 9: 28 unidades, 
-correspondentes aos apartamentos nº 308, 309, 327, 328, 408, 409, 427, 428, 508, 509, 527, 528, 608, 627, 708, 727, 808, 827, 2108, 2127, 2208, 2227, 2308, 2327, 2408, 2427, 2508, 2527, 
+KITINETE TIPO 9: 28 unidades, 
+correspondentes aos kitinetes nº 308, 309, 327, 328, 408, 409, 427, 428, 508, 509, 527, 528, 608, 627, 708, 727, 808, 827, 2108, 2127, 2208, 2227, 2308, 2327, 2408, 2427, 2508, 2527, 
 possuindo cada unidade as seguintes áreas construídas: 
 área total construída de 38,19313800 metros quadrados,
 sendo a área privativa de 25,56000000 metros quadrados
