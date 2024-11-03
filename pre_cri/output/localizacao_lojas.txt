@@ -1,1 +1,1 @@
-As lojas, num total de 8 unidades autônomas, são as Lojas nº 01, 02, 03, 04, 05, 06, 07, 08. Destas, as Lojas nº 03, 04, 05, 06 estão no térreo   e as Lojas nº 01, 02, 07, 08 estão no térreo e mezanino.
+As lojas, num total de 8 unidades autônomas, são as Lojas nº 03, 04, 05, 06, 01, 02, 07, 08. Destas, as Lojas nº 03, 04, 05, 06 estão no térreo   e as Lojas nº 01, 02, 07, 08 estão no térreo e mezanino.

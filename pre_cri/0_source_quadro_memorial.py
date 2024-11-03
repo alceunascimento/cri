@@ -10,6 +10,7 @@ scripts = [
     "8_cria_pavimentos.py",
     "9_cria_memorial2.py",
     "9_md_to_docx.py",
+    "9_cria_edificio.py",
     "10_criar_quadro00.py",
     "10_criar_quadro01.py",
     "10_criar_quadro02.py",
