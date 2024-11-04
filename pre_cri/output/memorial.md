@@ -8,7 +8,7 @@ IPBL CARLOS DE CARVALHO INCORPORAÇÃO DE IMÓVEIS SPE LTDA, pessoa jurídica de
 Willian Matheus Bernsdorf, Engenheiro Civil CREA 139.621-D/PR
 
 ## Responsável técnico pelo cálculo áreas NBR 12.721
-Ana Lucia Bajerski, Engenheira Civil CREA 24.075-D/PR
+Luiz Augusto Brenner Rose, Engenheiro Civil CREA 21.070-D/PR
 
 ## Matrícula
 Matrícula nº 70.290 do Registro Geral de Imóveis do 1º Serviço de Registro de Imóveis da Comarca de Curitiba, Paraná.

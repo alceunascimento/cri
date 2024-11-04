@@ -154,7 +154,7 @@ responsavel_tecnico_construcao = (
 )
 
 responsavel_tecnico_nbr = (
-    "Ana Lucia Bajerski, Engenheira Civil CREA 24.075-D/PR"
+    "Luiz Augusto Brenner Rose, Engenheiro Civil CREA 21.070-D/PR"
 )
 
 matricula = (
