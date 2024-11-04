@@ -357,10 +357,12 @@ class MemorialGenerator:
         estacionamento_content = os.linesep + (os.linesep + os.linesep).join(desc for _, desc in grouped_descriptions['SUBCONDOMINIO ESTACIONAMENTO'])
 
         # Read external files
-        localizacao_residencial = self._read_external_file('./pre_cri/output/localizacao_apartamentos.txt')
+        localizacao_residencial_1 = self._read_external_file('./pre_cri/output/localizacao_apartamentos.txt')
+        localizacao_residencial_2 = self._read_external_file('./pre_cri/output/localizacao_kitinetes.txt')
         localizacao_estacionamento = self._read_external_file('./pre_cri/output/localizacao_vagas.txt')
         localizacao_galeria = self._read_external_file('./pre_cri/output/localizacao_lojas.txt')
-        tipos_residencial = self._read_external_file('./pre_cri/output/tipos_apartamentos.txt')
+        tipos_residencial_1 = self._read_external_file('./pre_cri/output/tipos_apartamentos.txt')
+        tipos_residencial_2 = self._read_external_file('./pre_cri/output/tipos_kitinetes.txt')
         tipos_estacionamento = self._read_external_file('./pre_cri/output/tipos_vagas.txt')
         tipos_galeria = self._read_external_file('./pre_cri/output/tipos_lojas.txt')
 
@@ -419,7 +421,10 @@ São partes de propriedade exclusiva as seguintes unidades autônomas, agrupadas
 
 # LOCALIZAÇÃO DAS UNIDADES AUTÔNMAS
 ## SUBCONDOMINIO RESIDENCIAL
-{localizacao_residencial}
+Segue a localização dos apartamentos:
+{localizacao_residencial_1}
+Segue a localização das kitinetes:
+{localizacao_residencial_2}
 
 ## SUBCONDOMINIO ESTACIONAMENTO
 {localizacao_estacionamento}
@@ -429,7 +434,10 @@ São partes de propriedade exclusiva as seguintes unidades autônomas, agrupadas
 
 # TIPOLOGIA DAS UNIDADES AUTÔNMAS
 ## SUBCONDOMINIO RESIDENCIAL
-{tipos_residencial}
+Segue a tipologia dos apartamentos:
+{tipos_residencial_1}
+Segue a tipologia das kitinetes:
+{tipos_residencial_2}
 
 ## SUBCONDOMINIO ESTACIONAMENTO
 {tipos_estacionamento}

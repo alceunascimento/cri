@@ -11,7 +11,7 @@ root = ET.Element('RegistroImoveis')
 # Adicionar o cabeçalho ao XML
 header = ET.SubElement(root, 'Header')
 ET.SubElement(header, 'Titulo').text = 'INFORMAÇÕES PARA ARQUIVO NO REGISTRO DE IMÓVEIS'
-ET.SubElement(header, 'Matricula').text = '00.000'
+ET.SubElement(header, 'Matricula').text = '70.290'
 ET.SubElement(header, 'ServicoRegistroImoveis').text = '1'
 
 # Listar todas as tabelas no banco de dados
