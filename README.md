@@ -106,7 +106,7 @@ Em resumo, o documento precisa ter:
 
 
 Estes dados estarão no `memorial descritivo` contendo a descrição de cada unidade autônoma.
-Todos os dados para a confecçaõ do `memorial descritivo` estão na tabela `cri` do banco de dados.
+Todos os dados para a confecção do `memorial descritivo` estão na tabela `cri` do banco de dados.
 O `memorial descritivo` será gerado pelo CRI, a partir dos dados do banco de dados.
 A apresentação de um documento específico `memorial descritivo` iriá minar o esforço de racionalização.
 
@@ -139,7 +139,7 @@ Referencia: { “nome do quadro de áreas” ; “coluna no quadro de áreas” 
 
 Texto para validar:
 
-{unidade_especie} {unidade_id}: possuindo esta unidade as seguintes áreas construídas: área privativa de {quadro resumo_04B; coluna A) metros quadrados, área comum de {quadro_areas_04B; coluna_E} metros quadrados, perfazendo a área construída de {quadro_areas_04B; coluna_F} metros quadrados; cabendo-lhe, a fração ideal de solo e partes comuns de {quadro_areas_04B; coluna_G} e quota de terreno de {quadro_areas_resumo; coluna_quota_de_terreno}  metros quadrados. Localização: localiza-se no {sem referencia no quadro; referencia no projeto}, sendo que para quem entra na unidade, confronta pela frente com {confrontacao_frente}, pelo lado direito com {confrontacao_direita}, pelo lado esquerdo com {confrontacao_esquerda} e pelo fundo {confrontacao_fundos}.
+{cri.unidade_especie} {cri.unidade_id}: possuindo esta unidade as seguintes áreas construídas: área privativa de {quadro resumo_04B; coluna A) metros quadrados, área comum de {quadro_areas_04B; coluna_E} metros quadrados, perfazendo a área construída de {quadro_areas_04B; coluna_F} metros quadrados; cabendo-lhe, a fração ideal de solo e partes comuns de {quadro_areas_04B; coluna_G} e quota de terreno de {quadro_areas_resumo; coluna_quota_de_terreno}  metros quadrados. Localização: localiza-se no {quadro_areas_05}, sendo que para quem entra na unidade, confronta pela frente com {cri.confrontacao_frente}, pelo lado direito com {cri.confrontacao_direita}, pelo lado esquerdo com {cri.confrontacao_esquerda} e pelo fundo {confrontacao_fundos}.
 
 
 
