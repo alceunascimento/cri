@@ -180,6 +180,8 @@ A mudança mais radical é que a geração do quadro de áreas e do memorial de 
 >[!NOTE]
 > A prerrogativa legal da ABNT sobre a produção dos documentos técnicos (art. 53, Lei 4591/64) é limitada à critérios de apuração e modelos, a estética dos quadros é apenas um elemento facilitador presente como anexo na NBR.
 
+>[!IMPORTANT]
+> A apresentação dos documentos em `.xml` não significa que os documentos são "extratos" como adotado em alguns instrumentos já utilizados pelo ONR. Neste caso, o `.xml` contém a integridade dos dados, não há qualquer supressão de dados. A mudança é apenas no padrão tecnlógico de transmissão dos dados. Deixa de utilizar um formato em que os dados não são estruturados (`.pdf`) para um formato que os dados são semi-estruturados (`.xml`). É uma mudança estética e funcional que, inclusive, premite reconstituir a estética padrão dos `.pdf` em uma fase de pós-processamento. Além disto, não há qualquer vedação legal à confecção de instrumentos em formato `.xml` ou qualquer norma que afaste a validade legal de instrumentos confecionados neste formato.
 
 ## Procedimento do Registrador
 
