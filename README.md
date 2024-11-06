@@ -207,4 +207,23 @@ Rodar:
 
 * Ao final, os documentos de apoio serão gerados nas pastas do `Colab_cri`
 
+
+## Grupo de trabalho:
+
+- Concene
+    - Alceu Eilert Nascimento
+
+- 1º Serviço de Registro de Imóveis de Curitiba
+    - Luis Flávio Fidelis Gonçalves
+    - Tayrini Vitali Felisberto Frol
+    - Mactus Informática LTDA
+
+- Incorporador
+    - InvesPark
+    - Michelle Beber
+    - Luiz Augusto Brenner Rose
+    - Cristiane Bajerski 
+    - Dr.ª Vanessa Ponciano
+    - Dr.ª Adriana Meneghin
+
 ## Referências
