@@ -194,11 +194,15 @@ Rodar:
 * Abrir o `colab_cri.ipynb` com a opção "Google Colaboratory"
 ![imagem1](./images/image1.png)
 
-*  o `0_carregar_xml_to_db.py` para gerar um `base_cri.db` na raiz e um `log_leitura_xml.txt`.
-* o `/alvara/main.py` para obter o `{numero do alvara}.json` com o alvará de construção direto da prefeitura;
-* o `1_validar_incorporacao.py` para ler o `base_cri.db` e fazer as verificações gerando um `validacao.txt`;
-* o `2_gerar_memorial_incorporacao.py` para ler o `base_cri.db` e gerar o memorial de incorporação em fomato `.html`;
-* o `3_criar_xlsx.py` para gerar os Quadros de Área NBR em formato `.xlsx` e o `3_ajustar_xlsx.py` para ajustes de formatação;
+* Executar primeiro os itens "Instaçaões base" e "Monta o GoogleDrive para uso":
+    - Este primeiro passo é necessário para instalar e carregar os requisitos na máquina virtual;
+    - Ao executar o "Monta o GoogleDrive para uso" é preciso autorizar o acesso ao GoogleDrive;
 
+![imagem2](./images/image2.png)
+
+* Executadas as opções acima, basta executar o resto do código;
+![imagem3](./images/image3.png)
+
+* Ao final, os documentos de apoio serão gerados nas pastas do `Colab_cri`
 
 ## Referências
