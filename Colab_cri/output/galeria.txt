@@ -1,0 +1,111 @@
+LOJA 01:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 434,35457400 metros quadrados,
+sendo a área privativa de 423,54000000 metros quadrados
+e a área comum de 10,81457400 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,20797338;
+Fração ideal de solo e partes comuns no condomínio: 0,00895419;
+Quota de terreno: 28,93242100 metros quadrados.
+Localização: térreo e mezanino, sendo que para quem entra na unidade,
+confronta pela frente com loja  2,
+pelo lado direito com hall residencial,
+pelo lado esquerdo com alinhamento predial da Rua Visconde de Nacar
+e pelo fundo com galeria comercial.
+
+LOJA 02:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 357,66516700 metros quadrados,
+sendo a área privativa de 348,76000000 metros quadrados
+e a área comum de 8,90516700 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,17125388;
+Fração ideal de solo e partes comuns no condomínio: 0,00737325;
+Quota de terreno: 23,82415000 metros quadrados.
+Localização: térreo e mezanino, sendo que para quem entra na unidade,
+confronta pela frente com loja 1,
+pelo lado direito com alinhamento predial da Rua Visconde de Nacar,
+pelo lado esquerdo com hall residencial e depósito de encomendas 
+e pelo fundo com galeria comercial.
+
+LOJA 03:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 68,97739600 metros quadrados,
+sendo a área privativa de 67,26000000 metros quadrados
+e a área comum de 1,71739600 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,03302698;
+Fração ideal de solo e partes comuns no condomínio: 0,00142196;
+Quota de terreno: 4,59458000 metros quadrados.
+Localização: térreo  , sendo que para quem entra na unidade,
+confronta pela frente com rampa/eclusa serviço,
+pelo lado direito com galeria comercial,
+pelo lado esquerdo com hall residencial e loja 4
+e pelo fundo com galeria comercial.
+
+LOJA 04:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 27,78171200 metros quadrados,
+sendo a área privativa de 27,09000000 metros quadrados
+e a área comum de 0,69171200 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,01330221;
+Fração ideal de solo e partes comuns no condomínio: 0,00057272;
+Quota de terreno: 1,85055000 metros quadrados.
+Localização: térreo  , sendo que para quem entra na unidade,
+confronta pela frente com hall residencial,
+pelo lado direito com loja 3,
+pelo lado esquerdo com loja 5
+e pelo fundo com galeria comercial.
+
+LOJA 05:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 39,15488500 metros quadrados,
+sendo a área privativa de 38,18000000 metros quadrados
+e a área comum de 0,97488500 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,01874787;
+Fração ideal de solo e partes comuns no condomínio: 0,00080718;
+Quota de terreno: 2,60812800 metros quadrados.
+Localização: térreo  , sendo que para quem entra na unidade,
+confronta pela frente com hall residencial,
+pelo lado direito com loja 4,
+pelo lado esquerdo com loja 6
+e pelo fundo com galeria comercial.
+
+LOJA 06:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 29,46358600 metros quadrados,
+sendo a área privativa de 28,73000000 metros quadrados
+e a área comum de 0,73358600 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,01410747;
+Fração ideal de solo e partes comuns no condomínio: 0,00060739;
+Quota de terreno: 1,96257400 metros quadrados.
+Localização: térreo  , sendo que para quem entra na unidade,
+confronta pela frente com hall residencial,
+pelo lado direito com loja 5,
+pelo lado esquerdo com área técnica e jardim da galeria comercial
+e pelo fundo com galeria comercial.
+
+LOJA 07:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 537,18484700 metros quadrados,
+sendo a área privativa de 523,81000000 metros quadrados
+e a área comum de 13,37484700 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,25720958;
+Fração ideal de solo e partes comuns no condomínio: 0,01107403;
+Quota de terreno: 35,78196300 metros quadrados.
+Localização: térreo e mezanino, sendo que para quem entra na unidade,
+confronta pela frente com saída de veículos,
+pelo lado direito com galeria comercial, antecâmara, escada de emergência e loja 8,
+pelo lado esquerdo com jardim, duto, lixeiras e alinhamento predial com a Rua Cruz Machado
+e pelo fundo com galeria comercial.
+
+LOJA 08:
+Subcondomínio: GALERIA.
+Áreas construídas: área total construída de 593,92763200 metros quadrados,
+sendo a área privativa de 579,14000000 metros quadrados
+e a área comum de 14,78763200 metros quadrados.
+Fração ideal nas partes comuns do subcondomínio: 0,28437864;
+Fração ideal de solo e partes comuns no condomínio: 0,01224378;
+Quota de terreno: 39,56161200 metros quadrados.
+Localização: térreo e mezanino, sendo que para quem entra na unidade,
+confronta pela frente com rampa de veículos e divisa do imóvel com os lotes 11-109-022.000-3 e 11-109-025.000-2,
+pelo lado direito com rampa de veículos e divisa do imóvel com o lote 11-109-026.000-5,
+pelo lado esquerdo com galeria comercial, antecâmara, escada de emergência e loja 7
+e pelo fundo com galeria comercial.

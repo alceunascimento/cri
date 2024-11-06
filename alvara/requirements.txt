@@ -1,5 +1,0 @@
-selenium=4.25.0
-pandas
-beautifulsoup4
-html5lib
-customtkinter

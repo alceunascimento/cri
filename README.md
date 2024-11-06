@@ -150,7 +150,6 @@ A implementação se dará por dois agentes:
 - O incorporador produzirá um banco de dados em `SQLite` com:
     - todos os Quadro de Áreas da ABNT NBR;
     - os dados do alvará de construção;
-    - os dados da matrícula do imóvel;
     - os dados para formação do indicador real de cada unidade autônoma da incorporação imobiliária;
 - O incorporador emitirá um `.xml` do banco de dados e assinará usando o assinador SERPRO para `.xml`;
 - O incorporadora fará o protocolo do `.xml` no CRI em conjunto com os demais documentos da incorporação que ainda são físicos;
@@ -158,45 +157,44 @@ A implementação se dará por dois agentes:
 
 ### Pelo registrador:
 
-- O registrador executará um código de computador (`python`) que irá:
+- O registrador executará um código de computador (`python`) embarcado em um juptyer notebook (`.ipynb`) numa máquina virtual (Google Colaboratory) que irá:
     - carregar o `.xml` e recriar um banco de dados `SQlite` (`.db`);
         - (emitirá uma saída de log e verificação de erros em `.txt`);
-    - obter os dados do alvará de construção direto na prefeitura;
-        - (o alvará será salvo em formato `.json`);
     - analisar os dados e responder uma série de perguntar pré-definidas pelo registrador 
         - (saída em `.txt` e arquivo `.xlsx`);
-    - criar uma planilha de Excel (`.xlsx`) contendo os Quadros de Área ABNT NBR
-        - (no formato tradicional);
-    - criar uma arquivo em `.html` contendo o memorial descritivo de cada uma das unidades autônomas;
-        - (adotará o formato ONR para "extrato de xml")
-- O registrador, após validar a incorporação, poderá utilizar o `.xml` para popular o livro do Indicador Real, atraves do seu ERP;
+    - criar uma planilha de Excel (`.xlsx`) de apoio para qualificação;
+        - (no formato tradicional Excel);
+    - criar diversos arquivos em `.html` contendo os Quadros de Área ABNT NBR;
+        - (o formato HTML pode ser convertido para PDF para emissão de certidões)
+    - criar um arquivo em `.md` que é convertido em `.docx` contendo memorial descritivo de cada uma das unidades autônomas;
+        - (a formatação da saída em `.docx` é de livre escolha do registrador, com base nos parametros de estilo do arquivo `reference.docx`)
 
-> Notas: as últimas duas saídas (`.xlsx` e `.html`) servem apenas para o registrador ter um formato capaz de emitir de certidões para leitura humana. O .html poderá ser convertido em PDF diretamente pelas ferramentas padrão do Windows, caso necessário.
-
-A mudança mais radical é que a geração do quadro de áreas e do memorial de incorporação num formato de leitura humana será feito pelo registrador e não entregue pelo incorporador. Se fossem protocolados os dois formatos (`.xml` e `.pdf`) não haveria ganho de eficiência, pois o CRI teria que conferir se os dois instrumentos são idênticos. Não se está deixando de apresentar o quadro de áreas e o memorial descritivo, mas sim apresentando num formato ("layout") de leitura por máquinas. No longo prazo, a ABNT terá que desenvolver um schema de `.xml` para este formato.
-
-
-## Instruções
-
-A planilha base de apoio à confecção dos quadro de áreas da NBR (`base_real.xlsx`) devem ser ajustados:
-
-* Copiar e colar os dados em uma nova aba chamada `ajuste`;
-* Excluir formatação;
+- O registrador utilizará os arquivos acima para auxiliar na validação da incorporação.
+- O registrador utilizará o `.xml` para popular o livro do Indicador Real, atravé de uma rotina de processamento do seu ERP próprio.
 
 >[!NOTE]
-> A planilha vem com vínculos que quebram os dados com mais de 3 linhas. Verificar integridade !
+> A opção de usar o Google Colaboratory foi para simplificar o procedimento. Permite a execução em qualquer máquina e evita a necessidade de preparação e instalação de componentes em cada máquina. Basta o registrador carregar no GoogleDrive o `.xml` e o jupyter notebook `.ipynb` em uma pasta `Colab_cri` e será produzida a saída em aprox. 2 minutos. O tempo de execução do script é bem menor, mas há uma espera de 60 segundos após a reconstituição do banco de dados para evitar erros de leitura.
+
+A mudança mais radical é que a geração do quadro de áreas e do memorial de incorporação num formato de leitura humana será feito pelo registrador e não entregue pelo incorporador. Se fossem protocolados os dois formatos (`.xml` e `.pdf`) não haveria ganho de eficiência, pois o CRI teria que conferir se os dois instrumentos são idênticos. Não se está deixando de apresentar o quadro de áreas e o memorial descritivo em sua forma completa e exigida pela norma técnica, mas sim apresentando num formato ("layout") de leitura por máquinas. No longo prazo, a ABNT poderá que desenvolver um schema de `.xml` para este formato.
+
+>[!NOTE]
+> A prerrogativa legal da ABNT sobre a produção dos documentos técnicos (art. 53, Lei 4591/64) é limitada à critérios de apuração e modelos, a estética dos quadros é apenas um elemento facilitador presente como anexo na NBR.
 
 
-## Script do Incorporador
-
-Rodar o `0_source.py` no `pre_cri` que ele irá gerar as saídas.
-A saída mais importante é o `titulo_cri.xml` que servirá de instrumento de acesso ao registro de imóveis.
-
-
-## Script do Registrador
+## Procedimento do Registrador
 
 Rodar:
-* o `0_carregar_xml_to_db.py` para gerar um `base_cri.db` na raiz e um `log_leitura_xml.txt`.
+* Ter uma conta no Google;
+* Criar uma pasta `Colab_cri` na raiz do GoogleDrive;
+* Salvar na pasta `Colab_cri`:
+    - `colab_cri.ipynb`
+    - `.xml`
+    - `reference.docx`
+    - uma pasta `output`
+* Abrir o `colab_cri.ipynb` com a opção "Google Colaboratory"
+![imagem1](./images/image1.png)
+
+*  o `0_carregar_xml_to_db.py` para gerar um `base_cri.db` na raiz e um `log_leitura_xml.txt`.
 * o `/alvara/main.py` para obter o `{numero do alvara}.json` com o alvará de construção direto da prefeitura;
 * o `1_validar_incorporacao.py` para ler o `base_cri.db` e fazer as verificações gerando um `validacao.txt`;
 * o `2_gerar_memorial_incorporacao.py` para ler o `base_cri.db` e gerar o memorial de incorporação em fomato `.html`;
