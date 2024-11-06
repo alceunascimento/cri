@@ -30,7 +30,7 @@ Além disto, é comum que ao registar a incorporação, os incorporadores:
 * Incluam na convenção de condomínio todos os dados do "memorial de incorporação".
 
 >[!NOTE]
-> Destacou-se o "memorial de incorporação" dado que, pela lei, não existe um instrumento chamado "memorial de incorporação". O memorial de incorporação é toda a biblioteca documental apresentada ao registro. A presença deste instrumento nos procedimentos de incorporação imobiliári foi uma criação da prática.
+> Destacou-se a expressão "memorial de incorporação" dado que, pela lei, não existe um instrumento chamado "memorial de incorporação". O memorial de incorporação é toda a biblioteca documental apresentada ao registro. A presença deste instrumento nos procedimentos de incorporação imobiliária foi uma criação da prática.
 
 Ao final, o registrador recebe uma multiplicidade de documentos redundantes, que demandam uma analise manual e demorada em busca de discrepâncias.
 
@@ -50,7 +50,7 @@ Outro ponto importante, foi a racionalização do procedimento.
 A prática do procedimento se desenvolveu com excesso de burocracia, sem previsão na legislação e na norma técnica.
 O memorial de incorporação, que é a biblioteca documental prevista na lei, passou a ser quase integralmente replicado pelo incorporador em um novo documento, chamado "Memorial de Incorporação" que agrega dados contidos no alvará, no registro imobiliário e nos Quadros de Área NBR.
 Além disto, os Quadros de Área da NBR foram incrementados com um "quadro resumo" que replicava informações de outros quadros e do alvará de construção.
-Isto implica que os mesmos dados estavam distribuídos em diversas bases, o que forçada o CRI a ter que analisar discrepâncias entre as bases de dados.
+Isto implica que os mesmos dados estão distribuídos em diversas bases, o que forçada o CRI a ter que analisar discrepâncias entre as bases de dados.
 Portanto, uma forma de racionalizar isto é deixar este legado e passar a adotar um formato em que não há duplicidade de informação, que é o formato previso na lei de incorporação imobiliária.
 
 ### Documentos exigidos pela Lei 4.591/64
@@ -210,7 +210,7 @@ Rodar:
 
 ## Grupo de trabalho:
 
-- Concene
+- Concerne
     - Alceu Eilert Nascimento
 
 - 1º Serviço de Registro de Imóveis de Curitiba
