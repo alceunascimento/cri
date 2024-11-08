@@ -87,12 +87,6 @@ Regra geral, a descriçao tabular da unidade autônoma pode ser obtida do projet
 Em alguns casos, quando há subcondomínio, é necessário também a descrição das áreas comuns conforme a atribuição delas por subcondomínio.
 Portanto, a norma exige que seja apresentado um documento que descreve as características que estão no projeto, portanto, um `memorial descritivo`, ainda que seja, comumente, chamado de "memorial de incorporação"
 
-Além disto, o instrumento é essencial para determinar a apropriação de fração ideal no solo e nas partes comuns de cada unidade autônoma.
-Esta apropriação é de livre escolha do incorporador, pelo critério que ele escolher.
-O fato de haver a apuração de uma fração ideal de solo nos Quadros de Área da NBR não implica que ela seja, obrigatóriamente, adotada.
-Contudo, a maioria dos incorporadores adota esta fração ideal, evitando uma nova apuração.
-Portanto, é necessário que a informação esteja contida neste instrumento.
-
 Em resumo, o documento precisa ter:
 * Discriminação: designação numérica ou alfabética da unidade autônoma;
 * Descrição e Caracterização: as caracteríticas observáveis da unidade autônoma;
@@ -109,13 +103,9 @@ A apresentação de um documento específico `memorial descritivo` iriá minar o
 Estes dados estarão no documento PDF "Minuta da Convenção de Condomínio".
 Não será incluída neste instrumento a repetição dos dados de alvará, memorial descritivo e quadro de áreas, como é feito via legado.
 
->[!NOTE]
-> A natureza deste documento sofreu recentes mudanças de forma a reconhecer o estado de comunhão dominial entre o incorporador e os adquirentes, regulando que a instituição do condomínio se dá com o registro de incorporação. De fato, o condomínio já existe, ainda que ordinário, a opção legal foi especificar para que esta relação seja sujeita aos termos de Lei 4591/64 e às regras da convenção arquivada no serviço de registro de imóveis. Ainda existe alguma discussão sobre o escopo e amplitude desta mudança.
 
 ### Quanto ao item p : capacidade da vaga de garagem
 Estes dados estarão no `memorial descritivo`.
-
-
 
 
 
